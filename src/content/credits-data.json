@@ -1,0 +1,340 @@
+{
+ "tatoeba": [
+  {
+   "sentenceId": 21504,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 49963,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 252284,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 274210,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 303692,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 312370,
+   "author": "CC"
+  },
+  {
+   "sentenceId": 409602,
+   "author": "CC"
+  },
+  {
+   "sentenceId": 757405,
+   "author": "sctld"
+  },
+  {
+   "sentenceId": 866345,
+   "author": "elaichi"
+  },
+  {
+   "sentenceId": 947875,
+   "author": "Swift"
+  },
+  {
+   "sentenceId": 1209471,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2007873,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2240775,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2245278,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2245641,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2245985,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2245998,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2246002,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2247657,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2247880,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2247918,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2248033,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2248274,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2248822,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2249098,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2249671,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2249747,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2250038,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2253808,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2293570,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2343188,
+   "author": "kareybh"
+  },
+  {
+   "sentenceId": 2436429,
+   "author": "Hybrid"
+  },
+  {
+   "sentenceId": 2549814,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2648759,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 2751463,
+   "author": "Hybrid"
+  },
+  {
+   "sentenceId": 2868380,
+   "author": "Amastan"
+  },
+  {
+   "sentenceId": 3041973,
+   "author": "ApAdAnA"
+  },
+  {
+   "sentenceId": 3424130,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 3507563,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 4496187,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 4496384,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 4500737,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 5278930,
+   "author": "phoonaz"
+  },
+  {
+   "sentenceId": 5839964,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 5858890,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 6008216,
+   "author": "CannedBread"
+  },
+  {
+   "sentenceId": 6575186,
+   "author": "Eccles17"
+  },
+  {
+   "sentenceId": 6703304,
+   "author": "Eccles17"
+  },
+  {
+   "sentenceId": 6849664,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 7073209,
+   "author": "azraelgnosis"
+  },
+  {
+   "sentenceId": 7724757,
+   "author": "Hybrid"
+  },
+  {
+   "sentenceId": 8036414,
+   "author": "Amastan"
+  },
+  {
+   "sentenceId": 8079052,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 8349824,
+   "author": "lucasmg123"
+  },
+  {
+   "sentenceId": 8390880,
+   "author": "Amastan"
+  },
+  {
+   "sentenceId": 8397776,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 8478374,
+   "author": "CH"
+  },
+  {
+   "sentenceId": 8610483,
+   "author": "Amastan"
+  },
+  {
+   "sentenceId": 8762785,
+   "author": "cheeseisdisgusting"
+  },
+  {
+   "sentenceId": 8850707,
+   "author": "Adelpa"
+  },
+  {
+   "sentenceId": 8916338,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 9140304,
+   "author": "sundown"
+  },
+  {
+   "sentenceId": 9161971,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 9193077,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 9457081,
+   "author": "sundown"
+  },
+  {
+   "sentenceId": 9720149,
+   "author": "ariarin"
+  },
+  {
+   "sentenceId": 9770427,
+   "author": "DJ_Saidez"
+  },
+  {
+   "sentenceId": 10107162,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 10357486,
+   "author": "shekitten"
+  },
+  {
+   "sentenceId": 10666081,
+   "author": "sundown"
+  },
+  {
+   "sentenceId": 11860035,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 11913184,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 11930685,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 12072609,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 12120623,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 12163338,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 12166265,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 12204427,
+   "author": "sundown"
+  },
+  {
+   "sentenceId": 12252720,
+   "author": "CK"
+  },
+  {
+   "sentenceId": 13184072,
+   "author": "rul"
+  },
+  {
+   "sentenceId": 13198758,
+   "author": "frpzzd"
+  },
+  {
+   "sentenceId": 13289698,
+   "author": "frpzzd"
+  },
+  {
+   "sentenceId": 13566823,
+   "author": "Adelpa"
+  },
+  {
+   "sentenceId": 13935877,
+   "author": "LeeSooHa"
+  }
+ ]
+}

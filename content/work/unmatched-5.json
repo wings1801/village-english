@@ -1,0 +1,226 @@
+[
+ {
+  "wordId": "afraid",
+  "en": "afraid",
+  "pos": "adjective",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "am",
+  "en": "am",
+  "pos": "be-verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "an",
+  "en": "an",
+  "pos": "determiner",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "angry",
+  "en": "angry",
+  "pos": "adjective",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "are",
+  "en": "are",
+  "pos": "be-verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "coke",
+  "en": "coke",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "cop",
+  "en": "cop",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "could",
+  "en": "could",
+  "pos": "modal auxiliary",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "does",
+  "en": "does",
+  "pos": "do-verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "doing",
+  "en": "doing",
+  "pos": "do-verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "elementary",
+  "en": "elementary",
+  "pos": "adjective",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "foggy",
+  "en": "foggy",
+  "pos": "adjective",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "grandpa",
+  "en": "grandpa",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "grandparent",
+  "en": "grandparent",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "had",
+  "en": "had",
+  "pos": "have-verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "has",
+  "en": "has",
+  "pos": "have-verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "hers",
+  "en": "hers",
+  "pos": "pronoun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "his",
+  "en": "his",
+  "pos": "determiner",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "its",
+  "en": "its",
+  "pos": "determiner",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "math",
+  "en": "math",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "ours",
+  "en": "ours",
+  "pos": "pronoun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "sick",
+  "en": "sick",
+  "pos": "adjective",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "smith",
+  "en": "smith",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "snowy",
+  "en": "snowy",
+  "pos": "adjective",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "surf",
+  "en": "surf",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "thank",
+  "en": "thank",
+  "pos": "verb",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "their",
+  "en": "their",
+  "pos": "determiner",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "turkey",
+  "en": "turkey",
+  "pos": "noun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "whose",
+  "en": "whose",
+  "pos": "determiner",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "would",
+  "en": "would",
+  "pos": "modal auxiliary",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "your",
+  "en": "your",
+  "pos": "determiner",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ },
+ {
+  "wordId": "yours",
+  "en": "yours",
+  "pos": "pronoun",
+  "cefr": "A1",
+  "reason": "no common JMdict entry with this exact English gloss and a kana reading"
+ }
+]

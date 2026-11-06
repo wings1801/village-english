@@ -1,0 +1,9171 @@
+{
+ "ability": [
+  {
+   "id": 11129697,
+   "en": "He's a man of ability.",
+   "author": "CK"
+  },
+  {
+   "id": 12909993,
+   "en": "He has a special ability.",
+   "author": "araneo"
+  },
+  {
+   "id": 4999840,
+   "en": "I'm confident in my ability.",
+   "author": "CK"
+  }
+ ],
+ "abroad": [
+  {
+   "id": 1446271,
+   "en": "He is abroad.",
+   "author": "gleOsp"
+  },
+  {
+   "id": 3171322,
+   "en": "Tom is abroad.",
+   "author": "CK"
+  },
+  {
+   "id": 8477127,
+   "en": "He was abroad.",
+   "author": "CH"
+  }
+ ],
+ "accept": [
+  {
+   "id": 7274413,
+   "en": "I accept you.",
+   "author": "awkwardcultism"
+  },
+  {
+   "id": 2245594,
+   "en": "I accept that.",
+   "author": "CK"
+  },
+  {
+   "id": 1728320,
+   "en": "I accept gifts.",
+   "author": "Amastan"
+  }
+ ],
+ "acceptable": [
+  {
+   "id": 2233654,
+   "en": "This is acceptable.",
+   "author": "CK"
+  },
+  {
+   "id": 2248640,
+   "en": "Is this acceptable?",
+   "author": "CK"
+  },
+  {
+   "id": 12886083,
+   "en": "Is that acceptable?",
+   "author": "Josephlingo"
+  }
+ ],
+ "accident": [
+  {
+   "id": 5756887,
+   "en": "That's no accident.",
+   "author": "CM"
+  },
+  {
+   "id": 897323,
+   "en": "I had an accident.",
+   "author": "Scott"
+  },
+  {
+   "id": 947875,
+   "en": "He had an accident.",
+   "author": "Swift"
+  }
+ ],
+ "account": [
+  {
+   "id": 38317,
+   "en": "On what account?",
+   "author": "handsomelyian"
+  },
+  {
+   "id": 324790,
+   "en": "Open an account.",
+   "author": "sundown"
+  },
+  {
+   "id": 14057875,
+   "en": "Create an account.",
+   "author": "Babelball"
+  }
+ ],
+ "achieve": [
+  {
+   "id": 10326834,
+   "en": "Achieve your dreams.",
+   "author": "Ricardo14"
+  },
+  {
+   "id": 10712780,
+   "en": "Tom can achieve that.",
+   "author": "CK"
+  },
+  {
+   "id": 3730661,
+   "en": "What will that achieve?",
+   "author": "CM"
+  }
+ ],
+ "across": [
+  {
+   "id": 69671,
+   "en": "Can you swim across?",
+   "author": "sundown"
+  },
+  {
+   "id": 2425662,
+   "en": "Go across the river!",
+   "author": "bionicboy"
+  },
+  {
+   "id": 13289698,
+   "en": "Go across the bridge.",
+   "author": "frpzzd"
+  }
+ ],
+ "act": [
+  {
+   "id": 11880813,
+   "en": "He can act.",
+   "author": "Amastan"
+  },
+  {
+   "id": 12670642,
+   "en": "We can act.",
+   "author": "Wassnen"
+  },
+  {
+   "id": 2241164,
+   "en": "We must act.",
+   "author": "CK"
+  }
+ ],
+ "actually": [
+  {
+   "id": 12386745,
+   "en": "We actually work.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 5157810,
+   "en": "I'm actually done.",
+   "author": "CK"
+  },
+  {
+   "id": 5859010,
+   "en": "I actually laughed.",
+   "author": "CK"
+  }
+ ],
+ "addition": [
+  {
+   "id": 3210935,
+   "en": "In addition, I can fly.",
+   "author": "Dreamk33"
+  },
+  {
+   "id": 10011348,
+   "en": "Let's learn addition below ten.",
+   "author": "Amastan"
+  },
+  {
+   "id": 2264184,
+   "en": "Do you need anything in addition?",
+   "author": "sharptoothed"
+  }
+ ],
+ "additional": [
+  {
+   "id": 9266178,
+   "en": "Tom needs additional time.",
+   "author": "CK"
+  },
+  {
+   "id": 9610853,
+   "en": "Additional help is needed.",
+   "author": "CK"
+  },
+  {
+   "id": 11554646,
+   "en": "Additional fees may apply.",
+   "author": "CK"
+  }
+ ],
+ "adjective": [
+  {
+   "id": 3826951,
+   "en": "This is an adjective.",
+   "author": "CK"
+  },
+  {
+   "id": 5325030,
+   "en": "That is an adjective.",
+   "author": "Amittai"
+  }
+ ],
+ "adjust": [
+  {
+   "id": 11894515,
+   "en": "I can adjust.",
+   "author": "CK"
+  },
+  {
+   "id": 434166,
+   "en": "Adjust the brakes.",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 6576974,
+   "en": "Adjust your sights.",
+   "author": "Eccles17"
+  }
+ ],
+ "admire": [
+  {
+   "id": 68937,
+   "en": "I admire you.",
+   "author": "CK"
+  },
+  {
+   "id": 2235706,
+   "en": "I admire Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 3920435,
+   "en": "I admire him.",
+   "author": "CH"
+  }
+ ],
+ "admit": [
+  {
+   "id": 2245596,
+   "en": "I admit it.",
+   "author": "CK"
+  },
+  {
+   "id": 12361548,
+   "en": "Just admit it.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 13101082,
+   "en": "Admit it, Tom.",
+   "author": "rul"
+  }
+ ],
+ "adult": [
+  {
+   "id": 13578599,
+   "en": "Be an adult.",
+   "author": "rul"
+  },
+  {
+   "id": 2247918,
+   "en": "I'm an adult.",
+   "author": "CK"
+  },
+  {
+   "id": 8477350,
+   "en": "He's an adult.",
+   "author": "CH"
+  }
+ ],
+ "advanced": [
+  {
+   "id": 12926449,
+   "en": "He advanced in the game.",
+   "author": "Conjuice"
+  },
+  {
+   "id": 262650,
+   "en": "We advanced to the finals.",
+   "author": "CK"
+  },
+  {
+   "id": 307166,
+   "en": "They advanced on the town.",
+   "author": "sundown"
+  }
+ ],
+ "advantage": [
+  {
+   "id": 4499981,
+   "en": "I had one advantage.",
+   "author": "CK"
+  },
+  {
+   "id": 2547497,
+   "en": "We have an advantage.",
+   "author": "CK"
+  },
+  {
+   "id": 2646254,
+   "en": "We have one advantage.",
+   "author": "CK"
+  }
+ ],
+ "adventure": [
+  {
+   "id": 6856847,
+   "en": "I love adventure.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 2249035,
+   "en": "It's an adventure.",
+   "author": "CK"
+  },
+  {
+   "id": 6687236,
+   "en": "What an adventure!",
+   "author": "Eccles17"
+  }
+ ],
+ "advertisement": [
+  {
+   "id": 9982337,
+   "en": "I see the advertisement.",
+   "author": "anaga27"
+  },
+  {
+   "id": 9982338,
+   "en": "I saw the advertisement.",
+   "author": "anaga27"
+  },
+  {
+   "id": 13579162,
+   "en": "That's not an advertisement.",
+   "author": "rul"
+  }
+ ],
+ "advertising": [
+  {
+   "id": 2656959,
+   "en": "That's false advertising.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 5295405,
+   "en": "Advertising is everywhere.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 4228386,
+   "en": "Tom works in advertising.",
+   "author": "Hybrid"
+  }
+ ],
+ "advice": [
+  {
+   "id": 2245998,
+   "en": "I need advice.",
+   "author": "CK"
+  },
+  {
+   "id": 5853164,
+   "en": "I want advice.",
+   "author": "CK"
+  },
+  {
+   "id": 251486,
+   "en": "Take my advice!",
+   "author": "CN"
+  }
+ ],
+ "advise": [
+  {
+   "id": 1728336,
+   "en": "I advise customers.",
+   "author": "Amastan"
+  },
+  {
+   "id": 4495513,
+   "en": "Can you advise me?",
+   "author": "CK"
+  },
+  {
+   "id": 2647815,
+   "en": "What do you advise?",
+   "author": "CK"
+  }
+ ],
+ "affair": [
+  {
+   "id": 42358,
+   "en": "That's my affair.",
+   "author": "CM"
+  },
+  {
+   "id": 5523300,
+   "en": "Tom had an affair.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 4942072,
+   "en": "Was there an affair?",
+   "author": "charleskwc"
+  }
+ ],
+ "against": [
+  {
+   "id": 1356958,
+   "en": "I'm against it.",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 6576507,
+   "en": "Against my will?",
+   "author": "Eccles17"
+  },
+  {
+   "id": 8480046,
+   "en": "He's against it.",
+   "author": "CH"
+  }
+ ],
+ "aged": [
+  {
+   "id": 13990322,
+   "en": "She has aged.",
+   "author": "Aghanim"
+  },
+  {
+   "id": 13990324,
+   "en": "We have aged.",
+   "author": "Aghanim"
+  },
+  {
+   "id": 1075891,
+   "en": "My parents are aged.",
+   "author": "vatsal228"
+  }
+ ],
+ "agency": [
+  {
+   "id": 11078367,
+   "en": "You have agency.",
+   "author": "shekitten"
+  },
+  {
+   "id": 12889755,
+   "en": "They worked for an agency.",
+   "author": "Ussis"
+  },
+  {
+   "id": 979769,
+   "en": "Anyone knows this travel agency?",
+   "author": "Adou_Fr"
+  }
+ ],
+ "agent": [
+  {
+   "id": 2247919,
+   "en": "I'm an agent.",
+   "author": "CK"
+  },
+  {
+   "id": 8537104,
+   "en": "He's her agent.",
+   "author": "CH"
+  },
+  {
+   "id": 8537105,
+   "en": "She's his agent.",
+   "author": "CH"
+  }
+ ],
+ "ahead": [
+  {
+   "id": 1112017,
+   "en": "Go on ahead.",
+   "author": "Scott"
+  },
+  {
+   "id": 9525798,
+   "en": "He is ahead.",
+   "author": "Taam"
+  },
+  {
+   "id": 2254990,
+   "en": "You go ahead.",
+   "author": "CK"
+  }
+ ],
+ "air": [
+  {
+   "id": 2577181,
+   "en": "I need air.",
+   "author": "VirtuOZ"
+  },
+  {
+   "id": 8910162,
+   "en": "What is air?",
+   "author": "CK"
+  },
+  {
+   "id": 12917094,
+   "en": "We want air.",
+   "author": "jan_Santewa"
+  }
+ ],
+ "aisle": [
+  {
+   "id": 516633,
+   "en": "Window or aisle?",
+   "author": "kebukebu"
+  },
+  {
+   "id": 72782,
+   "en": "They're in aisle two.",
+   "author": "CM"
+  },
+  {
+   "id": 7050968,
+   "en": "I want an aisle seat.",
+   "author": "Goatstein"
+  }
+ ],
+ "alarm": [
+  {
+   "id": 6713133,
+   "en": "Get the alarm.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 11295082,
+   "en": "That's my alarm.",
+   "author": "shekitten"
+  },
+  {
+   "id": 12169777,
+   "en": "The alarm is on.",
+   "author": "megamanenm"
+  }
+ ],
+ "allow": [
+  {
+   "id": 12718141,
+   "en": "I allow that.",
+   "author": "jacoblaguerre"
+  },
+  {
+   "id": 2247657,
+   "en": "I'll allow it.",
+   "author": "CK"
+  },
+  {
+   "id": 13582033,
+   "en": "Will you allow?",
+   "author": "Native77"
+  }
+ ],
+ "alright": [
+  {
+   "id": 4927698,
+   "en": "Is he alright?",
+   "author": "Hybrid"
+  },
+  {
+   "id": 8788522,
+   "en": "I was alright.",
+   "author": "Amastan"
+  },
+  {
+   "id": 4927701,
+   "en": "Is Tom alright?",
+   "author": "Hybrid"
+  }
+ ],
+ "although": [
+  {
+   "id": 12770932,
+   "en": "Although tired, they continued on.",
+   "author": "Igider"
+  },
+  {
+   "id": 11982668,
+   "en": "Although we're beginners, we learn quickly.",
+   "author": "sundown"
+  },
+  {
+   "id": 3970811,
+   "en": "Although he is poor, he is happy.",
+   "author": "coynejeremy"
+  }
+ ],
+ "ambition": [
+  {
+   "id": 301359,
+   "en": "He had ambition.",
+   "author": "CK"
+  },
+  {
+   "id": 5850542,
+   "en": "I have ambition.",
+   "author": "CK"
+  },
+  {
+   "id": 3171357,
+   "en": "Tom has ambition.",
+   "author": "CK"
+  }
+ ],
+ "among": [
+  {
+   "id": 2240808,
+   "en": "We're among friends.",
+   "author": "CK"
+  },
+  {
+   "id": 10240063,
+   "en": "She's among friends.",
+   "author": "sundown"
+  },
+  {
+   "id": 2218079,
+   "en": "You're among friends.",
+   "author": "CK"
+  }
+ ],
+ "amusement": [
+  {
+   "id": 12887726,
+   "en": "We watched in amusement.",
+   "author": "Ussis"
+  },
+  {
+   "id": 11067476,
+   "en": "Tom needs some amusement.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 310569,
+   "en": "She looked at me in amusement.",
+   "author": "CK"
+  }
+ ],
+ "ancestor": [
+  {
+   "id": 11953901,
+   "en": "I'm your ancestor.",
+   "author": "zogwarg"
+  },
+  {
+   "id": 12732822,
+   "en": "My ancestor was right.",
+   "author": "rul"
+  },
+  {
+   "id": 9303012,
+   "en": "We have a common ancestor.",
+   "author": "CK"
+  }
+ ],
+ "ancient": [
+  {
+   "id": 11997462,
+   "en": "It's ancient history!",
+   "author": "shekitten"
+  },
+  {
+   "id": 4275805,
+   "en": "This joke is ancient!",
+   "author": "jayrod84"
+  },
+  {
+   "id": 13879658,
+   "en": "The clock is ancient.",
+   "author": "rul"
+  }
+ ],
+ "angel": [
+  {
+   "id": 5840006,
+   "en": "I'm no angel.",
+   "author": "CK"
+  },
+  {
+   "id": 11135045,
+   "en": "I'm an angel.",
+   "author": "CK"
+  },
+  {
+   "id": 2587597,
+   "en": "Yes, my angel.",
+   "author": "Hybrid"
+  }
+ ],
+ "angrily": [
+  {
+   "id": 12823982,
+   "en": "He left angrily.",
+   "author": "Ussis"
+  },
+  {
+   "id": 12914999,
+   "en": "She left angrily.",
+   "author": "Conjuice"
+  },
+  {
+   "id": 11144988,
+   "en": "Tom walked off angrily.",
+   "author": "CK"
+  }
+ ],
+ "ankle": [
+  {
+   "id": 10360511,
+   "en": "My ankle hurts.",
+   "author": "LimeGreenTeknii"
+  },
+  {
+   "id": 6806510,
+   "en": "I hurt my ankle.",
+   "author": "CK"
+  },
+  {
+   "id": 6049409,
+   "en": "Show me your ankle.",
+   "author": "mailohilohi"
+  }
+ ],
+ "anniversary": [
+  {
+   "id": 2249309,
+   "en": "It's their anniversary.",
+   "author": "CK"
+  },
+  {
+   "id": 2713426,
+   "en": "It's not our anniversary.",
+   "author": "CK"
+  },
+  {
+   "id": 7197600,
+   "en": "It isn't our anniversary.",
+   "author": "CK"
+  }
+ ],
+ "annoy": [
+  {
+   "id": 2522619,
+   "en": "You annoy me.",
+   "author": "JonLDS"
+  },
+  {
+   "id": 5112274,
+   "en": "Don't annoy me.",
+   "author": "honestlang"
+  },
+  {
+   "id": 12317668,
+   "en": "Don't annoy them.",
+   "author": "Aghanim"
+  }
+ ],
+ "annoying": [
+  {
+   "id": 10873729,
+   "en": "I am annoying.",
+   "author": "tatoebashrek"
+  },
+  {
+   "id": 11877421,
+   "en": "Am I annoying?",
+   "author": "CK"
+  },
+  {
+   "id": 3171318,
+   "en": "Tom is annoying.",
+   "author": "CK"
+  }
+ ],
+ "anyway": [
+  {
+   "id": 2245268,
+   "en": "Do it anyway.",
+   "author": "CK"
+  },
+  {
+   "id": 4450393,
+   "en": "Say it anyway!",
+   "author": "Will"
+  },
+  {
+   "id": 10608539,
+   "en": "Say it anyway.",
+   "author": "sundown"
+  }
+ ],
+ "anywhere": [
+  {
+   "id": 9496107,
+   "en": "I sleep anywhere.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 2245344,
+   "en": "Don't go anywhere.",
+   "author": "CK"
+  },
+  {
+   "id": 7724757,
+   "en": "Just park anywhere.",
+   "author": "Hybrid"
+  }
+ ],
+ "apart": [
+  {
+   "id": 10159638,
+   "en": "Take it apart.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 307518,
+   "en": "They live apart.",
+   "author": "CK"
+  },
+  {
+   "id": 12203120,
+   "en": "We're never apart.",
+   "author": "Miktsoanit"
+  }
+ ],
+ "apartment": [
+  {
+   "id": 9408671,
+   "en": "Where's your apartment?",
+   "author": "CK"
+  },
+  {
+   "id": 2548242,
+   "en": "I'm in my apartment.",
+   "author": "CK"
+  },
+  {
+   "id": 5955940,
+   "en": "I love my apartment.",
+   "author": "mailohilohi"
+  }
+ ],
+ "apologize": [
+  {
+   "id": 2245710,
+   "en": "I do apologize.",
+   "author": "CK"
+  },
+  {
+   "id": 2235641,
+   "en": "Apologize to Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 2245983,
+   "en": "I must apologize.",
+   "author": "CK"
+  }
+ ],
+ "apparently": [
+  {
+   "id": 2244904,
+   "en": "Apparently it worked.",
+   "author": "CK"
+  },
+  {
+   "id": 8593428,
+   "en": "Tom apparently waited.",
+   "author": "CK"
+  },
+  {
+   "id": 11853579,
+   "en": "Tom apparently agrees.",
+   "author": "CK"
+  }
+ ],
+ "appear": [
+  {
+   "id": 8480692,
+   "en": "He didn't appear.",
+   "author": "CH"
+  },
+  {
+   "id": 4530152,
+   "en": "Tom didn't appear.",
+   "author": "CK"
+  },
+  {
+   "id": 10317911,
+   "en": "Do I appear rich?",
+   "author": "terrywallwork"
+  }
+ ],
+ "appearance": [
+  {
+   "id": 4761221,
+   "en": "Appearance isn't all.",
+   "author": "billt_estates"
+  },
+  {
+   "id": 255039,
+   "en": "I put in an appearance.",
+   "author": "CM"
+  },
+  {
+   "id": 10478656,
+   "en": "I don't like my appearance.",
+   "author": "DJ_Saidez"
+  }
+ ],
+ "apply": [
+  {
+   "id": 9169578,
+   "en": "Can we apply?",
+   "author": "Nylez"
+  },
+  {
+   "id": 8094673,
+   "en": "Does not apply.",
+   "author": "iT4LL"
+  },
+  {
+   "id": 11932170,
+   "en": "Will you apply?",
+   "author": "CK"
+  }
+ ],
+ "appointment": [
+  {
+   "id": 2249576,
+   "en": "Make an appointment.",
+   "author": "CK"
+  },
+  {
+   "id": 1887356,
+   "en": "I have an appointment.",
+   "author": "CK"
+  },
+  {
+   "id": 2646257,
+   "en": "We had an appointment.",
+   "author": "CK"
+  }
+ ],
+ "appreciate": [
+  {
+   "id": 1841710,
+   "en": "I appreciate it.",
+   "author": "CK"
+  },
+  {
+   "id": 2241020,
+   "en": "We appreciate it.",
+   "author": "CK"
+  },
+  {
+   "id": 2587698,
+   "en": "I appreciate you.",
+   "author": "VirtuOZ"
+  }
+ ],
+ "appropriate": [
+  {
+   "id": 1652044,
+   "en": "Is this appropriate?",
+   "author": "Spamster"
+  },
+  {
+   "id": 9841248,
+   "en": "That is appropriate.",
+   "author": "anushka"
+  },
+  {
+   "id": 2251147,
+   "en": "That's not appropriate.",
+   "author": "CK"
+  }
+ ],
+ "architecture": [
+  {
+   "id": 2237363,
+   "en": "Tom loves architecture.",
+   "author": "CK"
+  },
+  {
+   "id": 9868528,
+   "en": "We're architecture students.",
+   "author": "CK"
+  },
+  {
+   "id": 8811764,
+   "en": "I'm an architecture student.",
+   "author": "CK"
+  }
+ ],
+ "area": [
+  {
+   "id": 13342034,
+   "en": "That's her area.",
+   "author": "mraz"
+  },
+  {
+   "id": 2376140,
+   "en": "I know the area.",
+   "author": "CK"
+  },
+  {
+   "id": 13217850,
+   "en": "This is my area.",
+   "author": "maaster"
+  }
+ ],
+ "argue": [
+  {
+   "id": 2245683,
+   "en": "I didn't argue.",
+   "author": "CK"
+  },
+  {
+   "id": 2007873,
+   "en": "Let's not argue.",
+   "author": "CK"
+  },
+  {
+   "id": 6537502,
+   "en": "He didn't argue.",
+   "author": "Hybrid"
+  }
+ ],
+ "argument": [
+  {
+   "id": 11379172,
+   "en": "There's no argument.",
+   "author": "shekitten"
+  },
+  {
+   "id": 5748226,
+   "en": "Present your argument.",
+   "author": "CM"
+  },
+  {
+   "id": 2647837,
+   "en": "We had an argument.",
+   "author": "CK"
+  }
+ ],
+ "armchair": [
+  {
+   "id": 7971135,
+   "en": "This is an armchair.",
+   "author": "deniko"
+  },
+  {
+   "id": 7971134,
+   "en": "It's a comfortable armchair.",
+   "author": "deniko"
+  },
+  {
+   "id": 4815526,
+   "en": "This armchair is comfortable.",
+   "author": "CK"
+  }
+ ],
+ "artificial": [
+  {
+   "id": 10664161,
+   "en": "This is artificial.",
+   "author": "shekitten"
+  },
+  {
+   "id": 12781803,
+   "en": "Earth is artificial.",
+   "author": "rul"
+  },
+  {
+   "id": 42254,
+   "en": "It's an artificial flower.",
+   "author": "CK"
+  }
+ ],
+ "assistant": [
+  {
+   "id": 2247922,
+   "en": "I'm an assistant.",
+   "author": "CK"
+  },
+  {
+   "id": 3374204,
+   "en": "I'm your assistant.",
+   "author": "CK"
+  },
+  {
+   "id": 2254669,
+   "en": "Where's your assistant?",
+   "author": "CK"
+  }
+ ],
+ "association": [
+  {
+   "id": 12691615,
+   "en": "Do you know that association?",
+   "author": "jacoblaguerre"
+  },
+  {
+   "id": 3272239,
+   "en": "They belong to an association.",
+   "author": "rul"
+  },
+  {
+   "id": 305041,
+   "en": "My association with them didn't last long.",
+   "author": "CK"
+  }
+ ],
+ "astronaut": [
+  {
+   "id": 5006760,
+   "en": "He's an astronaut.",
+   "author": "Lindoula"
+  },
+  {
+   "id": 9796720,
+   "en": "She's an astronaut.",
+   "author": "shekitten"
+  },
+  {
+   "id": 6662366,
+   "en": "Tom is an astronaut.",
+   "author": "CK"
+  }
+ ],
+ "athlete": [
+  {
+   "id": 5851182,
+   "en": "I'm an athlete.",
+   "author": "CK"
+  },
+  {
+   "id": 8480054,
+   "en": "He's an athlete.",
+   "author": "CH"
+  },
+  {
+   "id": 5148121,
+   "en": "Tom is an athlete.",
+   "ja": "トムはアスリートなんだよ。",
+   "author": "CK"
+  }
+ ],
+ "attack": [
+  {
+   "id": 2241165,
+   "en": "We must attack.",
+   "author": "CK"
+  },
+  {
+   "id": 4401092,
+   "en": "Don't attack me.",
+   "author": "CK"
+  },
+  {
+   "id": 11928791,
+   "en": "Will you attack?",
+   "author": "CK"
+  }
+ ],
+ "attempt": [
+  {
+   "id": 2253919,
+   "en": "The attempt failed.",
+   "author": "freddy1"
+  },
+  {
+   "id": 11994637,
+   "en": "His attempt failed.",
+   "author": "sundown"
+  },
+  {
+   "id": 10473070,
+   "en": "There was an attempt.",
+   "author": "DJ_Saidez"
+  }
+ ],
+ "attention": [
+  {
+   "id": 2249711,
+   "en": "Now pay attention.",
+   "author": "CK"
+  },
+  {
+   "id": 5152211,
+   "en": "Jump to attention!",
+   "author": "kemushi69"
+  },
+  {
+   "id": 11425255,
+   "en": "I loved attention.",
+   "author": "Agestur"
+  }
+ ],
+ "attitude": [
+  {
+   "id": 2251261,
+   "en": "That's the attitude.",
+   "author": "CK"
+  },
+  {
+   "id": 13307154,
+   "en": "My attitude changed.",
+   "author": "Lebensfreude"
+  },
+  {
+   "id": 8170417,
+   "en": "Change your attitude.",
+   "author": "lucasmg123"
+  }
+ ],
+ "attractive": [
+  {
+   "id": 12251486,
+   "en": "I am attractive.",
+   "author": "opalandwoof"
+  },
+  {
+   "id": 317109,
+   "en": "She is attractive.",
+   "author": "CK"
+  },
+  {
+   "id": 4495854,
+   "en": "It was attractive.",
+   "author": "CK"
+  }
+ ],
+ "audience": [
+  {
+   "id": 13487806,
+   "en": "The audience laughs.",
+   "author": "rul"
+  },
+  {
+   "id": 7043564,
+   "en": "The audience laughed.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 2548037,
+   "en": "We have an audience.",
+   "author": "CK"
+  }
+ ],
+ "audio": [
+  {
+   "id": 12523943,
+   "en": "My audio is bad.",
+   "author": "rul"
+  },
+  {
+   "id": 11780514,
+   "en": "We also need the audio.",
+   "author": "Amastan"
+  },
+  {
+   "id": 906690,
+   "en": "What's your favorite audio player?",
+   "author": "CK"
+  }
+ ],
+ "author": [
+  {
+   "id": 593248,
+   "en": "He's an author.",
+   "author": "CK"
+  },
+  {
+   "id": 5363992,
+   "en": "Who's the author?",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 5082282,
+   "en": "He is an author.",
+   "author": "zvzuibqx"
+  }
+ ],
+ "automatic": [
+  {
+   "id": 13589715,
+   "en": "Is it automatic?",
+   "author": "araneo"
+  },
+  {
+   "id": 7039360,
+   "en": "The door is automatic.",
+   "author": "Goatstein"
+  },
+  {
+   "id": 8960742,
+   "en": "This car is an automatic.",
+   "author": "sundown"
+  }
+ ],
+ "automatically": [
+  {
+   "id": 5006704,
+   "en": "It happens automatically.",
+   "author": "Lindoula"
+  },
+  {
+   "id": 8910558,
+   "en": "It happened automatically.",
+   "author": "sundown"
+  },
+  {
+   "id": 9121480,
+   "en": "I did it automatically.",
+   "author": "CK"
+  }
+ ],
+ "average": [
+  {
+   "id": 1493531,
+   "en": "Tom is average.",
+   "author": "Spamster"
+  },
+  {
+   "id": 5324465,
+   "en": "That's the average.",
+   "author": "Adelpa"
+  },
+  {
+   "id": 7122989,
+   "en": "That's about average.",
+   "author": "CM"
+  }
+ ],
+ "avoid": [
+  {
+   "id": 5828932,
+   "en": "I avoid Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 8475765,
+   "en": "I avoid him.",
+   "author": "CH"
+  },
+  {
+   "id": 8475766,
+   "en": "I avoid her.",
+   "author": "CH"
+  }
+ ],
+ "award": [
+  {
+   "id": 8405551,
+   "en": "Forget about the award.",
+   "author": "Amastan"
+  },
+  {
+   "id": 6049316,
+   "en": "Tom is getting an award.",
+   "author": "CK"
+  },
+  {
+   "id": 1681410,
+   "en": "The award should be for me!",
+   "author": "aka_aj"
+  }
+ ],
+ "awful": [
+  {
+   "id": 2202598,
+   "en": "Tom is awful.",
+   "author": "CK"
+  },
+  {
+   "id": 2245736,
+   "en": "I feel awful.",
+   "author": "CK"
+  },
+  {
+   "id": 2248803,
+   "en": "It was awful.",
+   "author": "CK"
+  }
+ ],
+ "background": [
+  {
+   "id": 3712101,
+   "en": "We know their background.",
+   "author": "Katabasis"
+  },
+  {
+   "id": 9805635,
+   "en": "Discuss your educational background.",
+   "author": "Igider"
+  },
+  {
+   "id": 3826401,
+   "en": "I'll stay in the background.",
+   "author": "CK"
+  }
+ ],
+ "badly": [
+  {
+   "id": 1120868,
+   "en": "I fight badly.",
+   "author": "cntrational"
+  },
+  {
+   "id": 8069479,
+   "en": "I drive badly.",
+   "author": "CK"
+  },
+  {
+   "id": 5851154,
+   "en": "I'm badly hurt.",
+   "author": "CK"
+  }
+ ],
+ "badminton": [
+  {
+   "id": 13211296,
+   "en": "We played badminton.",
+   "author": "araneo"
+  },
+  {
+   "id": 10129781,
+   "en": "Let's play badminton.",
+   "author": "CK"
+  },
+  {
+   "id": 10089787,
+   "en": "Why don't we play badminton?",
+   "author": "CK"
+  }
+ ],
+ "bake": [
+  {
+   "id": 12204427,
+   "en": "Bake a cake.",
+   "author": "sundown"
+  },
+  {
+   "id": 3568430,
+   "en": "Let's bake cookies.",
+   "author": "CK"
+  },
+  {
+   "id": 7733931,
+   "en": "I love to bake.",
+   "author": "CK"
+  }
+ ],
+ "balcony": [
+  {
+   "id": 33902,
+   "en": "I'm on the balcony.",
+   "ja": "ベランダにいるよ。",
+   "author": "CK"
+  },
+  {
+   "id": 13827696,
+   "en": "He's on his balcony.",
+   "author": "carlosalberto"
+  },
+  {
+   "id": 7154253,
+   "en": "We're on the balcony.",
+   "author": "Luiaard"
+  }
+ ],
+ "balloon": [
+  {
+   "id": 2675047,
+   "en": "My balloon popped!",
+   "author": "morgyn"
+  },
+  {
+   "id": 9689196,
+   "en": "The balloon popped.",
+   "author": "megamanenm"
+  },
+  {
+   "id": 12652702,
+   "en": "Watch the balloon pop!",
+   "author": "always"
+  }
+ ],
+ "barbecue": [
+  {
+   "id": 1635960,
+   "en": "I love barbecue.",
+   "author": "Spamster"
+  },
+  {
+   "id": 6033424,
+   "en": "I like to barbecue.",
+   "author": "CK"
+  },
+  {
+   "id": 5109591,
+   "en": "Tom likes to barbecue.",
+   "author": "CK"
+  }
+ ],
+ "barber": [
+  {
+   "id": 8397870,
+   "en": "I'm a barber.",
+   "author": "CK"
+  },
+  {
+   "id": 8477270,
+   "en": "He's a barber.",
+   "author": "CH"
+  },
+  {
+   "id": 6697338,
+   "en": "Tom is a barber.",
+   "author": "Hybrid"
+  }
+ ],
+ "bargain": [
+  {
+   "id": 2182510,
+   "en": "It's a bargain.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 3556684,
+   "en": "It's a bargain!",
+   "author": "fleur74"
+  },
+  {
+   "id": 6839468,
+   "en": "What a bargain!",
+   "author": "CK"
+  }
+ ],
+ "base": [
+  {
+   "id": 12232859,
+   "en": "They're attacking our base.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 10135112,
+   "en": "Tom has a good base.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 11012198,
+   "en": "Meet me at the base.",
+   "author": "shekitten"
+  }
+ ],
+ "basic": [
+  {
+   "id": 548021,
+   "en": "This is basic.",
+   "author": "CK"
+  },
+  {
+   "id": 5789146,
+   "en": "It's so basic.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 5074852,
+   "en": "That's basic science.",
+   "author": "Hybrid"
+  }
+ ],
+ "basically": [
+  {
+   "id": 4495554,
+   "en": "We basically agree.",
+   "author": "CK"
+  },
+  {
+   "id": 9338769,
+   "en": "That's basically it.",
+   "author": "CK"
+  },
+  {
+   "id": 13900750,
+   "en": "He's basically good.",
+   "author": "Nuel"
+  }
+ ],
+ "basket": [
+  {
+   "id": 3140113,
+   "en": "She's a basket case.",
+   "author": "primitivo"
+  },
+  {
+   "id": 12488880,
+   "en": "The basket is empty.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 2646737,
+   "en": "What's in the basket?",
+   "author": "CK"
+  }
+ ],
+ "batch": [
+  {
+   "id": 6614791,
+   "en": "What is the batch size?",
+   "author": "Eccles17"
+  },
+  {
+   "id": 9999867,
+   "en": "Why don't we make another batch of cookies?",
+   "author": "CK"
+  }
+ ],
+ "battery": [
+  {
+   "id": 11497930,
+   "en": "He has a battery.",
+   "author": "yamanq"
+  },
+  {
+   "id": 11867334,
+   "en": "This is a battery.",
+   "author": "soweli_Wasona"
+  },
+  {
+   "id": 1342902,
+   "en": "My battery is flat.",
+   "author": "sundown"
+  }
+ ],
+ "bay": [
+  {
+   "id": 12072816,
+   "en": "Tom lives across the bay.",
+   "author": "CK"
+  },
+  {
+   "id": 2564692,
+   "en": "The bridge crosses the bay.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 6303737,
+   "en": "Tom lives in the Bay Area.",
+   "author": "Hybrid"
+  }
+ ],
+ "beauty": [
+  {
+   "id": 2358217,
+   "en": "What a beauty!",
+   "author": "megamanenm"
+  },
+  {
+   "id": 680343,
+   "en": "She's a beauty.",
+   "author": "Source_VOA"
+  },
+  {
+   "id": 1458294,
+   "en": "We love beauty.",
+   "author": "pauldhunt"
+  }
+ ],
+ "beg": [
+  {
+   "id": 797290,
+   "en": "I beg you.",
+   "author": "U2FS"
+  },
+  {
+   "id": 9937340,
+   "en": "Beg me to eat.",
+   "author": "AmarMecheri"
+  },
+  {
+   "id": 11502922,
+   "en": "Beg me to eat!",
+   "author": "AmarMecheri"
+  }
+ ],
+ "beginner": [
+  {
+   "id": 2247880,
+   "en": "I'm a beginner.",
+   "author": "CK"
+  },
+  {
+   "id": 8479934,
+   "en": "He's a beginner.",
+   "author": "CH"
+  },
+  {
+   "id": 13790061,
+   "en": "I am a beginner.",
+   "author": "Just_Balls"
+  }
+ ],
+ "beginning": [
+  {
+   "id": 257506,
+   "en": "I'm just beginning.",
+   "author": "CK"
+  },
+  {
+   "id": 2240760,
+   "en": "We're just beginning.",
+   "author": "CK"
+  },
+  {
+   "id": 11889008,
+   "en": "The war is beginning.",
+   "author": "ddnktr"
+  }
+ ],
+ "behavior": [
+  {
+   "id": 10836142,
+   "en": "Change your behavior.",
+   "author": "Amastan"
+  },
+  {
+   "id": 13065119,
+   "en": "Their behavior is bad.",
+   "author": "rul"
+  },
+  {
+   "id": 8401802,
+   "en": "His behavior is strange.",
+   "author": "helloroto"
+  }
+ ],
+ "belly": [
+  {
+   "id": 11959715,
+   "en": "We're belly dancers.",
+   "author": "CK"
+  },
+  {
+   "id": 13728088,
+   "en": "Tom has a belly.",
+   "author": "Adelpa"
+  },
+  {
+   "id": 1983909,
+   "en": "She's a belly dancer.",
+   "author": "Spamster"
+  }
+ ],
+ "belong": [
+  {
+   "id": 2245618,
+   "en": "I belong here.",
+   "author": "CK"
+  },
+  {
+   "id": 2245714,
+   "en": "I don't belong.",
+   "author": "CK"
+  },
+  {
+   "id": 4397522,
+   "en": "We belong here.",
+   "author": "CK"
+  }
+ ],
+ "belt": [
+  {
+   "id": 11915508,
+   "en": "Get a belt.",
+   "author": "CK"
+  },
+  {
+   "id": 13858410,
+   "en": "Where's my belt?",
+   "author": "frpzzd"
+  },
+  {
+   "id": 11894892,
+   "en": "I want a belt.",
+   "author": "CK"
+  }
+ ],
+ "bench": [
+  {
+   "id": 2648759,
+   "en": "Sit on the bench.",
+   "author": "CK"
+  },
+  {
+   "id": 2805548,
+   "en": "The bench is long.",
+   "author": "Deerhound"
+  },
+  {
+   "id": 8935443,
+   "en": "He sits on the bench.",
+   "author": "sundown"
+  }
+ ],
+ "bend": [
+  {
+   "id": 9524976,
+   "en": "Bend your knee.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 2245002,
+   "en": "Bend your knees.",
+   "author": "CK"
+  },
+  {
+   "id": 6532387,
+   "en": "I can't bend over.",
+   "author": "CK"
+  }
+ ],
+ "besides": [
+  {
+   "id": 11791571,
+   "en": "Besides, I'm coming.",
+   "author": "Fenrir"
+  },
+  {
+   "id": 11791572,
+   "en": "Besides, I am coming.",
+   "author": "Fenrir"
+  },
+  {
+   "id": 10268854,
+   "en": "Everyone's here besides him.",
+   "author": "LimeGreenTeknii"
+  }
+ ],
+ "beyond": [
+  {
+   "id": 42683,
+   "en": "It's beyond me.",
+   "author": "CK"
+  },
+  {
+   "id": 2224126,
+   "en": "It's beyond me!",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 5858303,
+   "en": "I'm beyond help.",
+   "author": "CK"
+  }
+ ],
+ "bill": [
+  {
+   "id": 14039266,
+   "en": "Pay the bill.",
+   "author": "Adelpa"
+  },
+  {
+   "id": 35838,
+   "en": "Come on, Bill.",
+   "author": "CP"
+  },
+  {
+   "id": 8394381,
+   "en": "Here's a bill.",
+   "author": "Amastan"
+  }
+ ],
+ "bit": [
+  {
+   "id": 5828656,
+   "en": "I bit Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 8475533,
+   "en": "I bit him.",
+   "author": "CH"
+  },
+  {
+   "id": 8475593,
+   "en": "He bit me.",
+   "author": "CH"
+  }
+ ],
+ "bite": [
+  {
+   "id": 2250034,
+   "en": "Take a bite.",
+   "author": "CK"
+  },
+  {
+   "id": 10637284,
+   "en": "Have a bite.",
+   "author": "buster_blu"
+  },
+  {
+   "id": 2245715,
+   "en": "I don't bite.",
+   "author": "CK"
+  }
+ ],
+ "blackboard": [
+  {
+   "id": 6941763,
+   "en": "I need a blackboard.",
+   "author": "OsoHombre"
+  },
+  {
+   "id": 12568957,
+   "en": "Go to the blackboard.",
+   "author": "NativesAlliance"
+  },
+  {
+   "id": 241500,
+   "en": "Look at the blackboard.",
+   "author": "CK"
+  }
+ ],
+ "blame": [
+  {
+   "id": 2057758,
+   "en": "I blame Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 3919339,
+   "en": "I blame him.",
+   "author": "CH"
+  },
+  {
+   "id": 3919340,
+   "en": "I blame her.",
+   "author": "CH"
+  }
+ ],
+ "blanket": [
+  {
+   "id": 10465197,
+   "en": "Here's a blanket.",
+   "author": "CK"
+  },
+  {
+   "id": 7855035,
+   "en": "Where's the blanket?",
+   "author": "CK"
+  },
+  {
+   "id": 12082494,
+   "en": "I had a blanket.",
+   "author": "CK"
+  }
+ ],
+ "bloom": [
+  {
+   "id": 13268451,
+   "en": "What makes you bloom?",
+   "author": "kiryopi"
+  },
+  {
+   "id": 12673737,
+   "en": "Flowers bloom in spring.",
+   "author": "Wassnen"
+  },
+  {
+   "id": 12311175,
+   "en": "Lilies don't always bloom.",
+   "author": "carlosalberto"
+  }
+ ],
+ "boil": [
+  {
+   "id": 9140304,
+   "en": "Boil an egg.",
+   "author": "sundown"
+  },
+  {
+   "id": 325237,
+   "en": "Boil one egg.",
+   "author": "CK"
+  },
+  {
+   "id": 6599276,
+   "en": "Boil the milk.",
+   "author": "superfrog42"
+  }
+ ],
+ "bonus": [
+  {
+   "id": 11669880,
+   "en": "Did you get a bonus?",
+   "author": "tieguy"
+  },
+  {
+   "id": 6273458,
+   "en": "I should get a bonus.",
+   "author": "CK"
+  },
+  {
+   "id": 4846696,
+   "en": "Tom should get a bonus.",
+   "author": "CK"
+  }
+ ],
+ "bookcase": [
+  {
+   "id": 12075955,
+   "en": "I need a new bookcase.",
+   "author": "joan_LanguageProcess"
+  },
+  {
+   "id": 5353098,
+   "en": "Put the books in the bookcase.",
+   "author": "joshodude_1308"
+  },
+  {
+   "id": 11377041,
+   "en": "There's a painting over the bookcase.",
+   "author": "chaule3"
+  }
+ ],
+ "bookshelf": [
+  {
+   "id": 3085103,
+   "en": "Tom pointed to the top bookshelf.",
+   "author": "CK"
+  },
+  {
+   "id": 12419675,
+   "en": "There's a dictionary on that bookshelf.",
+   "author": "zogwarg"
+  },
+  {
+   "id": 303549,
+   "en": "He fixed the bookshelf to the wall.",
+   "author": "CK"
+  }
+ ],
+ "bookshop": [
+  {
+   "id": 13231597,
+   "en": "This is a bookshop.",
+   "author": "deniko"
+  },
+  {
+   "id": 11903938,
+   "en": "The bookshop is open.",
+   "author": "sundown"
+  },
+  {
+   "id": 12516065,
+   "en": "Is the bookshop open?",
+   "author": "sundown"
+  }
+ ],
+ "boss": [
+  {
+   "id": 2230331,
+   "en": "I'm the boss.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 8390880,
+   "en": "He's my boss.",
+   "author": "Amastan"
+  },
+  {
+   "id": 2248320,
+   "en": "I'm your boss.",
+   "author": "CK"
+  }
+ ],
+ "bother": [
+  {
+   "id": 10931333,
+   "en": "You bother me.",
+   "author": "JeanM"
+  },
+  {
+   "id": 12362198,
+   "en": "What a bother.",
+   "author": "rul"
+  },
+  {
+   "id": 2243069,
+   "en": "They bother me.",
+   "author": "CK"
+  }
+ ],
+ "bra": [
+  {
+   "id": 4965687,
+   "en": "My bra is dirty.",
+   "author": "ieflicca"
+  },
+  {
+   "id": 6311421,
+   "en": "Try this bra on.",
+   "author": "OsoHombre"
+  },
+  {
+   "id": 11888825,
+   "en": "Give me your bra.",
+   "author": "Amastan"
+  }
+ ],
+ "brake": [
+  {
+   "id": 34110,
+   "en": "The brake didn't work.",
+   "ja": "ブレーキがきかなかった。",
+   "author": "CK"
+  },
+  {
+   "id": 34111,
+   "en": "The brake stopped working.",
+   "author": "CK"
+  },
+  {
+   "id": 5132023,
+   "en": "He stepped on the brake.",
+   "author": "walmas"
+  }
+ ],
+ "branch": [
+  {
+   "id": 9990002,
+   "en": "It's just a branch.",
+   "author": "Amastan"
+  },
+  {
+   "id": 8078657,
+   "en": "Tom tripped on a branch.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 246311,
+   "en": "Don't break off the branch.",
+   "author": "shekitten"
+  }
+ ],
+ "brand": [
+  {
+   "id": 34819,
+   "en": "It's brand new.",
+   "author": "Eldad"
+  },
+  {
+   "id": 3264671,
+   "en": "This is brand new.",
+   "author": "CK"
+  },
+  {
+   "id": 6015085,
+   "en": "I love that brand.",
+   "author": "mailohilohi"
+  }
+ ],
+ "brave": [
+  {
+   "id": 9457081,
+   "en": "He is brave.",
+   "author": "sundown"
+  },
+  {
+   "id": 476456,
+   "en": "He was brave.",
+   "author": "CK"
+  },
+  {
+   "id": 2202627,
+   "en": "Tom is brave.",
+   "author": "CK"
+  }
+ ],
+ "breeze": [
+  {
+   "id": 7733907,
+   "en": "It was a breeze.",
+   "ja": "ちょちょいのちょいだったよ。",
+   "author": "CK"
+  },
+  {
+   "id": 11658350,
+   "en": "A breeze is blowing.",
+   "author": "Aghanim"
+  },
+  {
+   "id": 3824348,
+   "en": "The breeze feels good.",
+   "author": "CK"
+  }
+ ],
+ "bride": [
+  {
+   "id": 9668233,
+   "en": "Who's the bride?",
+   "author": "CK"
+  },
+  {
+   "id": 8935592,
+   "en": "She is the bride.",
+   "author": "sundown"
+  },
+  {
+   "id": 8958297,
+   "en": "Mary is the bride.",
+   "author": "CK"
+  }
+ ],
+ "brilliant": [
+  {
+   "id": 2202631,
+   "en": "Tom is brilliant.",
+   "author": "CK"
+  },
+  {
+   "id": 2233662,
+   "en": "This is brilliant.",
+   "author": "CK"
+  },
+  {
+   "id": 2239747,
+   "en": "Tom was brilliant.",
+   "author": "CK"
+  }
+ ],
+ "budget": [
+  {
+   "id": 11098325,
+   "en": "What's the budget?",
+   "author": "ddnktr"
+  },
+  {
+   "id": 6532320,
+   "en": "What's your budget?",
+   "author": "CK"
+  },
+  {
+   "id": 4496190,
+   "en": "My budget is tight.",
+   "author": "CK"
+  }
+ ],
+ "bug": [
+  {
+   "id": 11010879,
+   "en": "It's a bug.",
+   "ja": "バグってるよ。",
+   "author": "terrywallwork"
+  },
+  {
+   "id": 1246751,
+   "en": "You're a bug.",
+   "author": "cntrational"
+  },
+  {
+   "id": 1505979,
+   "en": "Don't bug me.",
+   "author": "weihaiping"
+  }
+ ],
+ "bulb": [
+  {
+   "id": 9011879,
+   "en": "The bulb is broken.",
+   "author": "jaydenms"
+  },
+  {
+   "id": 9962023,
+   "en": "The light bulb works.",
+   "author": "Amastan"
+  },
+  {
+   "id": 573742,
+   "en": "The bulb has burned out.",
+   "author": "CK"
+  }
+ ],
+ "burn": [
+  {
+   "id": 680451,
+   "en": "It will burn.",
+   "author": "Source_VOA"
+  },
+  {
+   "id": 1787930,
+   "en": "Burn the body.",
+   "author": "sadhen"
+  },
+  {
+   "id": 5063497,
+   "en": "Feel the burn!",
+   "author": "al_ex_an_der"
+  }
+ ],
+ "bury": [
+  {
+   "id": 11915614,
+   "en": "Let's bury it.",
+   "author": "CK"
+  },
+  {
+   "id": 442601,
+   "en": "We will bury you.",
+   "author": "Clavain"
+  },
+  {
+   "id": 2273912,
+   "en": "What did you bury?",
+   "author": "CK"
+  }
+ ],
+ "bush": [
+  {
+   "id": 1700576,
+   "en": "The bush is burning.",
+   "author": "Amastan"
+  },
+  {
+   "id": 2575855,
+   "en": "Bush doesn't like war.",
+   "author": "Amastan"
+  },
+  {
+   "id": 3801931,
+   "en": "He watered the rose bush.",
+   "author": "AlanF_US"
+  }
+ ],
+ "businessman": [
+  {
+   "id": 5859230,
+   "en": "I'm a businessman.",
+   "author": "CK"
+  },
+  {
+   "id": 8319951,
+   "en": "I am a businessman.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 2272768,
+   "en": "Tom is a businessman.",
+   "author": "CK"
+  }
+ ],
+ "businesswoman": [
+  {
+   "id": 9273075,
+   "en": "Mary is a businesswoman.",
+   "author": "CK"
+  },
+  {
+   "id": 1687499,
+   "en": "She's a successful businesswoman.",
+   "author": "Spamster"
+  },
+  {
+   "id": 9368690,
+   "en": "Mary is a successful businesswoman.",
+   "author": "CK"
+  }
+ ],
+ "cafeteria": [
+  {
+   "id": 4422390,
+   "en": "Where's the cafeteria?",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 268769,
+   "en": "Where is the cafeteria?",
+   "author": "CK"
+  },
+  {
+   "id": 8534584,
+   "en": "Study in the cafeteria.",
+   "author": "Amastan"
+  }
+ ],
+ "calendar": [
+  {
+   "id": 3422088,
+   "en": "Check the calendar.",
+   "author": "CK"
+  },
+  {
+   "id": 10989089,
+   "en": "Where's the calendar?",
+   "ja": "カレンダーはどこ？",
+   "author": "CK"
+  },
+  {
+   "id": 2631964,
+   "en": "I need a calendar.",
+   "author": "Joseph"
+  }
+ ],
+ "camping": [
+  {
+   "id": 2245961,
+   "en": "I love camping.",
+   "author": "CK"
+  },
+  {
+   "id": 5851943,
+   "en": "I like camping.",
+   "author": "CK"
+  },
+  {
+   "id": 11934205,
+   "en": "Tom is camping.",
+   "author": "CK"
+  }
+ ],
+ "campus": [
+  {
+   "id": 8478615,
+   "en": "He's on campus.",
+   "author": "CH"
+  },
+  {
+   "id": 11949670,
+   "en": "We're on campus.",
+   "author": "CK"
+  },
+  {
+   "id": 11948967,
+   "en": "They're on campus.",
+   "author": "CK"
+  }
+ ],
+ "capital": [
+  {
+   "id": 5418181,
+   "en": "We need capital.",
+   "author": "CK"
+  },
+  {
+   "id": 9963625,
+   "en": "Name every capital.",
+   "author": "shekitten"
+  },
+  {
+   "id": 5942743,
+   "en": "They visited the capital.",
+   "author": "nicholas_martin"
+  }
+ ],
+ "captain": [
+  {
+   "id": 2245512,
+   "en": "Get the captain.",
+   "author": "CK"
+  },
+  {
+   "id": 2248274,
+   "en": "I'm the captain.",
+   "author": "CK"
+  },
+  {
+   "id": 3374195,
+   "en": "I'm your captain.",
+   "author": "CK"
+  }
+ ],
+ "carrot": [
+  {
+   "id": 7319734,
+   "en": "Carrot or banana?",
+   "author": "MarijnKp"
+  },
+  {
+   "id": 10674786,
+   "en": "The carrot is orange.",
+   "author": "AutoBot"
+  },
+  {
+   "id": 11137999,
+   "en": "He's eating my carrot.",
+   "author": "sundown"
+  }
+ ],
+ "cash": [
+  {
+   "id": 2245876,
+   "en": "I have cash.",
+   "author": "CK"
+  },
+  {
+   "id": 2246002,
+   "en": "I need cash.",
+   "author": "CK"
+  },
+  {
+   "id": 2247441,
+   "en": "I want cash.",
+   "author": "CK"
+  }
+ ],
+ "cassette": [
+  {
+   "id": 13051260,
+   "en": "I want the cassette.",
+   "author": "ntsereteli"
+  },
+  {
+   "id": 10903653,
+   "en": "Let's listen to the cassette.",
+   "author": "sundown"
+  },
+  {
+   "id": 1570081,
+   "en": "Let's listen to this cassette.",
+   "author": "CN"
+  }
+ ],
+ "castle": [
+  {
+   "id": 10027932,
+   "en": "That's our castle.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 5922212,
+   "en": "Destroy the castle.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 9479894,
+   "en": "That's your castle.",
+   "author": "Amastan"
+  }
+ ],
+ "cause": [
+  {
+   "id": 25111,
+   "en": "What's the cause?",
+   "author": "CK"
+  },
+  {
+   "id": 11225127,
+   "en": "What is the cause?",
+   "author": "Aznay"
+  },
+  {
+   "id": 11247426,
+   "en": "It's a good cause.",
+   "author": "mollydot"
+  }
+ ],
+ "cent": [
+  {
+   "id": 3451214,
+   "en": "I don't have a cent.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 9049583,
+   "en": "It didn't cost us a cent.",
+   "author": "soliloquist"
+  },
+  {
+   "id": 13076218,
+   "en": "How many cent are there in a dollar?",
+   "author": "Adelpa"
+  }
+ ],
+ "center": [
+  {
+   "id": 8493783,
+   "en": "Visit our help center.",
+   "author": "Amastan"
+  },
+  {
+   "id": 52856,
+   "en": "Where's the shopping center?",
+   "ja": "ショッピングセンターはどこですか。",
+   "author": "CK"
+  },
+  {
+   "id": 389136,
+   "en": "The center is an ideal.",
+   "author": "MUIRIEL"
+  }
+ ],
+ "century": [
+  {
+   "id": 7363148,
+   "en": "You're in the wrong century.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 11279289,
+   "en": "What century do we live in?",
+   "author": "Lebensfreude"
+  },
+  {
+   "id": 5737062,
+   "en": "I'm over a half century old.",
+   "author": "CM"
+  }
+ ],
+ "cereal": [
+  {
+   "id": 11885049,
+   "en": "I want cereal.",
+   "author": "CK"
+  },
+  {
+   "id": 8180680,
+   "en": "Eat your cereal.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11908931,
+   "en": "Let's eat cereal.",
+   "author": "CK"
+  }
+ ],
+ "certain": [
+  {
+   "id": 5720841,
+   "en": "I was certain.",
+   "author": "Airvian"
+  },
+  {
+   "id": 2202643,
+   "en": "Tom is certain.",
+   "author": "CK"
+  },
+  {
+   "id": 1356753,
+   "en": "Are you certain?",
+   "author": "sacredceltic"
+  }
+ ],
+ "certainly": [
+  {
+   "id": 7779352,
+   "en": "I certainly agree.",
+   "author": "sharris123"
+  },
+  {
+   "id": 5975495,
+   "en": "I'll certainly try.",
+   "author": "CK"
+  },
+  {
+   "id": 2258144,
+   "en": "Certainly, you're right.",
+   "author": "_undertoad"
+  }
+ ],
+ "chain": [
+  {
+   "id": 6321570,
+   "en": "My chain saw is broken.",
+   "author": "carlosalberto"
+  },
+  {
+   "id": 1516154,
+   "en": "They formed a human chain.",
+   "author": "emory989"
+  },
+  {
+   "id": 9513444,
+   "en": "He wants to buy a chain.",
+   "author": "Taam"
+  }
+ ],
+ "chairman": [
+  {
+   "id": 11630427,
+   "en": "I'm the chairman.",
+   "author": "CK"
+  },
+  {
+   "id": 6148308,
+   "en": "Include the chairman.",
+   "author": "LB"
+  },
+  {
+   "id": 11932570,
+   "en": "Tom is the chairman.",
+   "author": "CK"
+  }
+ ],
+ "challenge": [
+  {
+   "id": 2169454,
+   "en": "We challenge you.",
+   "author": "Vortarulo"
+  },
+  {
+   "id": 4496384,
+   "en": "It's a challenge.",
+   "author": "CK"
+  },
+  {
+   "id": 9334579,
+   "en": "What a challenge!",
+   "author": "CK"
+  }
+ ],
+ "champagne": [
+  {
+   "id": 11415462,
+   "en": "I ordered champagne.",
+   "author": "Agestur"
+  },
+  {
+   "id": 11966261,
+   "en": "Tom likes champagne.",
+   "author": "CK"
+  },
+  {
+   "id": 11415463,
+   "en": "He ordered champagne.",
+   "author": "Agestur"
+  }
+ ],
+ "championship": [
+  {
+   "id": 5738271,
+   "en": "I just want a championship.",
+   "author": "CM"
+  },
+  {
+   "id": 12284566,
+   "en": "Did you win the championship?",
+   "author": "CK"
+  },
+  {
+   "id": 10910360,
+   "en": "The championship will be ours.",
+   "author": "CM"
+  }
+ ],
+ "chance": [
+  {
+   "id": 6577258,
+   "en": "Not a chance!",
+   "author": "Eccles17"
+  },
+  {
+   "id": 2250038,
+   "en": "Take a chance.",
+   "ja": "チャンスをつかめ。",
+   "author": "CK"
+  },
+  {
+   "id": 2721508,
+   "en": "Take a chance!",
+   "author": "Hybrid"
+  }
+ ],
+ "chapter": [
+  {
+   "id": 8622682,
+   "en": "Read this chapter.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11887183,
+   "en": "Read chapter five.",
+   "author": "Amastan"
+  },
+  {
+   "id": 10565376,
+   "en": "Read chapter three.",
+   "author": "CK"
+  }
+ ],
+ "chart": [
+  {
+   "id": 2234138,
+   "en": "What's this chart?",
+   "author": "CK"
+  },
+  {
+   "id": 6967282,
+   "en": "Can you create a chart?",
+   "author": "Eccles17"
+  },
+  {
+   "id": 3023364,
+   "en": "Tom showed Mary the chart.",
+   "author": "CK"
+  }
+ ],
+ "chat": [
+  {
+   "id": 13249409,
+   "en": "Go chat with her.",
+   "author": "rul"
+  },
+  {
+   "id": 13867371,
+   "en": "Let's chat a bit.",
+   "author": "menaud"
+  },
+  {
+   "id": 3008807,
+   "en": "Let's have a chat.",
+   "author": "CK"
+  }
+ ],
+ "cheap": [
+  {
+   "id": 6358688,
+   "en": "Is it cheap?",
+   "author": "CK"
+  },
+  {
+   "id": 6728974,
+   "en": "He is cheap.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 6645788,
+   "en": "Tom is cheap.",
+   "author": "CK"
+  }
+ ],
+ "cheek": [
+  {
+   "id": 6540950,
+   "en": "What a cheek!",
+   "author": "sundown"
+  },
+  {
+   "id": 13812892,
+   "en": "My cheek hurts.",
+   "author": "tieguy"
+  },
+  {
+   "id": 1847666,
+   "en": "Turn the other cheek.",
+   "author": "fekundulo"
+  }
+ ],
+ "cheer": [
+  {
+   "id": 1356751,
+   "en": "Cheer me up!",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 8962124,
+   "en": "Cheer yourself up.",
+   "author": "Nylez"
+  },
+  {
+   "id": 12522697,
+   "en": "You cheer me up.",
+   "author": "GemMonkey"
+  }
+ ],
+ "chef": [
+  {
+   "id": 8397776,
+   "en": "I'm a chef.",
+   "author": "CK"
+  },
+  {
+   "id": 8476482,
+   "en": "He's a chef.",
+   "author": "CH"
+  },
+  {
+   "id": 11963275,
+   "en": "I'm the chef.",
+   "author": "CK"
+  }
+ ],
+ "chemical": [
+  {
+   "id": 9232978,
+   "en": "We're chemical engineers.",
+   "author": "CK"
+  },
+  {
+   "id": 7982574,
+   "en": "I'm a chemical engineer.",
+   "author": "trochal"
+  },
+  {
+   "id": 6270352,
+   "en": "Tom is a chemical engineer.",
+   "author": "CK"
+  }
+ ],
+ "cheque": [
+  {
+   "id": 2422,
+   "en": "I'll pay by cheque.",
+   "author": "RJH"
+  },
+  {
+   "id": 9472628,
+   "en": "They pay by cheque.",
+   "author": "sundown"
+  },
+  {
+   "id": 7713343,
+   "en": "I signed the cheque.",
+   "author": "deniko"
+  }
+ ],
+ "chess": [
+  {
+   "id": 1755544,
+   "en": "I like chess.",
+   "author": "Betsemes"
+  },
+  {
+   "id": 2325171,
+   "en": "I enjoy chess.",
+   "author": "CK"
+  },
+  {
+   "id": 5955959,
+   "en": "Chess is hard.",
+   "ja": "チェスはムズい。",
+   "author": "mailohilohi"
+  }
+ ],
+ "chest": [
+  {
+   "id": 5350431,
+   "en": "Open the chest.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 5774441,
+   "en": "My chest hurts.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 5350434,
+   "en": "Close the chest.",
+   "author": "mailohilohi"
+  }
+ ],
+ "childhood": [
+  {
+   "id": 11909035,
+   "en": "It's childhood memories.",
+   "author": "LdjuherTaqvaylit"
+  },
+  {
+   "id": 12646557,
+   "en": "Remember your childhood.",
+   "author": "anzart"
+  },
+  {
+   "id": 13488140,
+   "en": "We're childhood friends.",
+   "author": "frpzzd"
+  }
+ ],
+ "chin": [
+  {
+   "id": 12378519,
+   "en": "My chin hurts.",
+   "author": "rul"
+  },
+  {
+   "id": 6575883,
+   "en": "Put your chin up.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 3506456,
+   "en": "Keep your chin up.",
+   "author": "CK"
+  }
+ ],
+ "chirp": [
+  {
+   "id": 6017265,
+   "en": "Listen to the birds chirp.",
+   "author": "mailohilohi"
+  }
+ ],
+ "choice": [
+  {
+   "id": 2249571,
+   "en": "Make a choice.",
+   "author": "CK"
+  },
+  {
+   "id": 17190,
+   "en": "Make your choice.",
+   "author": "CK"
+  },
+  {
+   "id": 863717,
+   "en": "It's your choice.",
+   "author": "cris"
+  }
+ ],
+ "citizen": [
+  {
+   "id": 10863082,
+   "en": "I'm a citizen.",
+   "author": "CK"
+  },
+  {
+   "id": 11075156,
+   "en": "We're citizen scientists.",
+   "author": "shekitten"
+  },
+  {
+   "id": 3825727,
+   "en": "I'm a US citizen.",
+   "author": "CK"
+  }
+ ],
+ "claim": [
+  {
+   "id": 12664879,
+   "en": "No claim exists.",
+   "author": "anzart"
+  },
+  {
+   "id": 11962036,
+   "en": "What did Tom claim?",
+   "author": "CK"
+  },
+  {
+   "id": 7155467,
+   "en": "Her claim was false.",
+   "author": "Kiwi"
+  }
+ ],
+ "classic": [
+  {
+   "id": 2077741,
+   "en": "It's a classic.",
+   "author": "Spamster"
+  },
+  {
+   "id": 6614339,
+   "en": "That was classic.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 5661514,
+   "en": "This is a classic.",
+   "author": "marcj794"
+  }
+ ],
+ "cleaner": [
+  {
+   "id": 6697628,
+   "en": "Tom is a window cleaner.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 12992753,
+   "en": "Tom is a street cleaner.",
+   "author": "Adelpa"
+  },
+  {
+   "id": 9736861,
+   "en": "The air has become cleaner.",
+   "author": "CK"
+  }
+ ],
+ "clear": [
+  {
+   "id": 2244884,
+   "en": "Am I clear?",
+   "author": "CK"
+  },
+  {
+   "id": 2248446,
+   "en": "Is it clear?",
+   "author": "CK"
+  },
+  {
+   "id": 2248810,
+   "en": "It was clear.",
+   "author": "CK"
+  }
+ ],
+ "clearly": [
+  {
+   "id": 433592,
+   "en": "Say it clearly.",
+   "author": "CK"
+  },
+  {
+   "id": 5757889,
+   "en": "It clearly worked.",
+   "author": "CM"
+  },
+  {
+   "id": 10218362,
+   "en": "He speaks clearly.",
+   "author": "megamanenm"
+  }
+ ],
+ "clerk": [
+  {
+   "id": 11890716,
+   "en": "Are you a clerk?",
+   "author": "CK"
+  },
+  {
+   "id": 256984,
+   "en": "I'm a bank clerk.",
+   "author": "CK"
+  },
+  {
+   "id": 11962893,
+   "en": "I'm just a clerk.",
+   "author": "CK"
+  }
+ ],
+ "click": [
+  {
+   "id": 13187679,
+   "en": "Click on it.",
+   "author": "maaster"
+  },
+  {
+   "id": 3313122,
+   "en": "We didn't click.",
+   "author": "CK"
+  },
+  {
+   "id": 10600984,
+   "en": "Please click here.",
+   "ja": "こちらをクリックしてください。",
+   "author": "Adelpa"
+  }
+ ],
+ "climbing": [
+  {
+   "id": 3746149,
+   "en": "I like climbing.",
+   "author": "gin"
+  },
+  {
+   "id": 12871166,
+   "en": "She was climbing.",
+   "author": "Ussis"
+  },
+  {
+   "id": 8250291,
+   "en": "Tom likes climbing.",
+   "author": "Hybrid"
+  }
+ ],
+ "clone": [
+  {
+   "id": 11040561,
+   "en": "I'm not a clone.",
+   "author": "CK"
+  }
+ ],
+ "clown": [
+  {
+   "id": 13709130,
+   "en": "I'm no clown.",
+   "author": "frpzzd"
+  },
+  {
+   "id": 6769162,
+   "en": "Tom is a clown.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 10778316,
+   "en": "Tom was a clown.",
+   "author": "CK"
+  }
+ ],
+ "clue": [
+  {
+   "id": 12146372,
+   "en": "It's a clue.",
+   "author": "CK"
+  },
+  {
+   "id": 10640041,
+   "en": "Here's a clue.",
+   "author": "buster_blu"
+  },
+  {
+   "id": 2721785,
+   "en": "I had no clue.",
+   "author": "Hybrid"
+  }
+ ],
+ "coast": [
+  {
+   "id": 2002708,
+   "en": "The coast is clear.",
+   "author": "Spamster"
+  },
+  {
+   "id": 3393302,
+   "en": "Is the coast clear?",
+   "author": "CK"
+  },
+  {
+   "id": 3896684,
+   "en": "Call the coast guard.",
+   "author": "Amastan"
+  }
+ ],
+ "coin": [
+  {
+   "id": 12102694,
+   "en": "It's a coin.",
+   "author": "CK"
+  },
+  {
+   "id": 8668676,
+   "en": "Give me a coin.",
+   "author": "ajje"
+  },
+  {
+   "id": 9998766,
+   "en": "This is a coin.",
+   "author": "Nylez"
+  }
+ ],
+ "cola": [
+  {
+   "id": 449034,
+   "en": "They drink cola.",
+   "author": "CK"
+  },
+  {
+   "id": 12366945,
+   "en": "The cola is sweet.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 8778041,
+   "en": "They were drinking cola.",
+   "author": "deniko"
+  }
+ ],
+ "colorful": [
+  {
+   "id": 11965770,
+   "en": "I'm very colorful.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 12643349,
+   "en": "The sky is colorful.",
+   "author": "rul"
+  },
+  {
+   "id": 12643351,
+   "en": "The sky was colorful.",
+   "author": "rul"
+  }
+ ],
+ "column": [
+  {
+   "id": 13008486,
+   "en": "This column is stone.",
+   "author": "urro"
+  },
+  {
+   "id": 58281,
+   "en": "Add up this column of figures.",
+   "author": "CK"
+  },
+  {
+   "id": 13721846,
+   "en": "The names are in the first column.",
+   "author": "rul"
+  }
+ ],
+ "comb": [
+  {
+   "id": 8669058,
+   "en": "It's a comb.",
+   "author": "ajje"
+  },
+  {
+   "id": 5825659,
+   "en": "Comb your hair.",
+   "author": "CK"
+  },
+  {
+   "id": 3825663,
+   "en": "Where's my comb?",
+   "author": "CK"
+  }
+ ],
+ "comfortable": [
+  {
+   "id": 12603489,
+   "en": "I was comfortable.",
+   "ja": "ゆったりした。",
+   "author": "urro"
+  },
+  {
+   "id": 4498588,
+   "en": "I feel comfortable.",
+   "author": "CK"
+  },
+  {
+   "id": 7493686,
+   "en": "Tom is comfortable.",
+   "author": "CK"
+  }
+ ],
+ "comic": [
+  {
+   "id": 261872,
+   "en": "I love comic books.",
+   "author": "CK"
+  },
+  {
+   "id": 261873,
+   "en": "I read comic books.",
+   "author": "CK"
+  },
+  {
+   "id": 1964116,
+   "en": "I like comic books.",
+   "author": "CK"
+  }
+ ],
+ "commitment": [
+  {
+   "id": 2237142,
+   "en": "Tom lacked commitment.",
+   "author": "CK"
+  },
+  {
+   "id": 7895042,
+   "en": "I had a commitment.",
+   "author": "helloroto"
+  },
+  {
+   "id": 5754691,
+   "en": "I want a commitment.",
+   "author": "CM"
+  }
+ ],
+ "committee": [
+  {
+   "id": 4016610,
+   "en": "Where's the welcoming committee?",
+   "author": "CK"
+  },
+  {
+   "id": 16808,
+   "en": "Are you on the committee?",
+   "author": "CK"
+  },
+  {
+   "id": 8518884,
+   "en": "It's up to the committee.",
+   "author": "CK"
+  }
+ ],
+ "common": [
+  {
+   "id": 2248642,
+   "en": "Is this common?",
+   "author": "CK"
+  },
+  {
+   "id": 6075521,
+   "en": "This is common.",
+   "author": "mendel"
+  },
+  {
+   "id": 2249352,
+   "en": "It's very common.",
+   "author": "CK"
+  }
+ ],
+ "communicate": [
+  {
+   "id": 11034455,
+   "en": "Communicate with people.",
+   "author": "Amastan"
+  },
+  {
+   "id": 2645519,
+   "en": "How do they communicate?",
+   "author": "CK"
+  },
+  {
+   "id": 4496732,
+   "en": "How will we communicate?",
+   "author": "CK"
+  }
+ ],
+ "communication": [
+  {
+   "id": 9352936,
+   "en": "What is communication?",
+   "author": "CM"
+  },
+  {
+   "id": 9677213,
+   "en": "Communication is good.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 12335247,
+   "en": "Communication is important.",
+   "author": "rul"
+  }
+ ],
+ "company": [
+  {
+   "id": 5852089,
+   "en": "I have company.",
+   "author": "CK"
+  },
+  {
+   "id": 8476623,
+   "en": "He has company.",
+   "author": "CH"
+  },
+  {
+   "id": 8477804,
+   "en": "He had company.",
+   "author": "CH"
+  }
+ ],
+ "compare": [
+  {
+   "id": 453225,
+   "en": "Compare the facts.",
+   "author": "CM"
+  },
+  {
+   "id": 13428929,
+   "en": "Compare the results.",
+   "author": "frpzzd"
+  },
+  {
+   "id": 12894946,
+   "en": "How can you compare?",
+   "author": "rdgscratch"
+  }
+ ],
+ "competition": [
+  {
+   "id": 1777453,
+   "en": "Competition is good.",
+   "author": "Spamster"
+  },
+  {
+   "id": 4493696,
+   "en": "You have competition.",
+   "author": "CK"
+  },
+  {
+   "id": 5753205,
+   "en": "Join the competition.",
+   "author": "CM"
+  }
+ ],
+ "complain": [
+  {
+   "id": 843959,
+   "en": "I would complain.",
+   "author": "J_S"
+  },
+  {
+   "id": 1216974,
+   "en": "I can't complain.",
+   "author": "CM"
+  },
+  {
+   "id": 11386229,
+   "en": "I never complain.",
+   "author": "Agestur"
+  }
+ ],
+ "complaint": [
+  {
+   "id": 5754388,
+   "en": "That's my complaint.",
+   "author": "CM"
+  },
+  {
+   "id": 2892719,
+   "en": "What's your complaint?",
+   "author": "CK"
+  },
+  {
+   "id": 4999987,
+   "en": "I have a complaint.",
+   "author": "CK"
+  }
+ ],
+ "complete": [
+  {
+   "id": 2248447,
+   "en": "Is it complete?",
+   "author": "CK"
+  },
+  {
+   "id": 12766207,
+   "en": "You complete me.",
+   "author": "Igider"
+  },
+  {
+   "id": 3462805,
+   "en": "You are complete.",
+   "author": "shekitten"
+  }
+ ],
+ "composer": [
+  {
+   "id": 13156740,
+   "en": "He is a composer.",
+   "author": "Sifaks"
+  },
+  {
+   "id": 6697381,
+   "en": "Tom is a composer.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 5930392,
+   "en": "Who's your favorite composer?",
+   "author": "mailohilohi"
+  }
+ ],
+ "concentrate": [
+  {
+   "id": 2245984,
+   "en": "I must concentrate.",
+   "author": "CK"
+  },
+  {
+   "id": 2253807,
+   "en": "Try to concentrate.",
+   "author": "CK"
+  },
+  {
+   "id": 3733560,
+   "en": "Let me concentrate.",
+   "author": "CK"
+  }
+ ],
+ "concern": [
+  {
+   "id": 2256891,
+   "en": "That's my concern.",
+   "author": "CK"
+  },
+  {
+   "id": 4496828,
+   "en": "That's the concern.",
+   "author": "CK"
+  },
+  {
+   "id": 5747779,
+   "en": "Don't concern yourself.",
+   "author": "CM"
+  }
+ ],
+ "condition": [
+  {
+   "id": 2252634,
+   "en": "There's a condition.",
+   "author": "CK"
+  },
+  {
+   "id": 7863609,
+   "en": "There's one condition.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 3825598,
+   "en": "I'm in good condition.",
+   "author": "CK"
+  }
+ ],
+ "confident": [
+  {
+   "id": 5853300,
+   "en": "I was confident.",
+   "author": "CK"
+  },
+  {
+   "id": 2202671,
+   "en": "Tom is confident.",
+   "author": "CK"
+  },
+  {
+   "id": 4401025,
+   "en": "Is Tom confident?",
+   "author": "CK"
+  }
+ ],
+ "confuse": [
+  {
+   "id": 1392416,
+   "en": "Don't confuse me.",
+   "author": "enteka"
+  },
+  {
+   "id": 11862852,
+   "en": "Don't confuse them.",
+   "author": "Slam4"
+  },
+  {
+   "id": 2270340,
+   "en": "Don't confuse the two.",
+   "author": "CK"
+  }
+ ],
+ "confused": [
+  {
+   "id": 1419348,
+   "en": "I am confused.",
+   "author": "zgarbas"
+  },
+  {
+   "id": 2166227,
+   "en": "He confused us.",
+   "author": "faraway9911"
+  },
+  {
+   "id": 2247468,
+   "en": "I was confused.",
+   "author": "CK"
+  }
+ ],
+ "consequence": [
+  {
+   "id": 2287009,
+   "en": "It's of no consequence.",
+   "author": "CK"
+  },
+  {
+   "id": 2287010,
+   "en": "That's of no consequence.",
+   "author": "CK"
+  },
+  {
+   "id": 2287016,
+   "en": "They're of no consequence.",
+   "author": "CK"
+  }
+ ],
+ "consider": [
+  {
+   "id": 2247710,
+   "en": "I'll consider it.",
+   "author": "CK"
+  },
+  {
+   "id": 3163268,
+   "en": "Consider it done.",
+   "ja": "まかせてちょうだい。",
+   "author": "Hybrid"
+  },
+  {
+   "id": 2245220,
+   "en": "Consider the facts.",
+   "author": "CK"
+  }
+ ],
+ "contact": [
+  {
+   "id": 2245226,
+   "en": "Contact my son.",
+   "author": "CK"
+  },
+  {
+   "id": 5859502,
+   "en": "I'll contact you.",
+   "author": "CK"
+  },
+  {
+   "id": 6812468,
+   "en": "I'll contact Tom.",
+   "author": "CK"
+  }
+ ],
+ "container": [
+  {
+   "id": 1116338,
+   "en": "The container is full.",
+   "author": "CK"
+  },
+  {
+   "id": 1116339,
+   "en": "The container is empty.",
+   "author": "CK"
+  },
+  {
+   "id": 10207595,
+   "en": "I need a container of eggs.",
+   "author": "terrywallwork"
+  }
+ ],
+ "context": [
+  {
+   "id": 13484564,
+   "en": "Context is king.",
+   "author": "Ooneykcall"
+  },
+  {
+   "id": 10971869,
+   "en": "Context is needed.",
+   "author": "CM"
+  },
+  {
+   "id": 9193497,
+   "en": "What's the context?",
+   "author": "DJ_Saidez"
+  }
+ ],
+ "continent": [
+  {
+   "id": 10131018,
+   "en": "It is a continent covered with ice.",
+   "author": "moonhouse"
+  },
+  {
+   "id": 11076325,
+   "en": "A continent is just a really big island.",
+   "author": "shekitten"
+  }
+ ],
+ "continue": [
+  {
+   "id": 4669323,
+   "en": "Can I continue?",
+   "author": "bandeirante"
+  },
+  {
+   "id": 2245985,
+   "en": "I must continue.",
+   "author": "CK"
+  },
+  {
+   "id": 2247571,
+   "en": "I will continue.",
+   "author": "CK"
+  }
+ ],
+ "contrast": [
+  {
+   "id": 325634,
+   "en": "What a contrast between them!",
+   "author": "CM"
+  },
+  {
+   "id": 12079670,
+   "en": "He painted the front door black for contrast.",
+   "author": "Amastan"
+  }
+ ],
+ "control": [
+  {
+   "id": 2248032,
+   "en": "I'm in control.",
+   "author": "CK"
+  },
+  {
+   "id": 8480228,
+   "en": "He's in control.",
+   "author": "CH"
+  },
+  {
+   "id": 13600271,
+   "en": "Control is good.",
+   "author": "Babelball"
+  }
+ ],
+ "convenience": [
+  {
+   "id": 54352,
+   "en": "At your convenience.",
+   "author": "rul"
+  },
+  {
+   "id": 4501353,
+   "en": "You pay for convenience.",
+   "author": "CK"
+  },
+  {
+   "id": 8353279,
+   "en": "Tom owns a convenience store.",
+   "author": "Hybrid"
+  }
+ ],
+ "convenient": [
+  {
+   "id": 619684,
+   "en": "It was convenient.",
+   "author": "ulyssemc1"
+  },
+  {
+   "id": 3736678,
+   "en": "It's very convenient.",
+   "author": "CK"
+  },
+  {
+   "id": 3728553,
+   "en": "That's real convenient.",
+   "author": "CM"
+  }
+ ],
+ "cooker": [
+  {
+   "id": 8835861,
+   "en": "I have a rice cooker.",
+   "author": "CK"
+  },
+  {
+   "id": 6388625,
+   "en": "Tom has a rice cooker.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 6447531,
+   "en": "Tom has a slow cooker.",
+   "author": "Hybrid"
+  }
+ ],
+ "cooking": [
+  {
+   "id": 2261158,
+   "en": "Tom is cooking.",
+   "author": "CK"
+  },
+  {
+   "id": 2483430,
+   "en": "I love cooking.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 2738418,
+   "en": "I like cooking.",
+   "author": "CK"
+  }
+ ],
+ "cooler": [
+  {
+   "id": 2249069,
+   "en": "It's cooler here.",
+   "author": "CK"
+  },
+  {
+   "id": 2984887,
+   "en": "It's cooler tonight.",
+   "author": "CM"
+  },
+  {
+   "id": 9755059,
+   "en": "It's getting cooler.",
+   "author": "CK"
+  }
+ ],
+ "cost": [
+  {
+   "id": 7258083,
+   "en": "At any cost!",
+   "author": "gcaplan"
+  },
+  {
+   "id": 10748750,
+   "en": "It's cost free.",
+   "ja": "タダですよ。",
+   "author": "terrywallwork"
+  },
+  {
+   "id": 3424130,
+   "en": "What's the cost?",
+   "author": "CK"
+  }
+ ],
+ "count": [
+  {
+   "id": 42880,
+   "en": "Count me in.",
+   "author": "CK"
+  },
+  {
+   "id": 2245239,
+   "en": "Count on it.",
+   "author": "CK"
+  },
+  {
+   "id": 2245240,
+   "en": "Count on me.",
+   "author": "CK"
+  }
+ ],
+ "country": [
+  {
+   "id": 2254524,
+   "en": "What a country!",
+   "author": "CK"
+  },
+  {
+   "id": 12945779,
+   "en": "What's a country?",
+   "author": "rul"
+  },
+  {
+   "id": 6327227,
+   "en": "Tom likes country.",
+   "author": "Hybrid"
+  }
+ ],
+ "countryside": [
+  {
+   "id": 5263720,
+   "en": "I'm in the countryside.",
+   "author": "dynamo"
+  },
+  {
+   "id": 5263723,
+   "en": "You're in the countryside.",
+   "author": "dynamo"
+  },
+  {
+   "id": 6133853,
+   "en": "The countryside is pretty.",
+   "author": "Blabla"
+  }
+ ],
+ "couple": [
+  {
+   "id": 712103,
+   "en": "A couple more!",
+   "author": "Shishir"
+  },
+  {
+   "id": 2240836,
+   "en": "We're a couple.",
+   "author": "CK"
+  },
+  {
+   "id": 3365391,
+   "en": "They're a couple.",
+   "author": "CK"
+  }
+ ],
+ "court": [
+  {
+   "id": 8477463,
+   "en": "He's in court.",
+   "author": "CH"
+  },
+  {
+   "id": 2273220,
+   "en": "Tom is in court.",
+   "author": "CK"
+  },
+  {
+   "id": 3527395,
+   "en": "See you in court.",
+   "author": "Hybrid"
+  }
+ ],
+ "crazy": [
+  {
+   "id": 9353324,
+   "en": "Am I crazy!",
+   "author": "musaAzuna"
+  },
+  {
+   "id": 11877327,
+   "en": "Am I crazy?",
+   "author": "CK"
+  },
+  {
+   "id": 3111334,
+   "en": "He is crazy.",
+   "author": "PaulP"
+  }
+ ],
+ "create": [
+  {
+   "id": 6710432,
+   "en": "Don't create dust!",
+   "author": "Eccles17"
+  },
+  {
+   "id": 14057875,
+   "en": "Create an account.",
+   "author": "Babelball"
+  },
+  {
+   "id": 244311,
+   "en": "Composers create music.",
+   "author": "rul"
+  }
+ ],
+ "creative": [
+  {
+   "id": 2202710,
+   "en": "Tom is creative.",
+   "author": "CK"
+  },
+  {
+   "id": 8479686,
+   "en": "He was creative.",
+   "author": "CH"
+  },
+  {
+   "id": 3330599,
+   "en": "I'm not creative.",
+   "author": "CK"
+  }
+ ],
+ "creativity": [
+  {
+   "id": 12328432,
+   "en": "We like creativity.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 4497087,
+   "en": "Creativity is the key.",
+   "author": "CK"
+  },
+  {
+   "id": 10737855,
+   "en": "I admire your creativity.",
+   "author": "CK"
+  }
+ ],
+ "creature": [
+  {
+   "id": 11212355,
+   "en": "The creature left.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11693533,
+   "en": "The creature appeared.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11772073,
+   "en": "The creature disappeared.",
+   "author": "Amastan"
+  }
+ ],
+ "credit": [
+  {
+   "id": 13364979,
+   "en": "No credit here.",
+   "author": "Igider"
+  },
+  {
+   "id": 3837190,
+   "en": "All credit to him.",
+   "author": "Eldad"
+  },
+  {
+   "id": 5157780,
+   "en": "I have bad credit.",
+   "author": "CK"
+  }
+ ],
+ "cricket": [
+  {
+   "id": 8215623,
+   "en": "Tom plays cricket.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 12080783,
+   "en": "Does Tom play cricket?",
+   "author": "CK"
+  },
+  {
+   "id": 11593655,
+   "en": "I have never played cricket.",
+   "author": "WithAWhyNot"
+  }
+ ],
+ "crime": [
+  {
+   "id": 2163069,
+   "en": "Crime is down.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 5933714,
+   "en": "What is crime?",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 2251038,
+   "en": "That's a crime.",
+   "author": "CK"
+  }
+ ],
+ "crisp": [
+  {
+   "id": 6576529,
+   "en": "The air is crisp.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 10620265,
+   "en": "The morning air is crisp.",
+   "author": "felidad"
+  },
+  {
+   "id": 11203191,
+   "en": "The air was crisp and cool.",
+   "author": "Amastan"
+  }
+ ],
+ "criticize": [
+  {
+   "id": 1365814,
+   "en": "I didn't criticize him.",
+   "author": "CK"
+  },
+  {
+   "id": 4497089,
+   "en": "They often criticize us.",
+   "author": "CK"
+  },
+  {
+   "id": 11856188,
+   "en": "You always criticize me.",
+   "author": "CK"
+  }
+ ],
+ "cross": [
+  {
+   "id": 11899407,
+   "en": "Are you cross?",
+   "author": "CK"
+  },
+  {
+   "id": 2564693,
+   "en": "Don't cross me.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 8477909,
+   "en": "He looks cross.",
+   "author": "CH"
+  }
+ ],
+ "crowd": [
+  {
+   "id": 13676345,
+   "en": "What a crowd!",
+   "author": "Orange"
+  },
+  {
+   "id": 2252565,
+   "en": "The crowd cheered.",
+   "author": "CK"
+  },
+  {
+   "id": 2252568,
+   "en": "The crowd laughed.",
+   "author": "CK"
+  }
+ ],
+ "crowded": [
+  {
+   "id": 4397607,
+   "en": "It was crowded.",
+   "author": "CK"
+  },
+  {
+   "id": 11919949,
+   "en": "Are you crowded?",
+   "author": "CK"
+  },
+  {
+   "id": 13803995,
+   "en": "It's too crowded.",
+   "author": "rul"
+  }
+ ],
+ "crown": [
+  {
+   "id": 12886211,
+   "en": "Where's my crown?",
+   "author": "Josephlingo"
+  },
+  {
+   "id": 1912242,
+   "en": "I see a crown.",
+   "author": "CM"
+  },
+  {
+   "id": 1912244,
+   "en": "I see the crown.",
+   "author": "CM"
+  }
+ ],
+ "cruise": [
+  {
+   "id": 7733844,
+   "en": "Tom is on a cruise.",
+   "author": "CK"
+  },
+  {
+   "id": 8551006,
+   "en": "This is my first cruise.",
+   "author": "CK"
+  },
+  {
+   "id": 9348395,
+   "en": "We're going on a cruise.",
+   "author": "CK"
+  }
+ ],
+ "cupboard": [
+  {
+   "id": 11035592,
+   "en": "The cupboard is full.",
+   "author": "sundown"
+  },
+  {
+   "id": 13443128,
+   "en": "Look in the cupboard!",
+   "author": "rul"
+  },
+  {
+   "id": 3825500,
+   "en": "What's in that cupboard?",
+   "author": "CK"
+  }
+ ],
+ "curry": [
+  {
+   "id": 11899817,
+   "en": "I want curry.",
+   "author": "CK"
+  },
+  {
+   "id": 5858780,
+   "en": "I like hot curry.",
+   "author": "CK"
+  },
+  {
+   "id": 2744771,
+   "en": "I like curry rice.",
+   "author": "CK"
+  }
+ ],
+ "curse": [
+  {
+   "id": 1449619,
+   "en": "It's a curse.",
+   "author": "CK"
+  },
+  {
+   "id": 14066669,
+   "en": "Curse no one.",
+   "author": "menaud"
+  },
+  {
+   "id": 8821329,
+   "en": "I don't curse.",
+   "author": "CK"
+  }
+ ],
+ "custom": [
+  {
+   "id": 6284125,
+   "en": "It's a custom job.",
+   "author": "megamanenm"
+  },
+  {
+   "id": 4016537,
+   "en": "It's an old custom.",
+   "author": "CK"
+  },
+  {
+   "id": 4500033,
+   "en": "I like this custom.",
+   "author": "CK"
+  }
+ ],
+ "customer": [
+  {
+   "id": 11021296,
+   "en": "I'm a customer.",
+   "author": "CK"
+  },
+  {
+   "id": 11734751,
+   "en": "Customer is king.",
+   "author": "Adelpa"
+  },
+  {
+   "id": 836220,
+   "en": "The customer agrees.",
+   "author": "CM"
+  }
+ ],
+ "cycling": [
+  {
+   "id": 6922533,
+   "en": "I like cycling.",
+   "author": "CK"
+  },
+  {
+   "id": 10073526,
+   "en": "Cycling is fun!",
+   "author": "sundown"
+  },
+  {
+   "id": 10073527,
+   "en": "Cycling is fun.",
+   "author": "sundown"
+  }
+ ],
+ "daily": [
+  {
+   "id": 13683943,
+   "en": "I cook daily.",
+   "author": "Babelball"
+  },
+  {
+   "id": 13976270,
+   "en": "Use it daily.",
+   "author": "rul"
+  },
+  {
+   "id": 1287910,
+   "en": "We work daily.",
+   "author": "rul"
+  }
+ ],
+ "dam": [
+  {
+   "id": 2353392,
+   "en": "I live near a dam.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 10041774,
+   "en": "I live near the dam.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 8667954,
+   "en": "The dam is full of water.",
+   "author": "nvt123"
+  }
+ ],
+ "dancer": [
+  {
+   "id": 5839958,
+   "en": "I'm a dancer.",
+   "author": "CK"
+  },
+  {
+   "id": 2454135,
+   "en": "He's a dancer.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 2454134,
+   "en": "She's a dancer.",
+   "author": "Hybrid"
+  }
+ ],
+ "danger": [
+  {
+   "id": 2248033,
+   "en": "I'm in danger.",
+   "author": "CK"
+  },
+  {
+   "id": 1651932,
+   "en": "He's in danger.",
+   "author": "Spamster"
+  },
+  {
+   "id": 1651930,
+   "en": "We're in danger.",
+   "author": "Spamster"
+  }
+ ],
+ "dangerous": [
+  {
+   "id": 2248451,
+   "en": "Is it dangerous?",
+   "author": "CK"
+  },
+  {
+   "id": 7859372,
+   "en": "It is dangerous!",
+   "author": "ToxicFriu"
+  },
+  {
+   "id": 1167519,
+   "en": "Tom is dangerous.",
+   "author": "CK"
+  }
+ ],
+ "daylight": [
+  {
+   "id": 12058720,
+   "en": "It is still daylight.",
+   "author": "Aghanim"
+  },
+  {
+   "id": 281090,
+   "en": "I like reading by daylight.",
+   "author": "Scott"
+  },
+  {
+   "id": 6959822,
+   "en": "This will never see daylight.",
+   "author": "Eccles17"
+  }
+ ],
+ "deal": [
+  {
+   "id": 2245250,
+   "en": "Deal me in.",
+   "author": "CK"
+  },
+  {
+   "id": 1349866,
+   "en": "It's a deal!",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 2245251,
+   "en": "Deal me out.",
+   "author": "CK"
+  }
+ ],
+ "debate": [
+  {
+   "id": 11379170,
+   "en": "There's no debate.",
+   "author": "shekitten"
+  },
+  {
+   "id": 9150667,
+   "en": "That's another debate.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 12170488,
+   "en": "I like to debate.",
+   "author": "megamanenm"
+  }
+ ],
+ "decide": [
+  {
+   "id": 10819102,
+   "en": "Let me decide.",
+   "author": "maaster"
+  },
+  {
+   "id": 2209174,
+   "en": "Did you decide?",
+   "author": "glavkos"
+  },
+  {
+   "id": 2235851,
+   "en": "Let Tom decide.",
+   "author": "CK"
+  }
+ ],
+ "deep": [
+  {
+   "id": 10018343,
+   "en": "It's deep here.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 10029450,
+   "en": "That's deep, man.",
+   "author": "espamatics"
+  },
+  {
+   "id": 13426639,
+   "en": "He's sleeping deep.",
+   "author": "rul"
+  }
+ ],
+ "deeply": [
+  {
+   "id": 11636104,
+   "en": "I'm deeply sorry.",
+   "author": "CK"
+  },
+  {
+   "id": 13576237,
+   "en": "Tom cares deeply.",
+   "author": "rul"
+  },
+  {
+   "id": 1152159,
+   "en": "Breathe in deeply.",
+   "author": "belgavox"
+  }
+ ],
+ "degree": [
+  {
+   "id": 10873358,
+   "en": "Get a degree.",
+   "author": "Amastan"
+  },
+  {
+   "id": 7384969,
+   "en": "He finished his degree.",
+   "author": "CH"
+  },
+  {
+   "id": 3311681,
+   "en": "Tom finished his degree.",
+   "author": "Hybrid"
+  }
+ ],
+ "delay": [
+  {
+   "id": 1521760,
+   "en": "What a delay!",
+   "author": "steve"
+  },
+  {
+   "id": 9189059,
+   "en": "Why the delay?",
+   "author": "CK"
+  },
+  {
+   "id": 2234106,
+   "en": "What's the delay?",
+   "author": "CK"
+  }
+ ],
+ "dentist": [
+  {
+   "id": 5852824,
+   "en": "I'm a dentist.",
+   "author": "CK"
+  },
+  {
+   "id": 8478374,
+   "en": "He's a dentist.",
+   "author": "CH"
+  },
+  {
+   "id": 8480271,
+   "en": "He's my dentist.",
+   "author": "CH"
+  }
+ ],
+ "description": [
+  {
+   "id": 9801000,
+   "en": "Check the description.",
+   "author": "Amastan"
+  },
+  {
+   "id": 4497213,
+   "en": "I like that description.",
+   "author": "CK"
+  },
+  {
+   "id": 5742526,
+   "en": "Does that description fit?",
+   "author": "CM"
+  }
+ ],
+ "desert": [
+  {
+   "id": 6011166,
+   "en": "This is a desert.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 12139071,
+   "en": "We crossed the desert.",
+   "author": "CK"
+  },
+  {
+   "id": 2206700,
+   "en": "In the desert, I think.",
+   "author": "FeuDRenais2"
+  }
+ ],
+ "dessert": [
+  {
+   "id": 1875812,
+   "en": "I love dessert.",
+   "author": "Spamster"
+  },
+  {
+   "id": 8040672,
+   "en": "I want dessert.",
+   "author": "CK"
+  },
+  {
+   "id": 13573067,
+   "en": "What is dessert?",
+   "author": "LeviHighway"
+  }
+ ],
+ "destroy": [
+  {
+   "id": 2549533,
+   "en": "I'll destroy it.",
+   "author": "CK"
+  },
+  {
+   "id": 5922211,
+   "en": "Destroy the city.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 9953062,
+   "en": "I'll destroy Tom.",
+   "author": "CK"
+  }
+ ],
+ "detail": [
+  {
+   "id": 12603466,
+   "en": "No more detail.",
+   "author": "urro"
+  },
+  {
+   "id": 8354479,
+   "en": "Every detail matters.",
+   "author": "zarisi"
+  },
+  {
+   "id": 6055044,
+   "en": "That's a small detail.",
+   "author": "AlanF_US"
+  }
+ ],
+ "develop": [
+  {
+   "id": 11862626,
+   "en": "Develop your knowledge.",
+   "author": "Amastan"
+  },
+  {
+   "id": 5753442,
+   "en": "How did that develop?",
+   "author": "CM"
+  },
+  {
+   "id": 60585,
+   "en": "Please develop this film.",
+   "author": "CK"
+  }
+ ],
+ "developed": [
+  {
+   "id": 2254713,
+   "en": "Who developed it?",
+   "author": "CK"
+  },
+  {
+   "id": 13210122,
+   "en": "The noise developed.",
+   "author": "jiraixu"
+  },
+  {
+   "id": 4497251,
+   "en": "Problems soon developed.",
+   "author": "CK"
+  }
+ ],
+ "diamond": [
+  {
+   "id": 280560,
+   "en": "Diamond cuts diamond.",
+   "author": "rul"
+  },
+  {
+   "id": 8667523,
+   "en": "It's a diamond ring.",
+   "author": "ajje"
+  },
+  {
+   "id": 60914,
+   "en": "Is this diamond real?",
+   "author": "CK"
+  }
+ ],
+ "diary": [
+  {
+   "id": 10666081,
+   "en": "Keep a diary.",
+   "author": "sundown"
+  },
+  {
+   "id": 2254636,
+   "en": "Where's my diary?",
+   "author": "CK"
+  },
+  {
+   "id": 3887931,
+   "en": "I keep a diary.",
+   "author": "AlanF_US"
+  }
+ ],
+ "diet": [
+  {
+   "id": 5758590,
+   "en": "Who's on diet?",
+   "author": "daifons"
+  },
+  {
+   "id": 5758247,
+   "en": "Change your diet.",
+   "author": "CM"
+  },
+  {
+   "id": 4497314,
+   "en": "Diet is important.",
+   "author": "CK"
+  }
+ ],
+ "difficulty": [
+  {
+   "id": 13507974,
+   "en": "He walks with difficulty.",
+   "author": "Tom9358"
+  },
+  {
+   "id": 13507971,
+   "en": "He has difficulty walking.",
+   "author": "Tom9358"
+  },
+  {
+   "id": 7117280,
+   "en": "Tom has difficulty reading.",
+   "author": "CM"
+  }
+ ],
+ "dinosaur": [
+  {
+   "id": 7137662,
+   "en": "What's this dinosaur called?",
+   "author": "OsoHombre"
+  },
+  {
+   "id": 12110477,
+   "en": "What's your favorite dinosaur?",
+   "author": "CK"
+  },
+  {
+   "id": 1335881,
+   "en": "He was a true dinosaur!",
+   "author": "Scotland"
+  }
+ ],
+ "direct": [
+  {
+   "id": 2202767,
+   "en": "Tom is direct.",
+   "author": "CK"
+  },
+  {
+   "id": 2247667,
+   "en": "I'll be direct.",
+   "author": "CK"
+  },
+  {
+   "id": 2028211,
+   "en": "It's very direct.",
+   "author": "CM"
+  }
+ ],
+ "direction": [
+  {
+   "id": 5958504,
+   "en": "I changed direction.",
+   "author": "CK"
+  },
+  {
+   "id": 434758,
+   "en": "From which direction?",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 2236163,
+   "en": "Tom changed direction.",
+   "author": "CK"
+  }
+ ],
+ "director": [
+  {
+   "id": 10176323,
+   "en": "I'm a director.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 8365366,
+   "en": "He's a director.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11630707,
+   "en": "I'm the director.",
+   "author": "CK"
+  }
+ ],
+ "disadvantage": [
+  {
+   "id": 12479250,
+   "en": "That's his only disadvantage.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 12479251,
+   "en": "That's her only disadvantage.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 5736299,
+   "en": "We have a disadvantage here.",
+   "author": "CM"
+  }
+ ],
+ "disagree": [
+  {
+   "id": 1923351,
+   "en": "Do you disagree?",
+   "author": "Spamster"
+  },
+  {
+   "id": 2245718,
+   "en": "I don't disagree.",
+   "author": "CK"
+  },
+  {
+   "id": 12061822,
+   "en": "Tom may disagree.",
+   "author": "CK"
+  }
+ ],
+ "disappear": [
+  {
+   "id": 2249403,
+   "en": "Just don't disappear.",
+   "author": "CK"
+  },
+  {
+   "id": 6273983,
+   "en": "I want to disappear.",
+   "author": "CK"
+  },
+  {
+   "id": 10910806,
+   "en": "Tom had to disappear.",
+   "author": "Ergulis"
+  }
+ ],
+ "disappointed": [
+  {
+   "id": 1435867,
+   "en": "I am disappointed.",
+   "ja": "がっかりだよ。",
+   "author": "caspian"
+  },
+  {
+   "id": 366920,
+   "en": "I was disappointed.",
+   "ja": "がっかりした。",
+   "author": "j4p4n"
+  },
+  {
+   "id": 3918553,
+   "en": "It disappointed us.",
+   "author": "CH"
+  }
+ ],
+ "disappointing": [
+  {
+   "id": 4497339,
+   "en": "It was disappointing.",
+   "author": "CK"
+  },
+  {
+   "id": 2233668,
+   "en": "This is disappointing.",
+   "author": "CK"
+  },
+  {
+   "id": 7126439,
+   "en": "It's very disappointing.",
+   "author": "CM"
+  }
+ ],
+ "disco": [
+  {
+   "id": 255051,
+   "en": "I like disco music.",
+   "author": "CK"
+  },
+  {
+   "id": 2008176,
+   "en": "The disco is empty.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 6614099,
+   "en": "Tom likes disco music.",
+   "author": "Eccles17"
+  }
+ ],
+ "discover": [
+  {
+   "id": 5693351,
+   "en": "Discover the world!",
+   "author": "zumley"
+  },
+  {
+   "id": 3807496,
+   "en": "Discover a new world.",
+   "author": "muriloricci"
+  },
+  {
+   "id": 6350981,
+   "en": "What did Tom discover?",
+   "author": "CK"
+  }
+ ],
+ "discussion": [
+  {
+   "id": 11797291,
+   "en": "End of discussion.",
+   "author": "nelli14"
+  },
+  {
+   "id": 7357060,
+   "en": "Stop the discussion.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 6484270,
+   "en": "That's under discussion.",
+   "author": "AlanF_US"
+  }
+ ],
+ "dishonest": [
+  {
+   "id": 3294263,
+   "en": "He is dishonest.",
+   "author": "CH"
+  },
+  {
+   "id": 12411981,
+   "en": "It is dishonest.",
+   "author": "Orange"
+  },
+  {
+   "id": 2202773,
+   "en": "Tom is dishonest.",
+   "author": "CK"
+  }
+ ],
+ "dislike": [
+  {
+   "id": 5840551,
+   "en": "I dislike Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 8476441,
+   "en": "I dislike him.",
+   "author": "CH"
+  },
+  {
+   "id": 8539781,
+   "en": "I dislike you.",
+   "author": "CK"
+  }
+ ],
+ "display": [
+  {
+   "id": 6577469,
+   "en": "Look at this window display.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 13300422,
+   "en": "Now's the time to display the flag.",
+   "author": "rul"
+  },
+  {
+   "id": 44900,
+   "en": "The shop windows display the latest fashion.",
+   "author": "sundown"
+  }
+ ],
+ "disturb": [
+  {
+   "id": 785677,
+   "en": "Do not disturb.",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 2577163,
+   "en": "Do not disturb!",
+   "author": "VirtuOZ"
+  },
+  {
+   "id": 1495899,
+   "en": "Don't disturb me.",
+   "author": "CK"
+  }
+ ],
+ "divide": [
+  {
+   "id": 3752601,
+   "en": "Divide and rule!",
+   "author": "patgfisher"
+  },
+  {
+   "id": 2265759,
+   "en": "Divide this in half.",
+   "author": "_undertoad"
+  },
+  {
+   "id": 8053645,
+   "en": "Divide that by four.",
+   "author": "Amastan"
+  }
+ ],
+ "done": [
+  {
+   "id": 11877308,
+   "en": "Am I done?",
+   "author": "CK"
+  },
+  {
+   "id": 2248453,
+   "en": "Is it done?",
+   "ja": "できた？",
+   "author": "CK"
+  },
+  {
+   "id": 8988909,
+   "en": "Is he done?",
+   "author": "CH"
+  }
+ ],
+ "double": [
+  {
+   "id": 319882,
+   "en": "I see double.",
+   "author": "rul"
+  },
+  {
+   "id": 1890923,
+   "en": "I'll pay double.",
+   "author": "CK"
+  },
+  {
+   "id": 40602,
+   "en": "A double, please.",
+   "ja": "ダブルにしてください。",
+   "author": "mccarras"
+  }
+ ],
+ "doubt": [
+  {
+   "id": 1114337,
+   "en": "I doubt it.",
+   "author": "shanghainese"
+  },
+  {
+   "id": 3573700,
+   "en": "I doubt that.",
+   "author": "CK"
+  },
+  {
+   "id": 9942642,
+   "en": "We doubt that.",
+   "author": "CK"
+  }
+ ],
+ "download": [
+  {
+   "id": 6092130,
+   "en": "File download completed.",
+   "author": "carlosalberto"
+  },
+  {
+   "id": 8036414,
+   "en": "Did you download it?",
+   "author": "Amastan"
+  },
+  {
+   "id": 13286323,
+   "en": "You can download it.",
+   "author": "EugeneGS"
+  }
+ ],
+ "downtown": [
+  {
+   "id": 5858165,
+   "en": "I live downtown.",
+   "author": "CK"
+  },
+  {
+   "id": 3909104,
+   "en": "Take us downtown.",
+   "author": "CH"
+  },
+  {
+   "id": 3909106,
+   "en": "Take me downtown.",
+   "author": "CH"
+  }
+ ],
+ "drawer": [
+  {
+   "id": 12170565,
+   "en": "Open the drawer!",
+   "author": "megamanenm"
+  },
+  {
+   "id": 6849664,
+   "en": "Close the drawer.",
+   "author": "CK"
+  },
+  {
+   "id": 2245182,
+   "en": "Close that drawer.",
+   "author": "CK"
+  }
+ ],
+ "drawing": [
+  {
+   "id": 4350339,
+   "en": "He is drawing.",
+   "author": "Tjagotje"
+  },
+  {
+   "id": 10326782,
+   "en": "I was drawing.",
+   "author": "doemaar14"
+  },
+  {
+   "id": 7802995,
+   "en": "I like drawing.",
+   "author": "sharris123"
+  }
+ ],
+ "drill": [
+  {
+   "id": 2649013,
+   "en": "Is this a drill?",
+   "author": "CK"
+  },
+  {
+   "id": 2194324,
+   "en": "I know the drill.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 1682671,
+   "en": "You know the drill.",
+   "author": "Spamster"
+  }
+ ],
+ "drugstore": [
+  {
+   "id": 5557480,
+   "en": "Tom works at a drugstore.",
+   "author": "CK"
+  },
+  {
+   "id": 1361291,
+   "en": "Where is there a drugstore?",
+   "author": "txoriburu"
+  },
+  {
+   "id": 2542189,
+   "en": "Tom walked into the drugstore.",
+   "author": "CK"
+  }
+ ],
+ "duck": [
+  {
+   "id": 2245414,
+   "en": "Duck your head!",
+   "author": "CK"
+  },
+  {
+   "id": 3434254,
+   "en": "Duck your head.",
+   "author": "CK"
+  },
+  {
+   "id": 3092966,
+   "en": "The duck disappeared.",
+   "author": "Thanuir"
+  }
+ ],
+ "during": [
+  {
+   "id": 10732899,
+   "en": "Don't eat during class.",
+   "author": "megamanenm"
+  },
+  {
+   "id": 10732926,
+   "en": "No eating during class.",
+   "author": "megamanenm"
+  },
+  {
+   "id": 4902557,
+   "en": "Don't talk during class.",
+   "author": "Hybrid"
+  }
+ ],
+ "dust": [
+  {
+   "id": 10504363,
+   "en": "Eat my dust!",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 12331854,
+   "en": "Dust the table.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 6710432,
+   "en": "Don't create dust!",
+   "author": "Eccles17"
+  }
+ ],
+ "earn": [
+  {
+   "id": 11415127,
+   "en": "I earn money.",
+   "author": "Agestur"
+  },
+  {
+   "id": 11415138,
+   "en": "We earn money.",
+   "author": "Agestur"
+  },
+  {
+   "id": 11415139,
+   "en": "They earn money.",
+   "author": "Agestur"
+  }
+ ],
+ "earring": [
+  {
+   "id": 3701109,
+   "en": "I dropped my earring.",
+   "author": "patgfisher"
+  },
+  {
+   "id": 11531153,
+   "en": "I dropped an earring.",
+   "author": "sundown"
+  },
+  {
+   "id": 4016101,
+   "en": "Where's your other earring?",
+   "author": "CK"
+  }
+ ],
+ "earth": [
+  {
+   "id": 5143856,
+   "en": "What on earth?",
+   "author": "RobinvanderVliet"
+  },
+  {
+   "id": 2195638,
+   "en": "Love the earth.",
+   "author": "dafp"
+  },
+  {
+   "id": 6468662,
+   "en": "Peace on earth.",
+   "author": "Eccles17"
+  }
+ ],
+ "earthquake": [
+  {
+   "id": 2482090,
+   "en": "I am an earthquake.",
+   "author": "BoriQa"
+  },
+  {
+   "id": 4628686,
+   "en": "Was it an earthquake?",
+   "author": "Lazovic"
+  },
+  {
+   "id": 8802859,
+   "en": "Was that an earthquake?",
+   "author": "CM"
+  }
+ ],
+ "easily": [
+  {
+   "id": 6035776,
+   "en": "I cry easily.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 10895535,
+   "en": "He tired easily.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 2396259,
+   "en": "It's easily done.",
+   "author": "CK"
+  }
+ ],
+ "east": [
+  {
+   "id": 8480168,
+   "en": "He's going east.",
+   "author": "CH"
+  },
+  {
+   "id": 9940188,
+   "en": "Tom headed east.",
+   "author": "CK"
+  },
+  {
+   "id": 2240775,
+   "en": "We're going east.",
+   "author": "CK"
+  }
+ ],
+ "editor": [
+  {
+   "id": 11636068,
+   "en": "I'm the editor.",
+   "author": "CK"
+  },
+  {
+   "id": 10742881,
+   "en": "Tom is an editor.",
+   "author": "CK"
+  },
+  {
+   "id": 11452613,
+   "en": "I'm a copy editor.",
+   "author": "shekitten"
+  }
+ ],
+ "education": [
+  {
+   "id": 13364983,
+   "en": "It lacks education.",
+   "author": "Igider"
+  },
+  {
+   "id": 1898400,
+   "en": "Education is important.",
+   "author": "CK"
+  },
+  {
+   "id": 13780261,
+   "en": "Education is expensive.",
+   "author": "Tom9358"
+  }
+ ],
+ "educational": [
+  {
+   "id": 13049030,
+   "en": "This really was educational.",
+   "author": "rul"
+  },
+  {
+   "id": 9805635,
+   "en": "Discuss your educational background.",
+   "author": "Igider"
+  },
+  {
+   "id": 11858945,
+   "en": "They say that traveling is educational.",
+   "author": "CK"
+  }
+ ],
+ "effect": [
+  {
+   "id": 687478,
+   "en": "What's the side effect?",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 824486,
+   "en": "Small cause, great effect.",
+   "author": "BraveSentry"
+  },
+  {
+   "id": 11139013,
+   "en": "The effect is the same.",
+   "author": "ddnktr"
+  }
+ ],
+ "effort": [
+  {
+   "id": 3736753,
+   "en": "Make an effort.",
+   "author": "CK"
+  },
+  {
+   "id": 7917593,
+   "en": "Make an effort!",
+   "author": "fpp"
+  },
+  {
+   "id": 8775139,
+   "en": "The effort shows.",
+   "author": "moman"
+  }
+ ],
+ "elderly": [
+  {
+   "id": 7493675,
+   "en": "Tom is elderly.",
+   "author": "CK"
+  },
+  {
+   "id": 2239781,
+   "en": "Tom was elderly.",
+   "author": "CK"
+  },
+  {
+   "id": 12381670,
+   "en": "I think Tom is elderly.",
+   "author": "Miktsoanit"
+  }
+ ],
+ "electric": [
+  {
+   "id": 5827395,
+   "en": "Mine is electric.",
+   "author": "arh"
+  },
+  {
+   "id": 58915,
+   "en": "This clock is electric.",
+   "author": "CK"
+  },
+  {
+   "id": 9855645,
+   "en": "Electric cars are quiet.",
+   "author": "DJ_Saidez"
+  }
+ ],
+ "elephant": [
+  {
+   "id": 3400315,
+   "en": "Where's my elephant?",
+   "author": "_undertoad"
+  },
+  {
+   "id": 4427135,
+   "en": "I have an elephant.",
+   "author": "newton55"
+  },
+  {
+   "id": 11553991,
+   "en": "The elephant is big.",
+   "author": "megamanenm"
+  }
+ ],
+ "elevator": [
+  {
+   "id": 2245584,
+   "en": "Hold the elevator.",
+   "author": "CK"
+  },
+  {
+   "id": 8925979,
+   "en": "Call the elevator.",
+   "author": "maaster"
+  },
+  {
+   "id": 2252656,
+   "en": "There's no elevator.",
+   "author": "CK"
+  }
+ ],
+ "embarrassing": [
+  {
+   "id": 4498248,
+   "en": "It was embarrassing.",
+   "author": "CK"
+  },
+  {
+   "id": 1244515,
+   "en": "You are embarrassing.",
+   "author": "sundown"
+  },
+  {
+   "id": 2233673,
+   "en": "This is embarrassing.",
+   "author": "CK"
+  }
+ ],
+ "emergency": [
+  {
+   "id": 1173321,
+   "en": "It's an emergency.",
+   "author": "cntrational"
+  },
+  {
+   "id": 2171985,
+   "en": "It's an emergency!",
+   "author": "nanioitte"
+  },
+  {
+   "id": 9460775,
+   "en": "That's an emergency!",
+   "author": "Nylez"
+  }
+ ],
+ "empty": [
+  {
+   "id": 2248822,
+   "en": "It was empty.",
+   "author": "CK"
+  },
+  {
+   "id": 9767200,
+   "en": "I feel empty.",
+   "author": "shekitten"
+  },
+  {
+   "id": 10158656,
+   "en": "Empty it out.",
+   "author": "ddnktr"
+  }
+ ],
+ "encourage": [
+  {
+   "id": 3160229,
+   "en": "Don't encourage her.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 3160230,
+   "en": "Don't encourage him.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 3172188,
+   "en": "Don't encourage Tom.",
+   "author": "CK"
+  }
+ ],
+ "ending": [
+  {
+   "id": 11026678,
+   "en": "I'm ending it.",
+   "author": "CK"
+  },
+  {
+   "id": 11631026,
+   "en": "I'm ending this.",
+   "author": "CK"
+  },
+  {
+   "id": 11628485,
+   "en": "I'm ending it now.",
+   "author": "CK"
+  }
+ ],
+ "energetic": [
+  {
+   "id": 2202810,
+   "en": "Tom is energetic.",
+   "author": "CK"
+  },
+  {
+   "id": 13882085,
+   "en": "She is energetic.",
+   "author": "Lumi"
+  },
+  {
+   "id": 3172389,
+   "en": "Are you energetic?",
+   "author": "CK"
+  }
+ ],
+ "enormous": [
+  {
+   "id": 8969316,
+   "en": "It is enormous.",
+   "author": "Nylez"
+  },
+  {
+   "id": 12439948,
+   "en": "Tom is enormous.",
+   "author": "CK"
+  },
+  {
+   "id": 3657438,
+   "en": "That is enormous.",
+   "author": "MTC"
+  }
+ ],
+ "enough": [
+  {
+   "id": 8222233,
+   "en": "I am enough.",
+   "author": "josivangoncalves"
+  },
+  {
+   "id": 2248454,
+   "en": "Is it enough?",
+   "author": "CK"
+  },
+  {
+   "id": 4061418,
+   "en": "I have enough.",
+   "author": "AlanF_US"
+  }
+ ],
+ "enter": [
+  {
+   "id": 10107162,
+   "en": "May I enter?",
+   "author": "CK"
+  },
+  {
+   "id": 10913685,
+   "en": "May we enter?",
+   "author": "CK"
+  },
+  {
+   "id": 12039302,
+   "en": "Do not enter.",
+   "author": "Aghanim"
+  }
+ ],
+ "entertainment": [
+  {
+   "id": 7839498,
+   "en": "We're tonight's entertainment.",
+   "author": "CK"
+  },
+  {
+   "id": 11072654,
+   "en": "Tom needs some entertainment.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 12196631,
+   "en": "We're hungry for entertainment.",
+   "author": "CK"
+  }
+ ],
+ "entrance": [
+  {
+   "id": 1458160,
+   "en": "Where's the entrance?",
+   "author": "CK"
+  },
+  {
+   "id": 14013040,
+   "en": "I'm at the entrance.",
+   "author": "rul"
+  },
+  {
+   "id": 8896680,
+   "en": "Here is the entrance.",
+   "author": "dzouras"
+  }
+ ],
+ "envelope": [
+  {
+   "id": 319648,
+   "en": "I need an envelope.",
+   "author": "CK"
+  },
+  {
+   "id": 3151493,
+   "en": "Give me that envelope.",
+   "author": "CK"
+  },
+  {
+   "id": 10547943,
+   "en": "I opened the envelope.",
+   "author": "AlanF_US"
+  }
+ ],
+ "envy": [
+  {
+   "id": 6884465,
+   "en": "I envy it.",
+   "author": "tripbeetle"
+  },
+  {
+   "id": 259949,
+   "en": "I envy him.",
+   "author": "CK"
+  },
+  {
+   "id": 1414039,
+   "en": "I envy her.",
+   "author": "Eldad"
+  }
+ ],
+ "episode": [
+  {
+   "id": 12132915,
+   "en": "I saw that episode.",
+   "author": "CK"
+  },
+  {
+   "id": 8834046,
+   "en": "I like this episode.",
+   "author": "CK"
+  },
+  {
+   "id": 12077289,
+   "en": "I love that episode.",
+   "author": "CK"
+  }
+ ],
+ "error": [
+  {
+   "id": 12141631,
+   "en": "I am Error.",
+   "author": "shekitten"
+  },
+  {
+   "id": 9799377,
+   "en": "That's an error.",
+   "author": "CK"
+  },
+  {
+   "id": 2936401,
+   "en": "This is an error.",
+   "author": "freddy1"
+  }
+ ],
+ "escalator": [
+  {
+   "id": 8826845,
+   "en": "Where is the escalator?",
+   "ja": "エスカレーターはどこですか？",
+   "author": "sundown"
+  },
+  {
+   "id": 7737792,
+   "en": "The escalator is broken.",
+   "author": "CK"
+  },
+  {
+   "id": 3775690,
+   "en": "The escalator quickly stopped.",
+   "author": "popball"
+  }
+ ],
+ "escape": [
+  {
+   "id": 11848169,
+   "en": "I can escape.",
+   "author": "CK"
+  },
+  {
+   "id": 2253808,
+   "en": "Try to escape.",
+   "author": "CK"
+  },
+  {
+   "id": 11255969,
+   "en": "Did he escape?",
+   "author": "Luornu"
+  }
+ ],
+ "especially": [
+  {
+   "id": 10194831,
+   "en": "He especially likes dogs.",
+   "author": "terrywallwork"
+  },
+  {
+   "id": 10194836,
+   "en": "He likes dogs especially.",
+   "author": "terrywallwork"
+  },
+  {
+   "id": 13712059,
+   "en": "She loved Tom especially.",
+   "author": "soridsolid"
+  }
+ ],
+ "essay": [
+  {
+   "id": 10653332,
+   "en": "This essay is mine.",
+   "author": "CK"
+  },
+  {
+   "id": 1114890,
+   "en": "Write a short essay.",
+   "author": "CM"
+  },
+  {
+   "id": 5647189,
+   "en": "I'm writing an essay.",
+   "author": "mailohilohi"
+  }
+ ],
+ "establish": [
+  {
+   "id": 954147,
+   "en": "Let's establish some ground rules.",
+   "author": "CK"
+  },
+  {
+   "id": 2654547,
+   "en": "Establish contact with me tomorrow.",
+   "author": "gauravjiii"
+  },
+  {
+   "id": 10856241,
+   "en": "Try to establish yourself as a leader.",
+   "author": "Amastan"
+  }
+ ],
+ "euro": [
+  {
+   "id": 12552605,
+   "en": "Do you have one euro?",
+   "author": "ZakariaHard"
+  },
+  {
+   "id": 2154854,
+   "en": "Can you give me a euro?",
+   "author": "oneconor"
+  },
+  {
+   "id": 9665493,
+   "en": "You can also pay in euro.",
+   "author": "moxy"
+  }
+ ],
+ "even": [
+  {
+   "id": 12665059,
+   "en": "I get even.",
+   "author": "anzart"
+  },
+  {
+   "id": 582692,
+   "en": "We are even.",
+   "author": "adynee"
+  },
+  {
+   "id": 1356997,
+   "en": "Not even me!",
+   "author": "sacredceltic"
+  }
+ ],
+ "ever": [
+  {
+   "id": 322148,
+   "en": "Did you ever?",
+   "author": "rul"
+  },
+  {
+   "id": 10522311,
+   "en": "Who ever cares?",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 2245327,
+   "en": "Don't ever leave.",
+   "author": "CK"
+  }
+ ],
+ "evidence": [
+  {
+   "id": 2245880,
+   "en": "I have evidence.",
+   "author": "CK"
+  },
+  {
+   "id": 2246003,
+   "en": "I need evidence.",
+   "author": "CK"
+  },
+  {
+   "id": 8040676,
+   "en": "I want evidence.",
+   "author": "CK"
+  }
+ ],
+ "exactly": [
+  {
+   "id": 619856,
+   "en": "Exactly, my dear.",
+   "author": "ulyssemc1"
+  },
+  {
+   "id": 11535624,
+   "en": "My point exactly.",
+   "author": "imperiex"
+  },
+  {
+   "id": 12892098,
+   "en": "How much exactly?",
+   "author": "ddnktr"
+  }
+ ],
+ "exam": [
+  {
+   "id": 2002557,
+   "en": "The exam is easy.",
+   "author": "bichodebola"
+  },
+  {
+   "id": 2325886,
+   "en": "I failed my exam.",
+   "author": "CK"
+  },
+  {
+   "id": 13617203,
+   "en": "I failed an exam.",
+   "author": "araneo"
+  }
+ ],
+ "except": [
+  {
+   "id": 6575844,
+   "en": "All except you.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 3918495,
+   "en": "Everyone left except us.",
+   "author": "CH"
+  },
+  {
+   "id": 3918497,
+   "en": "Everyone left except me.",
+   "author": "CH"
+  }
+ ],
+ "exchange": [
+  {
+   "id": 13987926,
+   "en": "Let's exchange books.",
+   "author": "rul"
+  },
+  {
+   "id": 12866419,
+   "en": "Let's exchange contacts.",
+   "author": "58mph"
+  },
+  {
+   "id": 6575163,
+   "en": "Can I exchange this?",
+   "author": "Eccles17"
+  }
+ ],
+ "exhibition": [
+  {
+   "id": 44922,
+   "en": "The exhibition is now open.",
+   "author": "CK"
+  },
+  {
+   "id": 5776493,
+   "en": "Did you enjoy the exhibition?",
+   "author": "Hybrid"
+  },
+  {
+   "id": 13905806,
+   "en": "The exhibition hall is large.",
+   "author": "zogwarg"
+  }
+ ],
+ "exist": [
+  {
+   "id": 803685,
+   "en": "Do I exist?",
+   "author": "araneo"
+  },
+  {
+   "id": 803702,
+   "en": "Do we exist?",
+   "author": "sundown"
+  },
+  {
+   "id": 803688,
+   "en": "Do you exist?",
+   "author": "carlosalberto"
+  }
+ ],
+ "expect": [
+  {
+   "id": 7809958,
+   "en": "I expect details.",
+   "author": "shekitten"
+  },
+  {
+   "id": 5852299,
+   "en": "I expect a lot.",
+   "author": "CK"
+  },
+  {
+   "id": 3735255,
+   "en": "We expect to go.",
+   "author": "CK"
+  }
+ ],
+ "experience": [
+  {
+   "id": 7114243,
+   "en": "I lack experience.",
+   "author": "CM"
+  },
+  {
+   "id": 10242926,
+   "en": "He has experience.",
+   "author": "LimeGreenTeknii"
+  },
+  {
+   "id": 10564898,
+   "en": "I have experience.",
+   "author": "ddnktr"
+  }
+ ],
+ "expert": [
+  {
+   "id": 869423,
+   "en": "I'm no expert.",
+   "author": "CK"
+  },
+  {
+   "id": 2244986,
+   "en": "Ask an expert.",
+   "author": "CK"
+  },
+  {
+   "id": 6196236,
+   "en": "I'm an expert.",
+   "author": "CK"
+  }
+ ],
+ "explain": [
+  {
+   "id": 2245641,
+   "en": "I can explain.",
+   "author": "CK"
+  },
+  {
+   "id": 12265407,
+   "en": "May I explain?",
+   "author": "sundown"
+  },
+  {
+   "id": 12265409,
+   "en": "Can I explain?",
+   "author": "sundown"
+  }
+ ],
+ "explanation": [
+  {
+   "id": 10143617,
+   "en": "Add an explanation.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 5752072,
+   "en": "Here's an explanation.",
+   "author": "CM"
+  },
+  {
+   "id": 2251174,
+   "en": "That's one explanation.",
+   "author": "CK"
+  }
+ ],
+ "explore": [
+  {
+   "id": 4986615,
+   "en": "Go explore that.",
+   "author": "Airvian"
+  },
+  {
+   "id": 2754615,
+   "en": "They explore the problem.",
+   "author": "catcher"
+  },
+  {
+   "id": 5105291,
+   "en": "Let's explore the forest!",
+   "author": "bagonyi"
+  }
+ ],
+ "express": [
+  {
+   "id": 6053376,
+   "en": "Express your ideas.",
+   "author": "OsoHombre"
+  },
+  {
+   "id": 10862470,
+   "en": "Express your feelings.",
+   "author": "Amastan"
+  },
+  {
+   "id": 10596591,
+   "en": "Express yourself clearly!",
+   "author": "shekitten"
+  }
+ ],
+ "expression": [
+  {
+   "id": 2249038,
+   "en": "It's an expression.",
+   "author": "CK"
+  },
+  {
+   "id": 10022030,
+   "en": "It's a set expression.",
+   "author": "sundown"
+  },
+  {
+   "id": 5953583,
+   "en": "I love that expression.",
+   "author": "mailohilohi"
+  }
+ ],
+ "extra": [
+  {
+   "id": 1890924,
+   "en": "I'll pay extra.",
+   "author": "CK"
+  },
+  {
+   "id": 7733771,
+   "en": "We need extra help.",
+   "author": "CK"
+  },
+  {
+   "id": 1517917,
+   "en": "Tom is extra careful.",
+   "author": "Spamster"
+  }
+ ],
+ "extremely": [
+  {
+   "id": 5859391,
+   "en": "I'm extremely shy.",
+   "author": "CK"
+  },
+  {
+   "id": 2648113,
+   "en": "I'm extremely busy.",
+   "author": "CK"
+  },
+  {
+   "id": 7114152,
+   "en": "I'm extremely rich.",
+   "author": "CM"
+  }
+ ],
+ "fact": [
+  {
+   "id": 2249001,
+   "en": "It's a fact.",
+   "author": "CK"
+  },
+  {
+   "id": 1756836,
+   "en": "That's a fact.",
+   "author": "Spamster"
+  },
+  {
+   "id": 1653958,
+   "en": "This is a fact.",
+   "author": "CK"
+  }
+ ],
+ "fail": [
+  {
+   "id": 9564910,
+   "en": "I never fail.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 11920910,
+   "en": "Did Tom fail?",
+   "author": "CK"
+  },
+  {
+   "id": 65451,
+   "en": "Words fail me.",
+   "author": "shanghainese"
+  }
+ ],
+ "fairly": [
+  {
+   "id": 2649019,
+   "en": "I'm fairly busy.",
+   "author": "CK"
+  },
+  {
+   "id": 8480151,
+   "en": "He's fairly old.",
+   "author": "CH"
+  },
+  {
+   "id": 8480153,
+   "en": "He's fairly shy.",
+   "author": "CH"
+  }
+ ],
+ "fall": [
+  {
+   "id": 6398212,
+   "en": "I love fall.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 12353216,
+   "en": "I like fall.",
+   "author": "CM"
+  },
+  {
+   "id": 14065553,
+   "en": "Did it fall?",
+   "author": "rul"
+  }
+ ],
+ "familiar": [
+  {
+   "id": 2233680,
+   "en": "This is familiar.",
+   "author": "CK"
+  },
+  {
+   "id": 1084449,
+   "en": "It looks familiar.",
+   "author": "CM"
+  },
+  {
+   "id": 1895719,
+   "en": "You look familiar.",
+   "author": "CK"
+  }
+ ],
+ "fancy": [
+  {
+   "id": 434720,
+   "en": "Fancy a drink?",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 331142,
+   "en": "Do you fancy me?",
+   "author": "shekitten"
+  },
+  {
+   "id": 9788302,
+   "en": "I don't fancy it.",
+   "author": "helloroto"
+  }
+ ],
+ "fantastic": [
+  {
+   "id": 1811645,
+   "en": "It is fantastic.",
+   "author": "Ameer"
+  },
+  {
+   "id": 13788367,
+   "en": "He is fantastic.",
+   "author": "Just_Balls"
+  },
+  {
+   "id": 2202844,
+   "en": "Tom is fantastic.",
+   "author": "CK"
+  }
+ ],
+ "far": [
+  {
+   "id": 1308427,
+   "en": "Is it far?",
+   "author": "CK"
+  },
+  {
+   "id": 13752567,
+   "en": "It is far.",
+   "author": "qwertydiy"
+  },
+  {
+   "id": 8737480,
+   "en": "Far from it.",
+   "author": "shekitten"
+  }
+ ],
+ "fare": [
+  {
+   "id": 13898769,
+   "en": "Fare you well.",
+   "author": "menaud"
+  },
+  {
+   "id": 13464409,
+   "en": "What's the fare?",
+   "author": "CK"
+  },
+  {
+   "id": 325756,
+   "en": "Pay your fare here.",
+   "author": "CK"
+  }
+ ],
+ "fascinating": [
+  {
+   "id": 2202848,
+   "en": "Tom is fascinating.",
+   "author": "CK"
+  },
+  {
+   "id": 4498488,
+   "en": "It was fascinating.",
+   "author": "CK"
+  },
+  {
+   "id": 1853768,
+   "en": "This is fascinating.",
+   "author": "Spamster"
+  }
+ ],
+ "fashion": [
+  {
+   "id": 12006795,
+   "en": "It's the fashion!",
+   "author": "LdjuherTaqvaylit"
+  },
+  {
+   "id": 12926478,
+   "en": "He breathes fashion.",
+   "author": "Conjuice"
+  },
+  {
+   "id": 325466,
+   "en": "Don't follow fashion.",
+   "author": "AlanF_US"
+  }
+ ],
+ "fault": [
+  {
+   "id": 660437,
+   "en": "It's my fault.",
+   "author": "CM"
+  },
+  {
+   "id": 6794597,
+   "en": "It's my fault!",
+   "author": "Eccles17"
+  },
+  {
+   "id": 441941,
+   "en": "Who's at fault?",
+   "author": "CM"
+  }
+ ],
+ "favor": [
+  {
+   "id": 11322273,
+   "en": "Who's in favor?",
+   "author": "shekitten"
+  },
+  {
+   "id": 3206334,
+   "en": "Do me a favor.",
+   "author": "asveja"
+  },
+  {
+   "id": 325151,
+   "en": "I need a favor.",
+   "author": "CK"
+  }
+ ],
+ "fear": [
+  {
+   "id": 245257,
+   "en": "I fear so.",
+   "author": "Zifre"
+  },
+  {
+   "id": 3887286,
+   "en": "Have no fear.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 6040464,
+   "en": "What is fear?",
+   "author": "mailohilohi"
+  }
+ ],
+ "feather": [
+  {
+   "id": 3726474,
+   "en": "We're birds of a feather.",
+   "author": "CM"
+  },
+  {
+   "id": 5923977,
+   "en": "He picked up the feather.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 8173926,
+   "en": "He has a feather collection.",
+   "author": "Amastan"
+  }
+ ],
+ "feature": [
+  {
+   "id": 10776109,
+   "en": "This is a nice feature.",
+   "author": "CK"
+  },
+  {
+   "id": 10774986,
+   "en": "This is a wonderful feature.",
+   "author": "ramanirudh"
+  },
+  {
+   "id": 11523433,
+   "en": "It must be a new feature.",
+   "author": "CK"
+  }
+ ],
+ "fee": [
+  {
+   "id": 456055,
+   "en": "Is there a fee?",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 11816371,
+   "en": "Give me my fee.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 6577477,
+   "en": "What is this fee?",
+   "author": "Eccles17"
+  }
+ ],
+ "female": [
+  {
+   "id": 13937985,
+   "en": "The bear is female.",
+   "author": "rul"
+  },
+  {
+   "id": 13938031,
+   "en": "The baby is female.",
+   "author": "rul"
+  },
+  {
+   "id": 13937979,
+   "en": "The person is female.",
+   "author": "rul"
+  }
+ ],
+ "fence": [
+  {
+   "id": 5942259,
+   "en": "Paint the fence.",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 9303661,
+   "en": "This is a fence.",
+   "author": "Nylez"
+  },
+  {
+   "id": 5858890,
+   "en": "I fixed the fence.",
+   "author": "CK"
+  }
+ ],
+ "few": [
+  {
+   "id": 11917069,
+   "en": "Get a few.",
+   "author": "CK"
+  },
+  {
+   "id": 13713941,
+   "en": "Few know it.",
+   "author": "sundown"
+  },
+  {
+   "id": 250142,
+   "en": "Give me a few.",
+   "author": "CK"
+  }
+ ],
+ "fiction": [
+  {
+   "id": 8392625,
+   "en": "He's reading fiction.",
+   "author": "Amastan"
+  },
+  {
+   "id": 8224253,
+   "en": "I don't read fiction.",
+   "author": "CK"
+  },
+  {
+   "id": 9230142,
+   "en": "I love science fiction.",
+   "author": "CK"
+  }
+ ],
+ "fighter": [
+  {
+   "id": 7114445,
+   "en": "I'm a fighter.",
+   "author": "CM"
+  },
+  {
+   "id": 8478383,
+   "en": "He's a fighter.",
+   "author": "CH"
+  },
+  {
+   "id": 2272798,
+   "en": "Tom is a fighter.",
+   "author": "CK"
+  }
+ ],
+ "figure": [
+  {
+   "id": 13141279,
+   "en": "Figure it out.",
+   "author": "rul"
+  },
+  {
+   "id": 310994,
+   "en": "She has no figure.",
+   "author": "CM"
+  },
+  {
+   "id": 3330980,
+   "en": "You figure it out.",
+   "author": "CK"
+  }
+ ],
+ "film": [
+  {
+   "id": 10245526,
+   "en": "Pick a film.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 8911198,
+   "en": "Watch this film.",
+   "author": "mialiesperantistas"
+  },
+  {
+   "id": 8429233,
+   "en": "Please film this.",
+   "author": "Amastan"
+  }
+ ],
+ "final": [
+  {
+   "id": 2121113,
+   "en": "My answer is final.",
+   "author": "MethodGT"
+  },
+  {
+   "id": 14030319,
+   "en": "The price is final.",
+   "author": "carlosalberto"
+  },
+  {
+   "id": 744541,
+   "en": "All sales are final.",
+   "author": "darinmex"
+  }
+ ],
+ "finally": [
+  {
+   "id": 5852243,
+   "en": "I finally left.",
+   "author": "CK"
+  },
+  {
+   "id": 5820613,
+   "en": "I'm finally out.",
+   "author": "OsoHombre"
+  },
+  {
+   "id": 8479042,
+   "en": "He finally left.",
+   "author": "CH"
+  }
+ ],
+ "fisherman": [
+  {
+   "id": 7931473,
+   "en": "I'm a fisherman.",
+   "author": "shekitten"
+  },
+  {
+   "id": 7931464,
+   "en": "He's a fisherman.",
+   "author": "shekitten"
+  },
+  {
+   "id": 7931499,
+   "en": "She's a fisherman.",
+   "author": "shekitten"
+  }
+ ],
+ "fit": [
+  {
+   "id": 5263412,
+   "en": "I feel fit.",
+   "author": "CK"
+  },
+  {
+   "id": 6645780,
+   "en": "Tom is fit.",
+   "author": "CK"
+  },
+  {
+   "id": 1676643,
+   "en": "Will it fit?",
+   "author": "Spamster"
+  }
+ ],
+ "fix": [
+  {
+   "id": 1120756,
+   "en": "You fix it.",
+   "author": "cntrational"
+  },
+  {
+   "id": 8708909,
+   "en": "Fix it now.",
+   "author": "Amastan"
+  },
+  {
+   "id": 10159463,
+   "en": "Fix my toy.",
+   "author": "ddnktr"
+  }
+ ],
+ "flight": [
+  {
+   "id": 3581293,
+   "en": "Fight or flight.",
+   "author": "Katabasis"
+  },
+  {
+   "id": 4498321,
+   "en": "Enjoy the flight.",
+   "author": "CK"
+  },
+  {
+   "id": 735877,
+   "en": "Enjoy your flight.",
+   "author": "cruzedu73"
+  }
+ ],
+ "float": [
+  {
+   "id": 11952619,
+   "en": "Tom can't float.",
+   "author": "CK"
+  },
+  {
+   "id": 5340605,
+   "en": "Stones don't float.",
+   "author": "CarpeLanam"
+  },
+  {
+   "id": 5275040,
+   "en": "Why does ice float?",
+   "author": "Hybrid"
+  }
+ ],
+ "flood": [
+  {
+   "id": 6938324,
+   "en": "We had a flood.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 10013003,
+   "en": "The river is in flood.",
+   "author": "sundown"
+  },
+  {
+   "id": 13134752,
+   "en": "Many drops make a flood.",
+   "author": "carlosalberto"
+  }
+ ],
+ "flour": [
+  {
+   "id": 11892177,
+   "en": "I need flour.",
+   "author": "CK"
+  },
+  {
+   "id": 12816566,
+   "en": "This is flour.",
+   "author": "Lumi_alt"
+  },
+  {
+   "id": 12786522,
+   "en": "I'm buying flour.",
+   "author": "rul"
+  }
+ ],
+ "fog": [
+  {
+   "id": 10736447,
+   "en": "Is that fog?",
+   "author": "ddnktr"
+  },
+  {
+   "id": 1148369,
+   "en": "Into the fog!",
+   "author": "cntrational"
+  },
+  {
+   "id": 11181161,
+   "en": "Fog is expected.",
+   "author": "mutskt"
+  }
+ ],
+ "folder": [
+  {
+   "id": 9199380,
+   "en": "Where's my folder?",
+   "author": "CK"
+  },
+  {
+   "id": 9198611,
+   "en": "Where is my folder?",
+   "author": "ZegPhig"
+  },
+  {
+   "id": 6627238,
+   "en": "The folder is empty.",
+   "author": "Schuager"
+  }
+ ],
+ "follow": [
+  {
+   "id": 11164975,
+   "en": "I follow him!",
+   "author": "SunnyMoon"
+  },
+  {
+   "id": 319999,
+   "en": "Do you follow?",
+   "author": "CK"
+  },
+  {
+   "id": 2249671,
+   "en": "Now follow me.",
+   "author": "CK"
+  }
+ ],
+ "fool": [
+  {
+   "id": 2248116,
+   "en": "I'm no fool.",
+   "author": "CK"
+  },
+  {
+   "id": 8476315,
+   "en": "He's a fool.",
+   "author": "CH"
+  },
+  {
+   "id": 9193081,
+   "en": "What a fool!",
+   "author": "CK"
+  }
+ ],
+ "forbid": [
+  {
+   "id": 4915729,
+   "en": "I forbid that.",
+   "author": "CK"
+  },
+  {
+   "id": 12687889,
+   "en": "I don't forbid them.",
+   "author": "jacoblaguerre"
+  },
+  {
+   "id": 12911772,
+   "en": "Our rules forbid that.",
+   "author": "rul"
+  }
+ ],
+ "force": [
+  {
+   "id": 6938318,
+   "en": "Don't force it.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 12667075,
+   "en": "Don't force me!",
+   "author": "rul"
+  },
+  {
+   "id": 2215741,
+   "en": "Tom will use force.",
+   "author": "CK"
+  }
+ ],
+ "forest": [
+  {
+   "id": 1148333,
+   "en": "Watch the forest!",
+   "author": "cntrational"
+  },
+  {
+   "id": 8345363,
+   "en": "I was a forest.",
+   "author": "Teashrock"
+  },
+  {
+   "id": 13198758,
+   "en": "I'm in the forest.",
+   "author": "frpzzd"
+  }
+ ],
+ "forever": [
+  {
+   "id": 13927044,
+   "en": "Forever is now.",
+   "author": "rul"
+  },
+  {
+   "id": 13723879,
+   "en": "Love you forever.",
+   "author": "an_hien"
+  },
+  {
+   "id": 1521630,
+   "en": "Nothing is forever.",
+   "author": "CM"
+  }
+ ],
+ "fork": [
+  {
+   "id": 11914705,
+   "en": "Get a fork.",
+   "author": "CK"
+  },
+  {
+   "id": 11202588,
+   "en": "Use the fork.",
+   "author": "carlosalberto"
+  },
+  {
+   "id": 12084325,
+   "en": "That's a fork.",
+   "author": "sundown"
+  }
+ ],
+ "fortunately": [
+  {
+   "id": 12198119,
+   "en": "Fortunately, it isn't raining.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 13477136,
+   "en": "Fortunately, it's not raining.",
+   "author": "CK"
+  },
+  {
+   "id": 4497683,
+   "en": "Fortunately, that didn't happen.",
+   "author": "CK"
+  }
+ ],
+ "fortune": [
+  {
+   "id": 13287778,
+   "en": "Fortune favors fools.",
+   "author": "rul"
+  },
+  {
+   "id": 13184714,
+   "en": "It costs a fortune.",
+   "author": "glossboss"
+  },
+  {
+   "id": 4264256,
+   "en": "They cost a fortune.",
+   "author": "JFMorais"
+  }
+ ],
+ "forward": [
+  {
+   "id": 2249678,
+   "en": "Now go forward.",
+   "author": "CK"
+  },
+  {
+   "id": 4225872,
+   "en": "Pay it forward.",
+   "author": "Sassyj"
+  },
+  {
+   "id": 11439183,
+   "en": "I moved forward.",
+   "author": "Agestur"
+  }
+ ],
+ "frame": [
+  {
+   "id": 9246983,
+   "en": "I'll frame the painting.",
+   "author": "CK"
+  },
+  {
+   "id": 299568,
+   "en": "He has a small frame.",
+   "author": "CM"
+  },
+  {
+   "id": 2253243,
+   "en": "He has a heavy frame.",
+   "author": "_undertoad"
+  }
+ ],
+ "frank": [
+  {
+   "id": 2202881,
+   "en": "Tom is frank.",
+   "author": "CK"
+  },
+  {
+   "id": 8476375,
+   "en": "He was frank.",
+   "author": "CH"
+  },
+  {
+   "id": 3171145,
+   "en": "Tom was frank.",
+   "author": "CK"
+  }
+ ],
+ "freedom": [
+  {
+   "id": 4621897,
+   "en": "I like freedom.",
+   "author": "violetanka"
+  },
+  {
+   "id": 5059228,
+   "en": "I want freedom.",
+   "author": "shabana1707"
+  },
+  {
+   "id": 4493757,
+   "en": "We have freedom.",
+   "author": "CK"
+  }
+ ],
+ "freeze": [
+  {
+   "id": 10248534,
+   "en": "Freeze, hands up!",
+   "author": "LimeGreenTeknii"
+  },
+  {
+   "id": 3044762,
+   "en": "Freeze right there!",
+   "author": "Amastan"
+  },
+  {
+   "id": 3327477,
+   "en": "Can you freeze it?",
+   "author": "CK"
+  }
+ ],
+ "fresh": [
+  {
+   "id": 8610483,
+   "en": "Eat fresh food.",
+   "author": "Amastan"
+  },
+  {
+   "id": 2248762,
+   "en": "It looked fresh.",
+   "author": "CK"
+  },
+  {
+   "id": 2252699,
+   "en": "These are fresh.",
+   "author": "CK"
+  }
+ ],
+ "fridge": [
+  {
+   "id": 11804008,
+   "en": "Here's our fridge.",
+   "author": "calypsow"
+  },
+  {
+   "id": 2648091,
+   "en": "It's in the fridge.",
+   "author": "CK"
+  },
+  {
+   "id": 12231580,
+   "en": "The fridge is open.",
+   "author": "sundown"
+  }
+ ],
+ "friendship": [
+  {
+   "id": 1148277,
+   "en": "We wish friendship.",
+   "author": "cntrational"
+  },
+  {
+   "id": 2667944,
+   "en": "For our friendship!",
+   "author": "FeuDRenais2"
+  },
+  {
+   "id": 11934013,
+   "en": "Our friendship is over.",
+   "author": "Amastan"
+  }
+ ],
+ "frighten": [
+  {
+   "id": 4325459,
+   "en": "I frighten easily.",
+   "author": "negativeclock"
+  },
+  {
+   "id": 6121050,
+   "en": "Do I frighten you?",
+   "author": "mailohilohi"
+  },
+  {
+   "id": 4278874,
+   "en": "Did I frighten you?",
+   "author": "Mofli"
+  }
+ ],
+ "frightened": [
+  {
+   "id": 2247480,
+   "en": "I was frightened.",
+   "author": "CK"
+  },
+  {
+   "id": 8480755,
+   "en": "He frightened me.",
+   "author": "CH"
+  },
+  {
+   "id": 2202892,
+   "en": "Tom is frightened.",
+   "author": "CK"
+  }
+ ],
+ "frightening": [
+  {
+   "id": 4498770,
+   "en": "It was frightening.",
+   "author": "CK"
+  },
+  {
+   "id": 2218149,
+   "en": "You're frightening me.",
+   "author": "CK"
+  },
+  {
+   "id": 2247255,
+   "en": "It will be frightening.",
+   "author": "mayahueli"
+  }
+ ],
+ "fry": [
+  {
+   "id": 6634218,
+   "en": "Deep fry everything.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 2766914,
+   "en": "Fry me an egg.",
+   "author": "CK"
+  },
+  {
+   "id": 2766916,
+   "en": "Fry me some eggs.",
+   "author": "CK"
+  }
+ ],
+ "fully": [
+  {
+   "id": 3056971,
+   "en": "I fully agree.",
+   "author": "CM"
+  },
+  {
+   "id": 9585303,
+   "en": "Accept yourself fully.",
+   "author": "Amastan"
+  },
+  {
+   "id": 13622347,
+   "en": "I'm fully awake now.",
+   "author": "CK"
+  }
+ ],
+ "function": [
+  {
+   "id": 10900070,
+   "en": "What is my function?",
+   "author": "CM"
+  },
+  {
+   "id": 11575417,
+   "en": "What is its function?",
+   "author": "Nuel"
+  },
+  {
+   "id": 9360366,
+   "en": "Dates improve brain function.",
+   "author": "Amastan"
+  }
+ ],
+ "furniture": [
+  {
+   "id": 5858822,
+   "en": "I make furniture.",
+   "author": "CK"
+  },
+  {
+   "id": 5858840,
+   "en": "I need furniture.",
+   "author": "CK"
+  },
+  {
+   "id": 2237419,
+   "en": "Tom needs furniture.",
+   "author": "CK"
+  }
+ ],
+ "further": [
+  {
+   "id": 12421843,
+   "en": "Just run further.",
+   "author": "maaster"
+  },
+  {
+   "id": 12091651,
+   "en": "Just do it further.",
+   "author": "maaster"
+  },
+  {
+   "id": 2809790,
+   "en": "You can't go further.",
+   "author": "ExponentialYoghurt"
+  }
+ ],
+ "gallery": [
+  {
+   "id": 10908024,
+   "en": "Where's the art gallery?",
+   "author": "CM"
+  },
+  {
+   "id": 1742370,
+   "en": "May I visit an art gallery?",
+   "author": "belgavox"
+  },
+  {
+   "id": 4402216,
+   "en": "Can I visit an art gallery?",
+   "author": "hakkeb"
+  }
+ ],
+ "garage": [
+  {
+   "id": 9826647,
+   "en": "Where's your garage?",
+   "author": "CK"
+  },
+  {
+   "id": 434794,
+   "en": "Go to the garage.",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 2648090,
+   "en": "It's in the garage.",
+   "author": "CK"
+  }
+ ],
+ "garlic": [
+  {
+   "id": 2790097,
+   "en": "I love garlic.",
+   "author": "mervert1"
+  },
+  {
+   "id": 6581254,
+   "en": "I love garlic!",
+   "author": "Eccles17"
+  },
+  {
+   "id": 6890571,
+   "en": "I like garlic.",
+   "author": "CK"
+  }
+ ],
+ "gas": [
+  {
+   "id": 64025,
+   "en": "I have gas.",
+   "author": "sysko"
+  },
+  {
+   "id": 11860035,
+   "en": "I need gas.",
+   "author": "CK"
+  },
+  {
+   "id": 681055,
+   "en": "I smell gas.",
+   "author": "Source_VOA"
+  }
+ ],
+ "gate": [
+  {
+   "id": 2249747,
+   "en": "Open the gate.",
+   "author": "CK"
+  },
+  {
+   "id": 12946761,
+   "en": "Open the gate!",
+   "author": "araneo"
+  },
+  {
+   "id": 853133,
+   "en": "Close the gate.",
+   "author": "piksea"
+  }
+ ],
+ "gather": [
+  {
+   "id": 12667811,
+   "en": "Gather them all.",
+   "author": "anzart"
+  },
+  {
+   "id": 2573438,
+   "en": "Gather yourself up.",
+   "author": "VirtuOZ"
+  },
+  {
+   "id": 6703304,
+   "en": "Gather your things.",
+   "author": "Eccles17"
+  }
+ ],
+ "gender": [
+  {
+   "id": 12080463,
+   "en": "What is your gender?",
+   "author": "FishlandicFishy"
+  },
+  {
+   "id": 8434252,
+   "en": "Tom changed his gender.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 3559471,
+   "en": "Some animals change gender.",
+   "author": "pleidian"
+  }
+ ],
+ "generation": [
+  {
+   "id": 13705285,
+   "en": "This generation is cooked.",
+   "author": "kiryopi"
+  },
+  {
+   "id": 10863046,
+   "en": "We're from the same generation.",
+   "author": "CK"
+  },
+  {
+   "id": 10467797,
+   "en": "You're from a different generation.",
+   "author": "Objectivesea"
+  }
+ ],
+ "gentle": [
+  {
+   "id": 8798108,
+   "en": "He is gentle.",
+   "author": "jimkillock"
+  },
+  {
+   "id": 312370,
+   "en": "She is gentle.",
+   "author": "CC"
+  },
+  {
+   "id": 2236699,
+   "en": "Tom is gentle.",
+   "author": "CK"
+  }
+ ],
+ "globe": [
+  {
+   "id": 13461688,
+   "en": "Earth looks like a globe.",
+   "author": "rul"
+  },
+  {
+   "id": 12898611,
+   "en": "I love traveling around the globe.",
+   "author": "Ussis"
+  },
+  {
+   "id": 315774,
+   "en": "She has traveled all over the globe.",
+   "author": "mamat"
+  }
+ ],
+ "glove": [
+  {
+   "id": 8668903,
+   "en": "It's a glove.",
+   "author": "ajje"
+  },
+  {
+   "id": 9249126,
+   "en": "Where's my other glove?",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 9736652,
+   "en": "It fits like a glove.",
+   "author": "CK"
+  }
+ ],
+ "golden": [
+  {
+   "id": 10590512,
+   "en": "He has golden hands.",
+   "author": "felidad"
+  },
+  {
+   "id": 7428347,
+   "en": "It's a golden family.",
+   "author": "Igider"
+  },
+  {
+   "id": 11877136,
+   "en": "This knife is golden.",
+   "author": "zogwarg"
+  }
+ ],
+ "golf": [
+  {
+   "id": 798254,
+   "en": "I love golf.",
+   "author": "luna_moonsilver"
+  },
+  {
+   "id": 6777213,
+   "en": "I like golf.",
+   "author": "CK"
+  },
+  {
+   "id": 8820875,
+   "en": "I play golf.",
+   "author": "CK"
+  }
+ ],
+ "government": [
+  {
+   "id": 9131999,
+   "en": "We're government workers.",
+   "author": "CK"
+  },
+  {
+   "id": 257360,
+   "en": "I'm a government worker.",
+   "author": "CM"
+  },
+  {
+   "id": 2546025,
+   "en": "I'm from the government.",
+   "author": "CK"
+  }
+ ],
+ "grace": [
+  {
+   "id": 6587889,
+   "en": "Can you say grace?",
+   "author": "Eccles17"
+  },
+  {
+   "id": 10892327,
+   "en": "She moves with grace.",
+   "author": "megamanenm"
+  },
+  {
+   "id": 12768815,
+   "en": "They walk with grace.",
+   "author": "Igider"
+  }
+ ],
+ "gradually": [
+  {
+   "id": 11524546,
+   "en": "Things change gradually.",
+   "author": "Nuel"
+  },
+  {
+   "id": 12158123,
+   "en": "It's gradually improving.",
+   "author": "sundown"
+  },
+  {
+   "id": 12158124,
+   "en": "It's improving gradually.",
+   "author": "sundown"
+  }
+ ],
+ "graduate": [
+  {
+   "id": 8479979,
+   "en": "He's a graduate.",
+   "author": "CH"
+  },
+  {
+   "id": 11926379,
+   "en": "Did Tom graduate?",
+   "author": "CK"
+  },
+  {
+   "id": 2283758,
+   "en": "I didn't graduate.",
+   "author": "CK"
+  }
+ ],
+ "grandchild": [
+  {
+   "id": 7467317,
+   "en": "Where's your grandchild?",
+   "author": "CM"
+  },
+  {
+   "id": 11223742,
+   "en": "My grandchild is eight.",
+   "author": "pip"
+  },
+  {
+   "id": 6442584,
+   "en": "This baby is your grandchild.",
+   "author": "OsoHombre"
+  }
+ ],
+ "granddaughter": [
+  {
+   "id": 8319179,
+   "en": "That's his granddaughter.",
+   "author": "Amastan"
+  },
+  {
+   "id": 7467273,
+   "en": "Where's your granddaughter?",
+   "author": "CK"
+  },
+  {
+   "id": 8319078,
+   "en": "I know my granddaughter.",
+   "author": "Amastan"
+  }
+ ],
+ "granny": [
+  {
+   "id": 13270214,
+   "en": "Go to granny!",
+   "author": "Tom9358"
+  },
+  {
+   "id": 8800670,
+   "en": "Go to your granny.",
+   "author": "deniko"
+  },
+  {
+   "id": 8173890,
+   "en": "He visited his granny.",
+   "author": "Amastan"
+  }
+ ],
+ "grateful": [
+  {
+   "id": 3734399,
+   "en": "I was grateful.",
+   "author": "CK"
+  },
+  {
+   "id": 2236703,
+   "en": "Tom is grateful.",
+   "author": "CK"
+  },
+  {
+   "id": 3724725,
+   "en": "I'm so grateful.",
+   "author": "CM"
+  }
+ ],
+ "greatly": [
+  {
+   "id": 10545443,
+   "en": "I'm greatly impressed.",
+   "author": "CK"
+  },
+  {
+   "id": 13797760,
+   "en": "He wants it greatly.",
+   "author": "Ooneykcall"
+  },
+  {
+   "id": 13796706,
+   "en": "You honor me greatly.",
+   "author": "rul"
+  }
+ ],
+ "greedy": [
+  {
+   "id": 2202911,
+   "en": "Tom is greedy.",
+   "author": "CK"
+  },
+  {
+   "id": 3707647,
+   "en": "She is greedy.",
+   "author": "popball"
+  },
+  {
+   "id": 6732228,
+   "en": "We are greedy.",
+   "author": "Eccles17"
+  }
+ ],
+ "guard": [
+  {
+   "id": 5828971,
+   "en": "I'm a guard.",
+   "author": "CK"
+  },
+  {
+   "id": 8476588,
+   "en": "He's a guard.",
+   "author": "CH"
+  },
+  {
+   "id": 9826084,
+   "en": "Stay on guard!",
+   "author": "AmarMecheri"
+  }
+ ],
+ "guidebook": [
+  {
+   "id": 11582179,
+   "en": "I left the guidebook at the hotel.",
+   "author": "sundown"
+  }
+ ],
+ "ham": [
+  {
+   "id": 12807538,
+   "en": "I eat ham.",
+   "author": "rul"
+  },
+  {
+   "id": 6777207,
+   "en": "I like ham.",
+   "author": "CK"
+  },
+  {
+   "id": 11890979,
+   "en": "I want ham.",
+   "author": "CK"
+  }
+ ],
+ "handbag": [
+  {
+   "id": 10739482,
+   "en": "That's my handbag.",
+   "author": "sundown"
+  },
+  {
+   "id": 11636828,
+   "en": "That's your handbag.",
+   "author": "sundown"
+  },
+  {
+   "id": 1764601,
+   "en": "This is my handbag.",
+   "author": "CK"
+  }
+ ],
+ "handle": [
+  {
+   "id": 1890912,
+   "en": "I'll handle it.",
+   "author": "CK"
+  },
+  {
+   "id": 2235752,
+   "en": "I'll handle Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 3915730,
+   "en": "I'll handle him.",
+   "author": "CH"
+  }
+ ],
+ "happily": [
+  {
+   "id": 12832939,
+   "en": "I'll go happily!",
+   "author": "rul"
+  },
+  {
+   "id": 11430215,
+   "en": "I happily agreed.",
+   "author": "Agestur"
+  },
+  {
+   "id": 14008410,
+   "en": "He lived happily.",
+   "author": "stoopeedhooman"
+  }
+ ],
+ "happiness": [
+  {
+   "id": 404565,
+   "en": "What is happiness?",
+   "author": "telsfbay"
+  },
+  {
+   "id": 7798548,
+   "en": "Enjoy the happiness.",
+   "author": "sharris123"
+  },
+  {
+   "id": 10179416,
+   "en": "You're my happiness.",
+   "author": "maaster"
+  }
+ ],
+ "hardly": [
+  {
+   "id": 3947367,
+   "en": "I hardly work.",
+   "author": "mervert1"
+  },
+  {
+   "id": 292769,
+   "en": "He hardly works.",
+   "author": "CK"
+  },
+  {
+   "id": 4502195,
+   "en": "Tom hardly smiled.",
+   "author": "CK"
+  }
+ ],
+ "harm": [
+  {
+   "id": 5859355,
+   "en": "No harm done.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 2234110,
+   "en": "What's the harm?",
+   "author": "CK"
+  },
+  {
+   "id": 2245349,
+   "en": "Don't harm them.",
+   "author": "CK"
+  }
+ ],
+ "harmful": [
+  {
+   "id": 13442019,
+   "en": "It's harmful to him.",
+   "author": "rul"
+  },
+  {
+   "id": 2343122,
+   "en": "I see a harmful animal.",
+   "author": "kareybh"
+  },
+  {
+   "id": 10854230,
+   "en": "This is harmful for you.",
+   "author": "Amastan"
+  }
+ ],
+ "harmony": [
+  {
+   "id": 10314887,
+   "en": "They sing in harmony.",
+   "author": "timur_seber"
+  },
+  {
+   "id": 5363205,
+   "en": "Where there's harmony, there's order.",
+   "author": "Objectivesea"
+  },
+  {
+   "id": 13902773,
+   "en": "People should live together in harmony.",
+   "author": "rul"
+  }
+ ],
+ "harvest": [
+  {
+   "id": 6697361,
+   "en": "The harvest failed.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 12341673,
+   "en": "Rain destroyed the harvest.",
+   "author": "FlinkPoyd"
+  },
+  {
+   "id": 10345528,
+   "en": "Tomorrow I'll harvest grapes.",
+   "author": "CK"
+  }
+ ],
+ "headphone": [
+  {
+   "id": 1546543,
+   "en": "Put the headphone on.",
+   "author": "al_ex_an_der"
+  }
+ ],
+ "heat": [
+  {
+   "id": 2245554,
+   "en": "Heat it up.",
+   "author": "CK"
+  },
+  {
+   "id": 9720149,
+   "en": "Heat the milk.",
+   "author": "ariarin"
+  },
+  {
+   "id": 4544254,
+   "en": "The heat is on.",
+   "author": "DarkHollow"
+  }
+ ],
+ "heating": [
+  {
+   "id": 12250613,
+   "en": "Heating is dear.",
+   "author": "sundown"
+  },
+  {
+   "id": 11991700,
+   "en": "I'm heating dinner.",
+   "author": "LdjuherTaqvaylit"
+  },
+  {
+   "id": 12250612,
+   "en": "Heating is expensive.",
+   "author": "sundown"
+  }
+ ],
+ "heavily": [
+  {
+   "id": 13209146,
+   "en": "It rains heavily.",
+   "author": "Aghanim"
+  },
+  {
+   "id": 26701,
+   "en": "It rained heavily.",
+   "author": "CK"
+  },
+  {
+   "id": 9267848,
+   "en": "It snowed heavily.",
+   "author": "CK"
+  }
+ ],
+ "helpful": [
+  {
+   "id": 2202938,
+   "en": "Tom is helpful.",
+   "author": "CK"
+  },
+  {
+   "id": 8478169,
+   "en": "He was helpful.",
+   "author": "CH"
+  },
+  {
+   "id": 2549449,
+   "en": "Tom was helpful.",
+   "author": "CK"
+  }
+ ],
+ "hero": [
+  {
+   "id": 25509,
+   "en": "I'm a hero.",
+   "author": "CK"
+  },
+  {
+   "id": 2248117,
+   "en": "I'm no hero.",
+   "author": "CK"
+  },
+  {
+   "id": 4642909,
+   "en": "He's a hero.",
+   "author": "LinguisticFusion"
+  }
+ ],
+ "herself": [
+  {
+   "id": 7383446,
+   "en": "She cut herself.",
+   "author": "CH"
+  },
+  {
+   "id": 6429988,
+   "en": "Mary cut herself.",
+   "author": "CF"
+  },
+  {
+   "id": 7382466,
+   "en": "She's by herself.",
+   "author": "CH"
+  }
+ ],
+ "hey": [
+  {
+   "id": 7733951,
+   "en": "Hey, get up.",
+   "author": "CK"
+  },
+  {
+   "id": 12540686,
+   "en": "Hey, you up?",
+   "author": "rul"
+  },
+  {
+   "id": 953322,
+   "en": "Hey, wait up!",
+   "author": "CK"
+  }
+ ],
+ "highway": [
+  {
+   "id": 12457213,
+   "en": "I'm on the highway.",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 11021344,
+   "en": "We're on the highway.",
+   "author": "shekitten"
+  },
+  {
+   "id": 6995647,
+   "en": "The highway was empty.",
+   "author": "mailohilohi"
+  }
+ ],
+ "hike": [
+  {
+   "id": 2183022,
+   "en": "Take a hike!",
+   "author": "Hybrid"
+  },
+  {
+   "id": 6614564,
+   "en": "Do you hike?",
+   "author": "Eccles17"
+  },
+  {
+   "id": 7683324,
+   "en": "Take a hike.",
+   "author": "soliloquist"
+  }
+ ],
+ "hiking": [
+  {
+   "id": 11377708,
+   "en": "I am hiking.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11377710,
+   "en": "He is hiking.",
+   "author": "Amastan"
+  },
+  {
+   "id": 2245964,
+   "en": "I love hiking.",
+   "author": "CK"
+  }
+ ],
+ "himself": [
+  {
+   "id": 7383445,
+   "en": "He cut himself.",
+   "author": "CH"
+  },
+  {
+   "id": 8614164,
+   "en": "He hit himself.",
+   "author": "Amastan"
+  },
+  {
+   "id": 11524027,
+   "en": "He bit himself.",
+   "author": "janTuki"
+  }
+ ],
+ "hit": [
+  {
+   "id": 14067285,
+   "en": "I hit it.",
+   "author": "Myrano_"
+  },
+  {
+   "id": 2235723,
+   "en": "I hit Tom.",
+   "author": "CK"
+  },
+  {
+   "id": 2873172,
+   "en": "I hit one.",
+   "author": "Amastan"
+  }
+ ],
+ "hockey": [
+  {
+   "id": 5840369,
+   "en": "I play hockey.",
+   "author": "CK"
+  },
+  {
+   "id": 5840423,
+   "en": "I love hockey.",
+   "author": "CK"
+  },
+  {
+   "id": 5840437,
+   "en": "I like hockey.",
+   "author": "CK"
+  }
+ ],
+ "honey": [
+  {
+   "id": 2751463,
+   "en": "I love honey.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 3318649,
+   "en": "I like honey.",
+   "author": "Vanilla"
+  },
+  {
+   "id": 11870515,
+   "en": "I sell honey.",
+   "author": "CK"
+  }
+ ],
+ "honor": [
+  {
+   "id": 2245918,
+   "en": "I honor that.",
+   "author": "CK"
+  },
+  {
+   "id": 12676446,
+   "en": "I have honor.",
+   "author": "anzart"
+  },
+  {
+   "id": 12676452,
+   "en": "He has honor.",
+   "author": "anzart"
+  }
+ ],
+ "horror": [
+  {
+   "id": 1490754,
+   "en": "Horror has a name.",
+   "author": "niceguydave"
+  },
+  {
+   "id": 10321434,
+   "en": "What a horror show.",
+   "author": "AlanF_US"
+  },
+  {
+   "id": 8836259,
+   "en": "I like horror movies.",
+   "author": "CK"
+  }
+ ],
+ "host": [
+  {
+   "id": 12749258,
+   "en": "I can host.",
+   "author": "rul"
+  },
+  {
+   "id": 9317360,
+   "en": "He's a host.",
+   "author": "shekitten"
+  },
+  {
+   "id": 12749257,
+   "en": "Can you host?",
+   "author": "rul"
+  }
+ ],
+ "however": [
+  {
+   "id": 436269,
+   "en": "However bad it is...",
+   "author": "lukaszpp"
+  },
+  {
+   "id": 937132,
+   "en": "Do however you like.",
+   "author": "FeuDRenais2"
+  },
+  {
+   "id": 1343417,
+   "en": "However much I like!",
+   "author": "Chrikaru"
+  }
+ ],
+ "hug": [
+  {
+   "id": 13622159,
+   "en": "I hug them.",
+   "author": "PotatoeII"
+  },
+  {
+   "id": 13985906,
+   "en": "Hug a tree.",
+   "author": "maaster"
+  },
+  {
+   "id": 1209471,
+   "en": "Hug me tight.",
+   "author": "CK"
+  }
+ ],
+ "human": [
+  {
+   "id": 252284,
+   "en": "I am human.",
+   "author": "CK"
+  },
+  {
+   "id": 13421525,
+   "en": "Am I human?",
+   "author": "jan_Lupelo"
+  },
+  {
+   "id": 433600,
+   "en": "I'm a human.",
+   "author": "Alkrasnov"
+  }
+ ],
+ "hundred": [
+  {
+   "id": 6602108,
+   "en": "By a hundred.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 13618297,
+   "en": "That's one hundred.",
+   "author": "Tigre"
+  },
+  {
+   "id": 13557577,
+   "en": "There are a hundred.",
+   "author": "LeviHighway"
+  }
+ ],
+ "hunter": [
+  {
+   "id": 5839964,
+   "en": "I'm a hunter.",
+   "author": "CK"
+  },
+  {
+   "id": 8477294,
+   "en": "He's a hunter.",
+   "author": "CH"
+  },
+  {
+   "id": 33513,
+   "en": "I'm Tom Hunter.",
+   "author": "CN"
+  }
+ ],
+ "illegal": [
+  {
+   "id": 2233695,
+   "en": "This is illegal.",
+   "author": "CK"
+  },
+  {
+   "id": 3560909,
+   "en": "Is that illegal?",
+   "author": "Hybrid"
+  },
+  {
+   "id": 12215118,
+   "en": "Is this illegal?",
+   "author": "CK"
+  }
+ ],
+ "image": [
+  {
+   "id": 12343879,
+   "en": "Open the image.",
+   "author": "Amntag"
+  },
+  {
+   "id": 6967283,
+   "en": "I have an image.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 3635487,
+   "en": "Look at this image.",
+   "author": "MTC"
+  }
+ ],
+ "imagination": [
+  {
+   "id": 5144068,
+   "en": "I lack imagination.",
+   "author": "Airvian"
+  },
+  {
+   "id": 11919862,
+   "en": "What an imagination!",
+   "author": "CK"
+  },
+  {
+   "id": 2158515,
+   "en": "You lack imagination.",
+   "author": "Hybrid"
+  }
+ ],
+ "impact": [
+  {
+   "id": 10194905,
+   "en": "Are we making any impact?",
+   "author": "shekitten"
+  },
+  {
+   "id": 10864697,
+   "en": "How will this impact you?",
+   "author": "Amastan"
+  },
+  {
+   "id": 12908933,
+   "en": "She waited for the impact.",
+   "author": "Conjuice"
+  }
+ ],
+ "impatient": [
+  {
+   "id": 2868422,
+   "en": "He is impatient.",
+   "author": "CH"
+  },
+  {
+   "id": 2202977,
+   "en": "Tom is impatient.",
+   "ja": "トムはせっかちなんだ。",
+   "author": "CK"
+  },
+  {
+   "id": 2868417,
+   "en": "She is impatient.",
+   "author": "CH"
+  }
+ ],
+ "importance": [
+  {
+   "id": 3722171,
+   "en": "It's of no importance.",
+   "author": "CM"
+  },
+  {
+   "id": 9460439,
+   "en": "It's of great importance.",
+   "author": "sundown"
+  },
+  {
+   "id": 2258569,
+   "en": "He's a man of importance.",
+   "author": "_undertoad"
+  }
+ ],
+ "impossible": [
+  {
+   "id": 914022,
+   "en": "It is impossible.",
+   "author": "Jane_Austen"
+  },
+  {
+   "id": 2248850,
+   "en": "It was impossible.",
+   "author": "CK"
+  },
+  {
+   "id": 7493685,
+   "en": "Tom is impossible.",
+   "author": "CK"
+  }
+ ],
+ "impress": [
+  {
+   "id": 6208524,
+   "en": "You impress me!",
+   "author": "carlosalberto"
+  },
+  {
+   "id": 13739084,
+   "en": "Dress to impress.",
+   "author": "rul"
+  },
+  {
+   "id": 10870097,
+   "en": "Impress your boss.",
+   "author": "Amastan"
+  }
+ ],
+ "improve": [
+  {
+   "id": 2215692,
+   "en": "Tom will improve.",
+   "author": "CK"
+  },
+  {
+   "id": 12731069,
+   "en": "I improve nothing.",
+   "author": "jacoblaguerre"
+  },
+  {
+   "id": 6627687,
+   "en": "Improve your skills.",
+   "author": "Schuager"
+  }
+ ],
+ "inch": [
+  {
+   "id": 2270511,
+   "en": "Don't move an inch.",
+   "author": "CK"
+  },
+  {
+   "id": 7538419,
+   "en": "I can't move an inch.",
+   "author": "CK"
+  },
+  {
+   "id": 6272844,
+   "en": "I didn't move an inch.",
+   "author": "CK"
+  }
+ ],
+ "include": [
+  {
+   "id": 6148308,
+   "en": "Include the chairman.",
+   "author": "LB"
+  },
+  {
+   "id": 12047098,
+   "en": "Did you include me?",
+   "author": "megamanenm"
+  },
+  {
+   "id": 2262253,
+   "en": "Should I include Tom?",
+   "author": "CK"
+  }
+ ],
+ "increase": [
+  {
+   "id": 11098378,
+   "en": "The price will increase.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 282779,
+   "en": "Crime is on the increase.",
+   "author": "CK"
+  },
+  {
+   "id": 9250457,
+   "en": "Is crime on the increase?",
+   "author": "CK"
+  }
+ ],
+ "indeed": [
+  {
+   "id": 9692330,
+   "en": "I indeed am.",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 9692315,
+   "en": "They indeed are.",
+   "author": "sacredceltic"
+  },
+  {
+   "id": 9692320,
+   "en": "They are, indeed.",
+   "author": "sacredceltic"
+  }
+ ],
+ "independence": [
+  {
+   "id": 13733679,
+   "en": "I want independence.",
+   "author": "frpzzd"
+  },
+  {
+   "id": 3504372,
+   "en": "Happy Independence Day!",
+   "author": "Salem"
+  },
+  {
+   "id": 7062393,
+   "en": "Who wants independence?",
+   "author": "tiziri"
+  }
+ ],
+ "indicate": [
+  {
+   "id": 318127,
+   "en": "Smiles do not always indicate pleasure.",
+   "author": "CK"
+  },
+  {
+   "id": 2346003,
+   "en": "Did she indicate a price for it?",
+   "author": "pnnaeem"
+  },
+  {
+   "id": 246242,
+   "en": "Yes, you can indicate everything you see.",
+   "author": "AlanF_US"
+  }
+ ],
+ "indoor": [
+  {
+   "id": 8129878,
+   "en": "This is an indoor cat.",
+   "author": "Hybrid"
+  },
+  {
+   "id": 11696414,
+   "en": "The zoo had an indoor area.",
+   "author": "Amastan"
+  },
+  {
+   "id": 10153585,
+   "en": "This hotel has an indoor pool.",
+   "author": "CK"
+  }
+ ],
+ "inexpensive": [
+  {
+   "id": 7909736,
+   "en": "Was that inexpensive?",
+   "author": "adiante19"
+  },
+  {
+   "id": 10822166,
+   "en": "It's very inexpensive.",
+   "author": "Amastan"
+  },
+  {
+   "id": 9819046,
+   "en": "We make inexpensive toys.",
+   "author": "CK"
+  }
+ ],
+ "influence": [
+  {
+   "id": 1877229,
+   "en": "He's a bad influence.",
+   "author": "Spamster"
+  },
+  {
+   "id": 1877230,
+   "en": "She's a bad influence.",
+   "author": "Spamster"
+  },
+  {
+   "id": 5747835,
+   "en": "You have no influence.",
+   "author": "CM"
+  }
+ ],
+ "injure": [
+  {
+   "id": 12488172,
+   "en": "Did you injure your hand?",
+   "author": "CK"
+  },
+  {
+   "id": 12108892,
+   "en": "How did Tom injure his hand?",
+   "author": "CK"
+  }
+ ],
+ "insect": [
+  {
+   "id": 10138597,
+   "en": "Does this insect bite?",
+   "author": "Amastan"
+  },
+  {
+   "id": 11928914,
+   "en": "This insect still lives.",
+   "author": "LdjuherTaqvaylit"
+  },
+  {
+   "id": 10138599,
+   "en": "Is this insect dangerous?",
+   "author": "Amastan"
+  }
+ ],
+ "inspiration": [
+  {
+   "id": 2246008,
+   "en": "I need inspiration.",
+   "author": "CK"
+  },
+  {
+   "id": 4500301,
+   "en": "What an inspiration!",
+   "author": "CK"
+  },
+  {
+   "id": 9360011,
+   "en": "We need inspiration.",
+   "author": "CK"
+  }
+ ],
+ "instant": [
+  {
+   "id": 8481058,
+   "en": "Stop this instant!",
+   "author": "shekitten"
+  },
+  {
+   "id": 2731696,
+   "en": "Come here this instant.",
+   "author": "sharptoothed"
+  },
+  {
+   "id": 7697577,
+   "en": "Tom drinks instant coffee.",
+   "author": "Hybrid"
+  }
+ ],
+ "instead": [
+  {
+   "id": 3732260,
+   "en": "Ask Tom instead.",
+   "author": "CK"
+  },
+  {
+   "id": 3919952,
+   "en": "Ask him instead.",
+   "author": "CH"
+  },
+  {
+   "id": 3919953,
+   "en": "Ask her instead.",
+   "author": "CH"
+  }
+ ],
+ "instrument": [
+  {
+   "id": 10557650,
+   "en": "Tom plays an instrument.",
+   "author": "shekitten"
+  },
+  {
+   "id": 3932272,
+   "en": "Do you play an instrument?",
+   "author": "jm"
+  },
+  {
+   "id": 4185125,
+   "en": "Can you play an instrument?",
+   "author": "User66640"
+  }
+ ],
+ "intelligence": [
+  {
+   "id": 6375730,
+   "en": "You can't buy intelligence.",
+   "author": "OsoHombre"
+  },
+  {
+   "id": 13901731,
+   "en": "I'm an artificial intelligence.",
+   "author": "Adelpa"
+  },
+  {
+   "id": 13901729,
+   "en": "I am an artificial intelligence.",
+   "author": "Adelpa"
+  }
+ ],
+ "intelligent": [
+  {
+   "id": 3125914,
+   "en": "I am intelligent.",
+   "author": "CC"
+  },
+  {
+   "id": 389495,
+   "en": "He is intelligent.",
+   "author": "CK"
+  },
+  {
+   "id": 11428770,
+   "en": "I was intelligent.",
+   "author": "Agestur"
+  }
+ ],
+ "interest": [
+  {
+   "id": 8976245,
+   "en": "Interest rates rose.",
+   "author": "CK"
+  },
+  {
+   "id": 12995843,
+   "en": "I have no interest.",
+   "author": "rul"
+  },
+  {
+   "id": 6041332,
+   "en": "You don't interest me.",
+   "author": "raggione"
+  }
+ ],
+ "international": [
+  {
+   "id": 263022,
+   "en": "We want to be international.",
+   "author": "Tom9358"
+  },
+  {
+   "id": 10083195,
+   "en": "I'm an international super spy.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 6691455,
+   "en": "Tom is an international student.",
+   "author": "Hybrid"
+  }
+ ],
+ "invent": [
+  {
+   "id": 12565009,
+   "en": "We will invent it.",
+   "author": "anzart"
+  },
+  {
+   "id": 5756657,
+   "en": "What did Tom invent?",
+   "author": "CM"
+  },
+  {
+   "id": 25217,
+   "en": "What did Bell invent?",
+   "author": "CK"
+  }
+ ],
+ "invention": [
+  {
+   "id": 12300505,
+   "en": "What an invention!",
+   "author": "Miktsoanit"
+  },
+  {
+   "id": 7355928,
+   "en": "It was an invention.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 36011,
+   "en": "What a wonderful invention!",
+   "author": "CM"
+  }
+ ],
+ "invite": [
+  {
+   "id": 9379443,
+   "en": "I invite you.",
+   "author": "Nylez"
+  },
+  {
+   "id": 9730770,
+   "en": "Invite Tom, too.",
+   "author": "CK"
+  },
+  {
+   "id": 11516590,
+   "en": "Invite him over.",
+   "author": "megamanenm"
+  }
+ ],
+ "issue": [
+  {
+   "id": 6975371,
+   "en": "That's an issue.",
+   "author": "Eccles17"
+  },
+  {
+   "id": 2251267,
+   "en": "That's the issue.",
+   "author": "CK"
+  },
+  {
+   "id": 11856976,
+   "en": "What's the issue?",
+   "author": "Adelpa"
+  }
+ ],
+ "itself": [
+  {
+   "id": 786704,
+   "en": "It needs itself.",
+   "author": "Zifre"
+  },
+  {
+   "id": 326126,
+   "en": "History repeats itself.",
+   "author": "CK"
+  },
+  {
+   "id": 2499181,
+   "en": "By the fact itself.",
+   "author": "Luisbugarin"
+  }
+ ],
+ "jam": [
+  {
+   "id": 3576781,
+   "en": "That's my jam!",
+   "author": "Katabasis"
+  },
+  {
+   "id": 8480261,
+   "en": "He's making jam.",
+   "author": "CH"
+  },
+  {
+   "id": 2258878,
+   "en": "I'm in a jam.",
+   "author": "_undertoad"
+  }
+ ],
+ "jelly": [
+  {
+   "id": 11885552,
+   "en": "I need jelly.",
+   "author": "CK"
+  },
+  {
+   "id": 354301,
+   "en": "He likes jelly.",
+   "author": "Hautis"
+  },
+  {
+   "id": 13104018,
+   "en": "I had some jelly.",
+   "author": "menaud"
+  }
+ ],
+ "joke": [
+  {
+   "id": 2159786,
+   "en": "Do not joke!",
+   "author": "freddy1"
+  },
+  {
+   "id": 2549804,
+   "en": "What a joke!",
+   "author": "CK"
+  },
+  {
+   "id": 3507563,
+   "en": "It's a joke.",
+   "author": "CK"
+  }
+ ],
+ "journey": [
+  {
+   "id": 9953945,
+   "en": "Life is a journey.",
+   "author": "Amastan"
+  },
+  {
+   "id": 871495,
+   "en": "Have a good journey!",
+   "author": "shekitten"
+  },
+  {
+   "id": 4500737,
+   "en": "It's a long journey.",
+   "author": "CK"
+  }
+ ],
+ "joy": [
+  {
+   "id": 9853534,
+   "en": "What is joy?",
+   "author": "shekitten"
+  },
+  {
+   "id": 11406463,
+   "en": "She's my joy.",
+   "author": "ddnktr"
+  },
+  {
+   "id": 12907489,
+   "en": "What joy I had!",
+   "author": "kiryopi"
+  }
+ ],
+ "junior": [
+  {
+   "id": 5839966,
+   "en": "I'm a junior.",
+   "author": "CK"
+  },
+  {
+   "id": 8477296,
+   "en": "He's a junior.",
+   "author": "CH"
+  },
+  {
+   "id": 4495297,
+   "en": "Tom is a junior.",
+   "author": "CK"
+  }
+ ],
+ "junk": [
+  {
+   "id": 7954089,
+   "en": "We buy junk.",
+   "author": "adiante19"
+  },
+  {
+   "id": 11864919,
+   "en": "I sell junk.",
+   "author": "CK"
+  },
+  {
+   "id": 11935209,
+   "en": "Don't eat junk.",
+   "author": "CK"
+  }
+ ],
+ "kilogram": [
+  {
+   "id": 11510559,
+   "en": "I need a kilogram of tomatoes.",
+   "author": "megamanenm"
+  },
+  {
+   "id": 2474192,
+   "en": "Do you sell this by the kilogram?",
+   "author": "sharptoothed"
+  },
+  {
+   "id": 10830526,
+   "en": "I want to buy a kilogram of that.",
+   "author": "SillyDonut7"
+  }
+ ],
+ "kilometer": [
+  {
+   "id": 11218499,
+   "en": "This street is one kilometer long.",
+   "author": "DJ_Saidez"
+  },
+  {
+   "id": 63720,
+   "en": "A gas station is one kilometer ahead.",
+   "author": "CM"
+  },
+  {
+   "id": 2952532,
+   "en": "I try to swim a kilometer a day.",
+   "author": "CK"
+  }
+ ],
+ "kindly": [
+  {
+   "id": 13853830,
+   "en": "He laughed kindly.",
+   "author": "rul"
+  },
+  {
+   "id": 12651296,
+   "en": "He remembers me kindly.",
+   "author": "anzart"
+  },
+  {
+   "id": 12651308,
+   "en": "We remember her kindly.",
+   "author": "anzart"
+  }
+ ],
+ "kingdom": [
+  {
+   "id": 12815588,
+   "en": "He's going to the kingdom.",
+   "author": "Igider"
+  },
+  {
+   "id": 298636,
+   "en": "He ruled his kingdom fairly.",
+   "author": "CK"
+  },
+  {
+   "id": 1824419,
+   "en": "This kingdom needs a new king.",
+   "author": "Amastan"
+  }
+ ],
+ "kit": [
+  {
+   "id": 13362972,
+   "en": "Have you opened your kit?",
+   "author": "Igider"
+  },
+  {
+   "id": 10741453,
+   "en": "Tom is wearing his football kit.",
+   "author": "sundown"
+  },
+  {
+   "id": 11336494,
+   "en": "Mary is wearing her football kit.",
+   "author": "sundown"
+  }
+ ],
+ "knock": [
+  {
+   "id": 2249513,
+   "en": "Knock it off.",
+   "ja": "いいかげんにして。",
+   "author": "CK"
+  },
+  {
+   "id": 8299841,
+   "en": "Knock it off!",
+   "author": "Hybrid"
+  },
+  {
+   "id": 6102412,
+   "en": "Knock it down.",
+   "author": "mailohilohi"
+  }
+ ],
+ "knowledge": [
+  {
+   "id": 12400264,
+   "en": "I give knowledge.",
+   "author": "jan_Ketalija"
+  },
+  {
+   "id": 7779365,
+   "en": "What is knowledge?",
+   "author": "sharris123"
+  },
+  {
+   "id": 1056310,
+   "en": "Knowledge feeds me.",
+   "author": "rul"
+  }
+ ],
+ "labor": [
+  {
+   "id": 8398564,
+   "en": "She's in labor.",
+   "author": "Amastan"
+  },
+  {
+   "id": 13192559,
+   "en": "Happy Labor Day!",
+   "author": "rul"
+  },
+  {
+   "id": 3794916,
+   "en": "Labor created man.",
+   "author": "Balamax"
+  }
+ ],
+ "lack": [
+  {
+   "id": 10351076,
+   "en": "We lack it.",
+   "author": "Vortarulo"
+  },
+  {
+   "id": 8207697,
+   "en": "I lack money.",
+   "author": "Ergulis"
+  },
+  {
+   "id": 8344082,
+   "en": "We lack money.",
+   "author": "Ergulis"
+  }
+ ],
+ "lake": [
+  {
+   "id": 1120810,
+   "en": "The lake is big.",
+   "author": "cntrational"
+  },
+  {
+   "id": 13982711,
+   "en": "Is the lake big?",
+   "author": "mervert1"
+  },
+  {
+   "id": 3041973,
+   "en": "Is the lake deep?",
+   "author": "ApAdAnA"
+  }
+ ],
+ "lamp": [
+  {
+   "id": 8977166,
+   "en": "Where's the lamp?",
+   "author": "CK"
+  },
+  {
+   "id": 2631910,
+   "en": "I need a lamp.",
+   "author": "Joseph"
+  },
+  {
+   "id": 9161971,
+   "en": "The lamp is on.",
+   "author": "CK"
+  }
+ ],
+ "land": [
+  {
+   "id": 13717084,
+   "en": "I see land!",
+   "author": "Babelball"
+  },
+  {
+   "id": 11883479,
+   "en": "I sell land.",
+   "author": "CK"
+  },
+  {
+   "id": 12087434,
+   "en": "I want land.",
+   "author": "Amastan"
+  }
+ ],
+ "landscape": [
+  {
+   "id": 5083161,
+   "en": "I like this landscape.",
+   "author": "corvard"
+  },
+  {
+   "id": 20797,
+   "en": "Survey the landscape below.",
+   "author": "Zifre"
+  },
+  {
+   "id": 7920451,
+   "en": "I'm admiring the landscape.",
+   "author": "shekitten"
+  }
+ ],
+ "lane": [
+  {
+   "id": 2648456,
+   "en": "Stay in your lane.",
+   "author": "CK"
+  },
+  {
+   "id": 605839,
+   "en": "This is life in the fast lane!",
+   "author": "qdii"
+  },
+  {
+   "id": 12021107,
+   "en": "You are driving in the wrong lane!",
+   "author": "Cabo"
+  }
+ ],
+ "last": [
+  {
+   "id": 7538207,
+   "en": "I was last.",
+   "author": "CK"
+  },
+  {
+   "id": 2236751,
+   "en": "Tom is last.",
+   "author": "CK"
+  },
+  {
+   "id": 8476036,
+   "en": "He was last.",
+   "author": "CH"
+  }
+ ],
+ "latest": [
+  {
+   "id": 2234115,
+   "en": "What's the latest?",
+   "author": "CK"
+  },
+  {
+   "id": 2784516,
+   "en": "What's the latest news?",
+   "author": "sharptoothed"
+  },
+  {
+   "id": 5281105,
+   "en": "It's the latest fashion.",
+   "author": "AlanF_US"
+  }
+ ],
+ "law": [
+  {
+   "id": 2248279,
+   "en": "I'm the law.",
+   "author": "CK"
+  },
+  {
+   "id": 10459194,
+   "en": "I study law.",
+   "author": "tchrspet1"
+  },
+  {
+   "id": 740376,
+   "en": "It's the law.",
+   "author": "CK"
+  }
+ ]
+}

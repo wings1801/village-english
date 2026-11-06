@@ -1,0 +1,1696 @@
+[
+ {
+  "wordId": "a",
+  "en": "a",
+  "ja": "いち",
+  "jaAlts": [
+   "とか",
+   "に"
+  ],
+  "jaGlossRaw": "一"
+ },
+ {
+  "wordId": "above",
+  "en": "above",
+  "ja": "そのうえ",
+  "jaGlossRaw": "その上"
+ },
+ {
+  "wordId": "ago",
+  "en": "ago",
+  "ja": "まえ",
+  "jaGlossRaw": "前"
+ },
+ {
+  "wordId": "along",
+  "en": "along",
+  "ja": "コロコロ"
+ },
+ {
+  "wordId": "also",
+  "en": "also",
+  "ja": "また",
+  "jaAlts": [
+   "あと",
+   "やはり",
+   "やっぱり"
+  ],
+  "jaGlossRaw": "又"
+ },
+ {
+  "wordId": "anybody",
+  "en": "anybody",
+  "ja": "だれにでも",
+  "jaAlts": [
+   "だれでも"
+  ],
+  "jaGlossRaw": "誰にでも"
+ },
+ {
+  "wordId": "anything",
+  "en": "anything",
+  "ja": "なんでも",
+  "jaAlts": [
+   "どうこう",
+   "なにごと",
+   "もの"
+  ],
+  "jaGlossRaw": "何でも"
+ },
+ {
+  "wordId": "apple",
+  "en": "apple",
+  "ja": "りんご",
+  "jaGlossRaw": "林檎"
+ },
+ {
+  "wordId": "around",
+  "en": "around",
+  "ja": "あたり",
+  "jaAlts": [
+   "あれこれ",
+   "ぜんご",
+   "ないがい"
+  ],
+  "jaGlossRaw": "辺り"
+ },
+ {
+  "wordId": "arrive",
+  "en": "arrive",
+  "ja": "くる",
+  "jaAlts": [
+   "はいる",
+   "とどく",
+   "かかる"
+  ],
+  "jaGlossRaw": "来る"
+ },
+ {
+  "wordId": "as",
+  "en": "as",
+  "ja": "と",
+  "jaAlts": [
+   "ように",
+   "ので",
+   "ですので"
+  ]
+ },
+ {
+  "wordId": "awake",
+  "en": "awake",
+  "ja": "めざめる",
+  "jaAlts": [
+   "めがさめる"
+  ],
+  "jaGlossRaw": "目覚める"
+ },
+ {
+  "wordId": "away",
+  "en": "away",
+  "ja": "わき",
+  "jaGlossRaw": "脇"
+ },
+ {
+  "wordId": "bat",
+  "en": "bat",
+  "ja": "バット"
+ },
+ {
+  "wordId": "bean",
+  "en": "bean",
+  "ja": "まめ",
+  "jaGlossRaw": "豆"
+ },
+ {
+  "wordId": "bear",
+  "en": "bear",
+  "ja": "ナンパ",
+  "jaAlts": [
+   "くま"
+  ],
+  "jaGlossRaw": "軟派"
+ },
+ {
+  "wordId": "being",
+  "en": "being",
+  "ja": "そんざい",
+  "jaAlts": [
+   "せいぞん",
+   "いらして"
+  ],
+  "jaGlossRaw": "存在"
+ },
+ {
+  "wordId": "below",
+  "en": "below",
+  "ja": "みまん",
+  "jaGlossRaw": "未満"
+ },
+ {
+  "wordId": "beside",
+  "en": "beside",
+  "ja": "わき",
+  "jaAlts": [
+   "よこ",
+   "よこて",
+   "かたわら"
+  ],
+  "jaGlossRaw": "脇"
+ },
+ {
+  "wordId": "between",
+  "en": "between",
+  "ja": "かん",
+  "jaAlts": [
+   "うち",
+   "あいだ"
+  ],
+  "jaGlossRaw": "間"
+ },
+ {
+  "wordId": "bike",
+  "en": "bike",
+  "ja": "じてんしゃ",
+  "jaAlts": [
+   "バイク"
+  ],
+  "jaGlossRaw": "自転車"
+ },
+ {
+  "wordId": "biscuit",
+  "en": "biscuit",
+  "ja": "クッキー",
+  "jaAlts": [
+   "ビスケット"
+  ]
+ },
+ {
+  "wordId": "block",
+  "en": "block",
+  "ja": "ブロック",
+  "jaAlts": [
+   "まち",
+   "ちょうない",
+   "くかく"
+  ]
+ },
+ {
+  "wordId": "boring",
+  "en": "boring",
+  "ja": "たいくつ",
+  "jaAlts": [
+   "つまらない"
+  ],
+  "jaGlossRaw": "退屈"
+ },
+ {
+  "wordId": "both",
+  "en": "both",
+  "ja": "ともに",
+  "jaAlts": [
+   "おたがいに",
+   "なかにも",
+   "ふたりとも"
+  ],
+  "jaGlossRaw": "共に"
+ },
+ {
+  "wordId": "breathe",
+  "en": "breathe",
+  "ja": "つく",
+  "jaGlossRaw": "吐く"
+ },
+ {
+  "wordId": "bright",
+  "en": "bright",
+  "ja": "あきらか",
+  "jaAlts": [
+   "めいろう",
+   "つやつや",
+   "あかるい"
+  ],
+  "jaGlossRaw": "明らか"
+ },
+ {
+  "wordId": "bring",
+  "en": "bring",
+  "ja": "もちこむ",
+  "jaAlts": [
+   "まわす",
+   "もたらす",
+   "もってくる"
+  ],
+  "jaGlossRaw": "持ち込む"
+ },
+ {
+  "wordId": "broken",
+  "en": "broken",
+  "ja": "だめ",
+  "jaGlossRaw": "駄目"
+ },
+ {
+  "wordId": "brother",
+  "en": "brother",
+  "ja": "にいさん",
+  "jaGlossRaw": "兄さん"
+ },
+ {
+  "wordId": "button",
+  "en": "button",
+  "ja": "つまみ",
+  "jaAlts": [
+   "ボタン"
+  ],
+  "jaGlossRaw": "摘み"
+ },
+ {
+  "wordId": "by",
+  "en": "by",
+  "ja": "で",
+  "jaAlts": [
+   "にて",
+   "に",
+   "もって"
+  ]
+ },
+ {
+  "wordId": "cafe",
+  "en": "cafe",
+  "ja": "パーラー",
+  "jaAlts": [
+   "カフェ",
+   "きっさてん",
+   "きっさ"
+  ]
+ },
+ {
+  "wordId": "cap",
+  "en": "cap",
+  "ja": "ぼうし",
+  "jaAlts": [
+   "キャップ",
+   "ふた"
+  ],
+  "jaGlossRaw": "帽子"
+ },
+ {
+  "wordId": "card",
+  "en": "card",
+  "ja": "カード",
+  "jaAlts": [
+   "はがき",
+   "ふだ"
+  ]
+ },
+ {
+  "wordId": "carefully",
+  "en": "carefully",
+  "ja": "つくづく",
+  "jaAlts": [
+   "じっくり"
+  ],
+  "jaGlossRaw": "熟"
+ },
+ {
+  "wordId": "cat",
+  "en": "cat",
+  "ja": "ねこ",
+  "jaGlossRaw": "猫"
+ },
+ {
+  "wordId": "climb",
+  "en": "climb",
+  "ja": "のぼり",
+  "jaGlossRaw": "上り"
+ },
+ {
+  "wordId": "close",
+  "en": "close",
+  "ja": "しゅうけつ",
+  "jaAlts": [
+   "ちかい",
+   "しゅうきょく",
+   "げんみつ"
+  ],
+  "jaGlossRaw": "終結"
+ },
+ {
+  "wordId": "closed",
+  "en": "closed",
+  "ja": "ひこうかい",
+  "jaGlossRaw": "非公開"
+ },
+ {
+  "wordId": "cloudy",
+  "en": "cloudy",
+  "ja": "うっとうしい",
+  "jaGlossRaw": "鬱陶しい"
+ },
+ {
+  "wordId": "corn",
+  "en": "corn",
+  "ja": "こくもつ",
+  "jaAlts": [
+   "とうもろこし"
+  ],
+  "jaGlossRaw": "穀物"
+ },
+ {
+  "wordId": "couch",
+  "en": "couch",
+  "ja": "しんだい",
+  "jaAlts": [
+   "ソファ"
+  ],
+  "jaGlossRaw": "寝台"
+ },
+ {
+  "wordId": "cousin",
+  "en": "cousin",
+  "ja": "いとこ",
+  "jaGlossRaw": "従兄弟"
+ },
+ {
+  "wordId": "cow",
+  "en": "cow",
+  "ja": "うし",
+  "jaGlossRaw": "牛"
+ },
+ {
+  "wordId": "cry",
+  "en": "cry",
+  "ja": "さけび",
+  "jaAlts": [
+   "さけびごえ",
+   "なきごえ"
+  ],
+  "jaGlossRaw": "叫び"
+ },
+ {
+  "wordId": "cup",
+  "en": "cup",
+  "ja": "ホール",
+  "jaAlts": [
+   "カップ"
+  ]
+ },
+ {
+  "wordId": "daddy",
+  "en": "daddy",
+  "ja": "とうさん",
+  "jaAlts": [
+   "パパ",
+   "おとうさん"
+  ],
+  "jaGlossRaw": "父さん"
+ },
+ {
+  "wordId": "dear",
+  "en": "dear",
+  "ja": "しんあい",
+  "jaAlts": [
+   "かわいい",
+   "いとしい",
+   "おしい"
+  ],
+  "jaGlossRaw": "親愛"
+ },
+ {
+  "wordId": "delicious",
+  "en": "delicious",
+  "ja": "うまい",
+  "jaAlts": [
+   "おいしい"
+  ],
+  "jaGlossRaw": "上手い"
+ },
+ {
+  "wordId": "describe",
+  "en": "describe",
+  "ja": "うつす",
+  "jaAlts": [
+   "えがく",
+   "しるす",
+   "うつしだす"
+  ],
+  "jaGlossRaw": "写す"
+ },
+ {
+  "wordId": "did",
+  "en": "did",
+  "ja": "ございます",
+  "jaGlossRaw": "御座います"
+ },
+ {
+  "wordId": "different",
+  "en": "different",
+  "ja": "べっこ",
+  "jaAlts": [
+   "べつべつ",
+   "まちまち",
+   "かわった"
+  ],
+  "jaGlossRaw": "別個"
+ },
+ {
+  "wordId": "dish",
+  "en": "dish",
+  "ja": "いっぴん",
+  "jaAlts": [
+   "パラボラ",
+   "さら",
+   "りょうり"
+  ],
+  "jaGlossRaw": "一品"
+ },
+ {
+  "wordId": "down",
+  "en": "down",
+  "ja": "け",
+  "jaAlts": [
+   "ダウン",
+   "ブルー",
+   "した"
+  ],
+  "jaGlossRaw": "毛"
+ },
+ {
+  "wordId": "due",
+  "en": "due",
+  "ja": "せいとう",
+  "jaAlts": [
+   "せいしき"
+  ],
+  "jaGlossRaw": "正当"
+ },
+ {
+  "wordId": "egg",
+  "en": "egg",
+  "ja": "たま",
+  "jaAlts": [
+   "たまご"
+  ],
+  "jaGlossRaw": "玉"
+ },
+ {
+  "wordId": "either",
+  "en": "either",
+  "ja": "やはり",
+  "jaAlts": [
+   "やっぱり"
+  ],
+  "jaGlossRaw": "矢張り"
+ },
+ {
+  "wordId": "every",
+  "en": "every",
+  "ja": "ごと",
+  "jaAlts": [
+   "あらゆる",
+   "かく",
+   "ごとに"
+  ],
+  "jaGlossRaw": "毎"
+ },
+ {
+  "wordId": "everybody",
+  "en": "everybody",
+  "ja": "ばんにん",
+  "jaAlts": [
+   "みな",
+   "みなさん",
+   "めんめん"
+  ],
+  "jaGlossRaw": "万人"
+ },
+ {
+  "wordId": "excited",
+  "en": "excited",
+  "ja": "やっき",
+  "jaGlossRaw": "躍起"
+ },
+ {
+  "wordId": "expensive",
+  "en": "expensive",
+  "ja": "たかい",
+  "jaAlts": [
+   "こうか",
+   "たがく"
+  ],
+  "jaGlossRaw": "高い"
+ },
+ {
+  "wordId": "false",
+  "en": "false",
+  "ja": "ぎじ",
+  "jaGlossRaw": "疑似"
+ },
+ {
+  "wordId": "feed",
+  "en": "feed",
+  "ja": "しりょう",
+  "jaAlts": [
+   "えさ"
+  ],
+  "jaGlossRaw": "飼料"
+ },
+ {
+  "wordId": "file",
+  "en": "file",
+  "ja": "つづり",
+  "jaAlts": [
+   "ファイル",
+   "れつ"
+  ],
+  "jaGlossRaw": "綴り"
+ },
+ {
+  "wordId": "fine",
+  "en": "fine",
+  "ja": "こまかい",
+  "jaAlts": [
+   "セーフ",
+   "そぼろ",
+   "めずらしい"
+  ],
+  "jaGlossRaw": "細かい"
+ },
+ {
+  "wordId": "flat",
+  "en": "flat",
+  "ja": "へん",
+  "jaAlts": [
+   "マンション",
+   "へや",
+   "かんさん"
+  ],
+  "jaGlossRaw": "変"
+ },
+ {
+  "wordId": "fly",
+  "en": "fly",
+  "ja": "はえ",
+  "jaAlts": [
+   "ひきゅう"
+  ],
+  "jaGlossRaw": "蠅"
+ },
+ {
+  "wordId": "focus",
+  "en": "focus",
+  "ja": "フォーカス",
+  "jaAlts": [
+   "つぎこむ",
+   "しゅうちゅう"
+  ]
+ },
+ {
+  "wordId": "following",
+  "en": "following",
+  "ja": "あくる",
+  "jaAlts": [
+   "つぎ",
+   "こうぞく"
+  ],
+  "jaGlossRaw": "明くる"
+ },
+ {
+  "wordId": "football",
+  "en": "football",
+  "ja": "フットボール",
+  "jaAlts": [
+   "サッカー"
+  ]
+ },
+ {
+  "wordId": "free",
+  "en": "free",
+  "ja": "フリーダム",
+  "jaAlts": [
+   "フリー",
+   "ひま",
+   "ずいい"
+  ]
+ },
+ {
+  "wordId": "fun",
+  "en": "fun",
+  "ja": "たのしい",
+  "jaAlts": [
+   "たのしみ",
+   "おもしろい"
+  ],
+  "jaGlossRaw": "楽しい"
+ },
+ {
+  "wordId": "garbage",
+  "en": "garbage",
+  "ja": "くず",
+  "jaAlts": [
+   "ゴミ",
+   "ガラクタ",
+   "はいきぶつ"
+  ],
+  "jaGlossRaw": "屑"
+ },
+ {
+  "wordId": "girlfriend",
+  "en": "girlfriend",
+  "ja": "かのじょ",
+  "jaAlts": [
+   "ガールフレンド",
+   "こいびと",
+   "おんな"
+  ],
+  "jaGlossRaw": "彼女"
+ },
+ {
+  "wordId": "glad",
+  "en": "glad",
+  "ja": "うれしい",
+  "jaAlts": [
+   "よろこばしい"
+  ],
+  "jaGlossRaw": "嬉しい"
+ },
+ {
+  "wordId": "grandma",
+  "en": "grandma",
+  "ja": "ばあちゃん",
+  "jaAlts": [
+   "おばあちゃん"
+  ],
+  "jaGlossRaw": "婆ちゃん"
+ },
+ {
+  "wordId": "gray",
+  "en": "gray",
+  "ja": "はいいろ",
+  "jaAlts": [
+   "グレー",
+   "あおい"
+  ],
+  "jaGlossRaw": "灰色"
+ },
+ {
+  "wordId": "greet",
+  "en": "greet",
+  "ja": "でむかえる",
+  "jaAlts": [
+   "むかえる"
+  ],
+  "jaGlossRaw": "出迎える"
+ },
+ {
+  "wordId": "hall",
+  "en": "hall",
+  "ja": "どう",
+  "jaAlts": [
+   "ホール",
+   "でんどう",
+   "じょうない"
+  ],
+  "jaGlossRaw": "堂"
+ },
+ {
+  "wordId": "hamburger",
+  "en": "hamburger",
+  "ja": "バーガー",
+  "jaAlts": [
+   "ハンバーガー"
+  ]
+ },
+ {
+  "wordId": "happen",
+  "en": "happen",
+  "ja": "ある",
+  "jaAlts": [
+   "おこる",
+   "おきる",
+   "はじまる"
+  ],
+  "jaGlossRaw": "有る"
+ },
+ {
+  "wordId": "her",
+  "en": "her",
+  "ja": "かのじょ",
+  "jaAlts": [
+   "おかあさん",
+   "やつ"
+  ],
+  "jaGlossRaw": "彼女"
+ },
+ {
+  "wordId": "hi",
+  "en": "hi",
+  "ja": "や"
+ },
+ {
+  "wordId": "him",
+  "en": "him",
+  "ja": "かれ",
+  "jaAlts": [
+   "かれし",
+   "し",
+   "おとうさん"
+  ],
+  "jaGlossRaw": "彼"
+ },
+ {
+  "wordId": "hold",
+  "en": "hold",
+  "ja": "はあく",
+  "jaAlts": [
+   "てがかり"
+  ],
+  "jaGlossRaw": "把握"
+ },
+ {
+  "wordId": "hungry",
+  "en": "hungry",
+  "ja": "ハングリー"
+ },
+ {
+  "wordId": "hurry",
+  "en": "hurry",
+  "ja": "いそぎ",
+  "jaGlossRaw": "急ぎ"
+ },
+ {
+  "wordId": "interested",
+  "en": "interested",
+  "ja": "あつい",
+  "jaGlossRaw": "暑い"
+ },
+ {
+  "wordId": "interviewer",
+  "en": "interviewer",
+  "ja": "ききて",
+  "jaGlossRaw": "聞き手"
+ },
+ {
+  "wordId": "into",
+  "en": "into",
+  "ja": "に"
+ },
+ {
+  "wordId": "introduce",
+  "en": "introduce",
+  "ja": "もたらす",
+  "jaAlts": [
+   "とりこむ",
+   "とりいれる"
+  ],
+  "jaGlossRaw": "齎す"
+ },
+ {
+  "wordId": "is",
+  "en": "is",
+  "ja": "だ",
+  "jaAlts": [
+   "です",
+   "である",
+   "であります"
+  ]
+ },
+ {
+  "wordId": "it",
+  "en": "it",
+  "ja": "それ",
+  "jaAlts": [
+   "おに"
+  ],
+  "jaGlossRaw": "其れ"
+ },
+ {
+  "wordId": "join",
+  "en": "join",
+  "ja": "つける",
+  "jaAlts": [
+   "まじわる",
+   "せつぞく",
+   "まざる"
+  ],
+  "jaGlossRaw": "付ける"
+ },
+ {
+  "wordId": "key",
+  "en": "key",
+  "ja": "おや",
+  "jaAlts": [
+   "キー",
+   "じゅうよう"
+  ],
+  "jaGlossRaw": "親"
+ },
+ {
+  "wordId": "late",
+  "en": "late",
+  "ja": "おそい",
+  "jaAlts": [
+   "ふかい"
+  ],
+  "jaGlossRaw": "遅い"
+ },
+ {
+  "wordId": "leg",
+  "en": "leg",
+  "ja": "あし",
+  "jaAlts": [
+   "こうてい"
+  ],
+  "jaGlossRaw": "足"
+ },
+ {
+  "wordId": "let",
+  "en": "let",
+  "ja": "まかせる",
+  "jaGlossRaw": "任せる"
+ },
+ {
+  "wordId": "lily",
+  "en": "lily",
+  "ja": "ゆり",
+  "jaGlossRaw": "百合"
+ },
+ {
+  "wordId": "listen",
+  "en": "listen",
+  "ja": "きく",
+  "jaGlossRaw": "聞く"
+ },
+ {
+  "wordId": "living",
+  "en": "living",
+  "ja": "いける",
+  "jaAlts": [
+   "ざいりゅう"
+  ],
+  "jaGlossRaw": "生ける"
+ },
+ {
+  "wordId": "lot",
+  "en": "lot",
+  "ja": "くみ",
+  "jaAlts": [
+   "とち",
+   "くじ",
+   "れんちゅう"
+  ],
+  "jaGlossRaw": "組"
+ },
+ {
+  "wordId": "luck",
+  "en": "luck",
+  "ja": "つき",
+  "jaAlts": [
+   "うん",
+   "しあわせ",
+   "さいわい"
+  ],
+  "jaGlossRaw": "付き"
+ },
+ {
+  "wordId": "mail",
+  "en": "mail",
+  "ja": "びん",
+  "jaAlts": [
+   "メール",
+   "ゆうびん",
+   "ふみ"
+  ],
+  "jaGlossRaw": "便"
+ },
+ {
+  "wordId": "maybe",
+  "en": "maybe",
+  "ja": "あるいは",
+  "jaAlts": [
+   "ひょっとすると",
+   "もしかしたら",
+   "もしかすると"
+  ],
+  "jaGlossRaw": "或いは"
+ },
+ {
+  "wordId": "me",
+  "en": "me",
+  "ja": "われ",
+  "jaAlts": [
+   "ぼく",
+   "おれ",
+   "わたし"
+  ],
+  "jaGlossRaw": "我"
+ },
+ {
+  "wordId": "meal",
+  "en": "meal",
+  "ja": "ごはん",
+  "jaAlts": [
+   "ダイニング",
+   "ミール",
+   "めし"
+  ],
+  "jaGlossRaw": "ご飯"
+ },
+ {
+  "wordId": "mean",
+  "en": "mean",
+  "ja": "へいきん",
+  "jaGlossRaw": "平均"
+ },
+ {
+  "wordId": "mine",
+  "en": "mine",
+  "ja": "やま",
+  "jaAlts": [
+   "きらい",
+   "こうざん",
+   "ほる"
+  ],
+  "jaGlossRaw": "山"
+ },
+ {
+  "wordId": "mobile",
+  "en": "mobile",
+  "ja": "メリー"
+ },
+ {
+  "wordId": "mommy",
+  "en": "mommy",
+  "ja": "ママ"
+ },
+ {
+  "wordId": "month",
+  "en": "month",
+  "ja": "つき",
+  "jaAlts": [
+   "げっかん",
+   "がつ"
+  ],
+  "jaGlossRaw": "月"
+ },
+ {
+  "wordId": "more",
+  "en": "more",
+  "ja": "まし",
+  "jaAlts": [
+   "なお",
+   "まだ",
+   "より"
+  ],
+  "jaGlossRaw": "増し"
+ },
+ {
+  "wordId": "move",
+  "en": "move",
+  "ja": "うごき",
+  "jaAlts": [
+   "シフト",
+   "いじゅう",
+   "でかた"
+  ],
+  "jaGlossRaw": "動き"
+ },
+ {
+  "wordId": "much",
+  "en": "much",
+  "ja": "おおく",
+  "jaAlts": [
+   "よほど",
+   "よっぽど",
+   "たくさん"
+  ],
+  "jaGlossRaw": "多く"
+ },
+ {
+  "wordId": "mum",
+  "en": "mum",
+  "ja": "おかあさん",
+  "jaAlts": [
+   "ママ"
+  ],
+  "jaGlossRaw": "お母さん"
+ },
+ {
+  "wordId": "must",
+  "en": "must",
+  "ja": "べき",
+  "jaAlts": [
+   "なければならない",
+   "さぞ",
+   "ないといけない"
+  ],
+  "jaGlossRaw": "可き"
+ },
+ {
+  "wordId": "neighbor",
+  "en": "neighbor",
+  "ja": "りんじん",
+  "jaGlossRaw": "隣人"
+ },
+ {
+  "wordId": "never",
+  "en": "never",
+  "ja": "いつも",
+  "jaAlts": [
+   "ちかって",
+   "ついに"
+  ],
+  "jaGlossRaw": "何時も"
+ },
+ {
+  "wordId": "of",
+  "en": "of",
+  "ja": "うち",
+  "jaAlts": [
+   "から"
+  ],
+  "jaGlossRaw": "内"
+ },
+ {
+  "wordId": "off",
+  "en": "off",
+  "ja": "オフ",
+  "jaAlts": [
+   "どうか"
+  ],
+  "jaGlossRaw": "ＯＦＦ"
+ },
+ {
+  "wordId": "on",
+  "en": "on",
+  "ja": "じょう",
+  "jaAlts": [
+   "オン",
+   "について",
+   "にあっては"
+  ],
+  "jaGlossRaw": "上"
+ },
+ {
+  "wordId": "orange",
+  "en": "orange",
+  "ja": "だいだいいろ",
+  "jaAlts": [
+   "オレンジ",
+   "オレンジいろ"
+  ],
+  "jaGlossRaw": "橙色"
+ },
+ {
+  "wordId": "other",
+  "en": "other",
+  "ja": "ほか",
+  "jaAlts": [
+   "た"
+  ],
+  "jaGlossRaw": "他"
+ },
+ {
+  "wordId": "our",
+  "en": "our",
+  "ja": "わが",
+  "jaGlossRaw": "我が"
+ },
+ {
+  "wordId": "out",
+  "en": "out",
+  "ja": "アウト",
+  "jaAlts": [
+   "し"
+  ],
+  "jaGlossRaw": "ＯＵＴ"
+ },
+ {
+  "wordId": "over",
+  "en": "over",
+  "ja": "ちょう",
+  "jaAlts": [
+   "アウト",
+   "オーバー",
+   "うえ"
+  ],
+  "jaGlossRaw": "超"
+ },
+ {
+  "wordId": "own",
+  "en": "own",
+  "ja": "じか",
+  "jaGlossRaw": "自家"
+ },
+ {
+  "wordId": "pants",
+  "en": "pants",
+  "ja": "ズボン",
+  "jaAlts": [
+   "パンツ"
+  ],
+  "jaGlossRaw": "洋袴"
+ },
+ {
+  "wordId": "park",
+  "en": "park",
+  "ja": "ていえん",
+  "jaAlts": [
+   "パーク",
+   "その",
+   "えん"
+  ],
+  "jaGlossRaw": "庭園"
+ },
+ {
+  "wordId": "pencil",
+  "en": "pencil",
+  "ja": "えんぴつ",
+  "jaGlossRaw": "鉛筆"
+ },
+ {
+  "wordId": "phone",
+  "en": "phone",
+  "ja": "でんわ",
+  "jaAlts": [
+   "おんせい"
+  ],
+  "jaGlossRaw": "電話"
+ },
+ {
+  "wordId": "piano",
+  "en": "piano",
+  "ja": "ピアノ"
+ },
+ {
+  "wordId": "pig",
+  "en": "pig",
+  "ja": "ぶた",
+  "jaGlossRaw": "豚"
+ },
+ {
+  "wordId": "plane",
+  "en": "plane",
+  "ja": "へいめん",
+  "jaAlts": [
+   "ひこうき"
+  ],
+  "jaGlossRaw": "平面"
+ },
+ {
+  "wordId": "pool",
+  "en": "pool",
+  "ja": "ごうべん",
+  "jaAlts": [
+   "ビリヤード",
+   "プール"
+  ],
+  "jaGlossRaw": "合弁"
+ },
+ {
+  "wordId": "problem",
+  "en": "problem",
+  "ja": "こしょう",
+  "jaAlts": [
+   "トラブル",
+   "もんだい",
+   "もんだいてん"
+  ],
+  "jaGlossRaw": "故障"
+ },
+ {
+  "wordId": "program",
+  "en": "program",
+  "ja": "こんだて",
+  "jaAlts": [
+   "プロ",
+   "コード",
+   "スケジュール"
+  ],
+  "jaGlossRaw": "献立"
+ },
+ {
+  "wordId": "quarter",
+  "en": "quarter",
+  "ja": "がい",
+  "jaAlts": [
+   "ちく",
+   "くいき",
+   "ほうめん"
+  ],
+  "jaGlossRaw": "街"
+ },
+ {
+  "wordId": "rainy",
+  "en": "rainy",
+  "ja": "あめふり",
+  "jaGlossRaw": "雨降り"
+ },
+ {
+  "wordId": "rat",
+  "en": "rat",
+  "ja": "ネズミ",
+  "jaGlossRaw": "鼠"
+ },
+ {
+  "wordId": "ready",
+  "en": "ready",
+  "ja": "むぞうさ",
+  "jaAlts": [
+   "よい",
+   "いい",
+   "じんじょう"
+  ],
+  "jaGlossRaw": "無造作"
+ },
+ {
+  "wordId": "remember",
+  "en": "remember",
+  "ja": "おもいつく",
+  "jaAlts": [
+   "しるす",
+   "しる",
+   "おもいおこす"
+  ],
+  "jaGlossRaw": "思い付く"
+ },
+ {
+  "wordId": "rude",
+  "en": "rude",
+  "ja": "そや",
+  "jaAlts": [
+   "そぼう",
+   "あらあらしい",
+   "あらっぽい"
+  ],
+  "jaGlossRaw": "粗野"
+ },
+ {
+  "wordId": "set",
+  "en": "set",
+  "ja": "しゅうごう",
+  "jaAlts": [
+   "かする",
+   "きめる",
+   "しずむ"
+  ],
+  "jaGlossRaw": "集合"
+ },
+ {
+  "wordId": "shake",
+  "en": "shake",
+  "ja": "ふり",
+  "jaAlts": [
+   "シェイク"
+  ],
+  "jaGlossRaw": "振り"
+ },
+ {
+  "wordId": "share",
+  "en": "share",
+  "ja": "わかつ",
+  "jaAlts": [
+   "シェア",
+   "わける",
+   "はいとう"
+  ],
+  "jaGlossRaw": "分かつ"
+ },
+ {
+  "wordId": "sheep",
+  "en": "sheep",
+  "ja": "ひつじ",
+  "jaGlossRaw": "羊"
+ },
+ {
+  "wordId": "shirt",
+  "en": "shirt",
+  "ja": "シャツ",
+  "jaAlts": [
+   "ワイシャツ"
+  ]
+ },
+ {
+  "wordId": "sight",
+  "en": "sight",
+  "ja": "ず",
+  "jaAlts": [
+   "シーン",
+   "ビジョン",
+   "じょうけい"
+  ],
+  "jaGlossRaw": "図"
+ },
+ {
+  "wordId": "sir",
+  "en": "sir",
+  "ja": "だんな",
+  "jaGlossRaw": "旦那"
+ },
+ {
+  "wordId": "sister",
+  "en": "sister",
+  "ja": "あま",
+  "jaAlts": [
+   "シスター",
+   "エス",
+   "にそう"
+  ],
+  "jaGlossRaw": "尼"
+ },
+ {
+  "wordId": "sit",
+  "en": "sit",
+  "ja": "かける",
+  "jaAlts": [
+   "こしかける",
+   "すわる"
+  ],
+  "jaGlossRaw": "掛ける"
+ },
+ {
+  "wordId": "smart",
+  "en": "smart",
+  "ja": "あじ",
+  "jaAlts": [
+   "シック",
+   "スマート",
+   "いき"
+  ],
+  "jaGlossRaw": "味"
+ },
+ {
+  "wordId": "smoking",
+  "en": "smoking",
+  "ja": "きつえん",
+  "jaGlossRaw": "喫煙"
+ },
+ {
+  "wordId": "solve",
+  "en": "solve",
+  "ja": "とく",
+  "jaAlts": [
+   "かたづける"
+  ],
+  "jaGlossRaw": "解く"
+ },
+ {
+  "wordId": "sorry",
+  "en": "sorry",
+  "ja": "すまない",
+  "jaAlts": [
+   "わるい"
+  ],
+  "jaGlossRaw": "済まない"
+ },
+ {
+  "wordId": "soup",
+  "en": "soup",
+  "ja": "しる",
+  "jaAlts": [
+   "スープ"
+  ],
+  "jaGlossRaw": "汁"
+ },
+ {
+  "wordId": "speak",
+  "en": "speak",
+  "ja": "おっしゃる",
+  "jaAlts": [
+   "はなす",
+   "つかう",
+   "かぶせる"
+  ],
+  "jaGlossRaw": "仰る"
+ },
+ {
+  "wordId": "spell",
+  "en": "spell",
+  "ja": "のろい",
+  "jaAlts": [
+   "まりょく",
+   "まほう",
+   "つづき"
+  ],
+  "jaGlossRaw": "呪い"
+ },
+ {
+  "wordId": "step",
+  "en": "step",
+  "ja": "そち",
+  "jaAlts": [
+   "ステップ",
+   "しょち"
+  ],
+  "jaGlossRaw": "措置"
+ },
+ {
+  "wordId": "successful",
+  "en": "successful",
+  "ja": "こうかてき",
+  "jaAlts": [
+   "さかん",
+   "うまい"
+  ],
+  "jaGlossRaw": "効果的"
+ },
+ {
+  "wordId": "sun",
+  "en": "sun",
+  "ja": "ひ",
+  "jaGlossRaw": "日"
+ },
+ {
+  "wordId": "sunny",
+  "en": "sunny",
+  "ja": "ほがらか",
+  "jaAlts": [
+   "あかるい"
+  ],
+  "jaGlossRaw": "朗らか"
+ },
+ {
+  "wordId": "super",
+  "en": "super",
+  "ja": "スーパー"
+ },
+ {
+  "wordId": "survey",
+  "en": "survey",
+  "ja": "かんさつ",
+  "jaAlts": [
+   "アンケート",
+   "ヒアリング",
+   "かんそく"
+  ],
+  "jaGlossRaw": "観察"
+ },
+ {
+  "wordId": "sweet",
+  "en": "sweet",
+  "ja": "あまい",
+  "jaAlts": [
+   "スイート",
+   "かわいらしい",
+   "うつくしい"
+  ],
+  "jaGlossRaw": "甘い"
+ },
+ {
+  "wordId": "tall",
+  "en": "tall",
+  "ja": "たかい",
+  "jaAlts": [
+   "こうそう",
+   "せがたかい"
+  ],
+  "jaGlossRaw": "高い"
+ },
+ {
+  "wordId": "the",
+  "en": "the",
+  "ja": "その",
+  "jaAlts": [
+   "あの"
+  ],
+  "jaGlossRaw": "其の"
+ },
+ {
+  "wordId": "them",
+  "en": "them",
+  "ja": "かれら",
+  "jaGlossRaw": "彼ら"
+ },
+ {
+  "wordId": "then",
+  "en": "then",
+  "ja": "ひきつづき",
+  "jaGlossRaw": "引き続き"
+ },
+ {
+  "wordId": "tiger",
+  "en": "tiger",
+  "ja": "とら",
+  "jaGlossRaw": "虎"
+ },
+ {
+  "wordId": "tomato",
+  "en": "tomato",
+  "ja": "トマト"
+ },
+ {
+  "wordId": "too",
+  "en": "too",
+  "ja": "やはり",
+  "jaAlts": [
+   "やっぱり",
+   "また",
+   "あまりに"
+  ],
+  "jaGlossRaw": "矢張り"
+ },
+ {
+  "wordId": "until",
+  "en": "until",
+  "ja": "まで",
+  "jaGlossRaw": "迄"
+ },
+ {
+  "wordId": "up",
+  "en": "up",
+  "ja": "うえ",
+  "jaAlts": [
+   "ビリビリ"
+  ],
+  "jaGlossRaw": "上"
+ },
+ {
+  "wordId": "us",
+  "en": "us",
+  "ja": "ぼくら",
+  "jaAlts": [
+   "われら",
+   "わたしたち",
+   "こちら"
+  ],
+  "jaGlossRaw": "僕ら"
+ },
+ {
+  "wordId": "vacation",
+  "en": "vacation",
+  "ja": "やすみ",
+  "jaAlts": [
+   "バカンス",
+   "きゅうか",
+   "ひま"
+  ],
+  "jaGlossRaw": "休み"
+ },
+ {
+  "wordId": "vase",
+  "en": "vase",
+  "ja": "つぼ",
+  "jaAlts": [
+   "かびん"
+  ],
+  "jaGlossRaw": "壺"
+ },
+ {
+  "wordId": "video",
+  "en": "video",
+  "ja": "えいぞう",
+  "jaAlts": [
+   "ムービー",
+   "ビデオ",
+   "どうが"
+  ],
+  "jaGlossRaw": "映像"
+ },
+ {
+  "wordId": "waiter",
+  "en": "waiter",
+  "ja": "ボーイ",
+  "jaAlts": [
+   "ギャルソン"
+  ]
+ },
+ {
+  "wordId": "wake",
+  "en": "wake",
+  "ja": "つや",
+  "jaGlossRaw": "通夜"
+ },
+ {
+  "wordId": "wear",
+  "en": "wear",
+  "ja": "つける",
+  "jaAlts": [
+   "ひっぱる",
+   "はく",
+   "かぶる"
+  ],
+  "jaGlossRaw": "付ける"
+ },
+ {
+  "wordId": "well",
+  "en": "well",
+  "ja": "たっしゃ",
+  "jaAlts": [
+   "まめ",
+   "げんき"
+  ],
+  "jaGlossRaw": "達者"
+ },
+ {
+  "wordId": "were",
+  "en": "were",
+  "ja": "だった"
+ },
+ {
+  "wordId": "wheel",
+  "en": "wheel",
+  "ja": "くるま",
+  "jaAlts": [
+   "ホイール",
+   "わ",
+   "しゃりん"
+  ],
+  "jaGlossRaw": "車"
+ },
+ {
+  "wordId": "when",
+  "en": "when",
+  "ja": "ついでに",
+  "jaGlossRaw": "序でに"
+ },
+ {
+  "wordId": "yard",
+  "en": "yard",
+  "ja": "にわ",
+  "jaAlts": [
+   "ヤード",
+   "けた",
+   "おきば"
+  ],
+  "jaGlossRaw": "庭"
+ },
+ {
+  "wordId": "yet",
+  "en": "yet",
+  "ja": "なお",
+  "jaAlts": [
+   "もう",
+   "まだ",
+   "まだまだ"
+  ],
+  "jaGlossRaw": "尚"
+ },
+ {
+  "wordId": "yourself",
+  "en": "yourself",
+  "ja": "じぶん",
+  "jaAlts": [
+   "じしん"
+  ],
+  "jaGlossRaw": "自分"
+ }
+]

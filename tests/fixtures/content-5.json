@@ -1,0 +1,294 @@
+[
+  {
+    "id": "g5-pick-picture-001",
+    "grade": "5",
+    "kind": "pick-picture",
+    "wordId": "dog",
+    "promptJa": "えをみて、えいごをえらぼう",
+    "imageId": "dog",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "dog"
+      },
+      {
+        "id": "b",
+        "textEn": "cat"
+      },
+      {
+        "id": "c",
+        "textEn": "bird"
+      }
+    ],
+    "answer": "a",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-pick-picture-002",
+    "grade": "5",
+    "kind": "pick-picture",
+    "wordId": "bird",
+    "promptJa": "えをみて、えいごをえらぼう",
+    "imageId": "bird",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "bee"
+      },
+      {
+        "id": "b",
+        "textEn": "frog"
+      },
+      {
+        "id": "c",
+        "textEn": "bird"
+      }
+    ],
+    "answer": "c",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-listen-pick-001",
+    "grade": "5",
+    "kind": "listen-pick",
+    "wordId": "fish",
+    "promptJa": "きいて、えをえらぼう",
+    "speakEn": "fish",
+    "choices": [
+      {
+        "id": "a",
+        "imageId": "fish"
+      },
+      {
+        "id": "b",
+        "imageId": "mouse"
+      },
+      {
+        "id": "c",
+        "imageId": "cow"
+      }
+    ],
+    "answer": "a",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-listen-pick-002",
+    "grade": "5",
+    "kind": "listen-pick",
+    "wordId": "cow",
+    "promptJa": "きいて、えをえらぼう",
+    "speakEn": "cow",
+    "choices": [
+      {
+        "id": "a",
+        "imageId": "horse"
+      },
+      {
+        "id": "b",
+        "imageId": "fish"
+      },
+      {
+        "id": "c",
+        "imageId": "cow"
+      }
+    ],
+    "answer": "c",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-letter-tiles-001",
+    "grade": "5",
+    "kind": "letter-tiles",
+    "wordId": "cat",
+    "promptJa": "えをみて、もじをならべよう",
+    "imageId": "cat",
+    "answer": "cat",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-letter-tiles-003",
+    "grade": "5",
+    "kind": "letter-tiles",
+    "wordId": "bus",
+    "promptJa": "えをみて、もじをならべよう",
+    "imageId": "bus",
+    "answer": "bus",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-pick-word-001",
+    "grade": "5",
+    "kind": "pick-word",
+    "wordId": "banana",
+    "promptJa": "あてはまることばをえらぼう",
+    "promptEn": "Eat a ___!",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "banana"
+      },
+      {
+        "id": "b",
+        "textEn": "bed"
+      },
+      {
+        "id": "c",
+        "textEn": "chair"
+      }
+    ],
+    "answer": "a",
+    "source": {
+      "name": "Tatoeba",
+      "license": "CC BY 2.0 FR",
+      "url": "https://tatoeba.org/en/sentences/show/8762785",
+      "author": "cheeseisdisgusting"
+    }
+  },
+  {
+    "id": "g5-pick-word-002",
+    "grade": "5",
+    "kind": "pick-word",
+    "wordId": "ball",
+    "promptJa": "あてはまることばをえらぼう",
+    "promptEn": "Kick the ___.",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "cake"
+      },
+      {
+        "id": "b",
+        "textEn": "bed"
+      },
+      {
+        "id": "c",
+        "textEn": "ball"
+      }
+    ],
+    "answer": "c",
+    "source": {
+      "name": "Tatoeba",
+      "license": "CC BY 2.0 FR",
+      "url": "https://tatoeba.org/en/sentences/show/8916338",
+      "author": "CK"
+    }
+  },
+  {
+    "id": "g5-dialogue-choice-001",
+    "grade": "5",
+    "kind": "dialogue-choice",
+    "promptJa": "かいわのつづきをえらぼう",
+    "promptEn": "A: Hello! How are you?\nB: ___",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "I'm fine, thanks."
+      },
+      {
+        "id": "b",
+        "textEn": "It's a dog."
+      },
+      {
+        "id": "c",
+        "textEn": "Yes, I do."
+      }
+    ],
+    "answer": "a",
+    "source": {
+      "name": "original",
+      "license": "n/a"
+    }
+  },
+  {
+    "id": "g5-dialogue-choice-002",
+    "grade": "5",
+    "kind": "dialogue-choice",
+    "promptJa": "かいわのつづきをえらぼう",
+    "promptEn": "A: What's your name?\nB: ___",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "I'm eight."
+      },
+      {
+        "id": "b",
+        "textEn": "Yes, please."
+      },
+      {
+        "id": "c",
+        "textEn": "My name is Ken."
+      }
+    ],
+    "answer": "c",
+    "source": {
+      "name": "original",
+      "license": "n/a"
+    }
+  },
+  {
+    "id": "g5-pick-picture-004",
+    "grade": "5",
+    "kind": "pick-picture",
+    "wordId": "bear",
+    "promptJa": "えをみて、えいごをえらぼう",
+    "imageId": "bear",
+    "choices": [
+      {
+        "id": "a",
+        "textEn": "bear"
+      },
+      {
+        "id": "b",
+        "textEn": "lion"
+      },
+      {
+        "id": "c",
+        "textEn": "monkey"
+      }
+    ],
+    "answer": "a",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  },
+  {
+    "id": "g5-letter-tiles-004",
+    "grade": "5",
+    "kind": "letter-tiles",
+    "wordId": "egg",
+    "promptJa": "えをみて、もじをならべよう",
+    "imageId": "egg",
+    "answer": "egg",
+    "source": {
+      "name": "CEFR-J Wordlist Version 1.6",
+      "license": "citation required",
+      "url": "https://www.cefr-j.org/download.html"
+    }
+  }
+]

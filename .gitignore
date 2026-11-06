@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-review/
+.superpowers/
+assets-src/
+content/sources/
+*.zip
+.vite/
+test-results/
+playwright-report/
+/12 Lovely Villagers Character Sheets.png
+
+# private planning docs (kept on the owner machine only)
+docs/specs/
+docs/superpowers/

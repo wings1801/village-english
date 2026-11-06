@@ -1,0 +1,5692 @@
+[
+ {
+  "id": "g4-pick-picture-001",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "balloon",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "balloon",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "balloon"
+   },
+   {
+    "id": "b",
+    "textEn": "cat"
+   },
+   {
+    "id": "c",
+    "textEn": "pizza"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-002",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "battery",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "battery",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "apple"
+   },
+   {
+    "id": "b",
+    "textEn": "battery"
+   },
+   {
+    "id": "c",
+    "textEn": "dog"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-003",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "calendar",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "calendar",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "banana"
+   },
+   {
+    "id": "b",
+    "textEn": "bird"
+   },
+   {
+    "id": "c",
+    "textEn": "calendar"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-004",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "carrot",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "carrot",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "carrot"
+   },
+   {
+    "id": "b",
+    "textEn": "car"
+   },
+   {
+    "id": "c",
+    "textEn": "book"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-005",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "castle",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "castle",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "fish"
+   },
+   {
+    "id": "b",
+    "textEn": "castle"
+   },
+   {
+    "id": "c",
+    "textEn": "cake"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-006",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "chess",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "chess",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "shoe"
+   },
+   {
+    "id": "b",
+    "textEn": "bee"
+   },
+   {
+    "id": "c",
+    "textEn": "chess"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-007",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "clown",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "clown",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "clown"
+   },
+   {
+    "id": "b",
+    "textEn": "door"
+   },
+   {
+    "id": "c",
+    "textEn": "egg"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-008",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "coin",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "coin",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "snake"
+   },
+   {
+    "id": "b",
+    "textEn": "coin"
+   },
+   {
+    "id": "c",
+    "textEn": "tree"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-009",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "crown",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "crown",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "sheep"
+   },
+   {
+    "id": "b",
+    "textEn": "soup"
+   },
+   {
+    "id": "c",
+    "textEn": "crown"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-010",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "diamond",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "diamond",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "diamond"
+   },
+   {
+    "id": "b",
+    "textEn": "bus"
+   },
+   {
+    "id": "c",
+    "textEn": "frog"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-011",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "dinosaur",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "dinosaur",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "kite"
+   },
+   {
+    "id": "b",
+    "textEn": "dinosaur"
+   },
+   {
+    "id": "c",
+    "textEn": "milk"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-012",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "duck",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "duck",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bed"
+   },
+   {
+    "id": "b",
+    "textEn": "shirt"
+   },
+   {
+    "id": "c",
+    "textEn": "duck"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-013",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "earth",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "earth",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "earth"
+   },
+   {
+    "id": "b",
+    "textEn": "pig"
+   },
+   {
+    "id": "c",
+    "textEn": "chair"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-014",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "elephant",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "elephant",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bread"
+   },
+   {
+    "id": "b",
+    "textEn": "elephant"
+   },
+   {
+    "id": "c",
+    "textEn": "drum"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-015",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "envelope",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "envelope",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "horse"
+   },
+   {
+    "id": "b",
+    "textEn": "tea"
+   },
+   {
+    "id": "c",
+    "textEn": "envelope"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-016",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "garlic",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "garlic",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "garlic"
+   },
+   {
+    "id": "b",
+    "textEn": "bus"
+   },
+   {
+    "id": "c",
+    "textEn": "lion"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-017",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "glove",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "glove",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "fish"
+   },
+   {
+    "id": "b",
+    "textEn": "glove"
+   },
+   {
+    "id": "c",
+    "textEn": "truck"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-018",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "honey",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "honey",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "car"
+   },
+   {
+    "id": "b",
+    "textEn": "shoe"
+   },
+   {
+    "id": "c",
+    "textEn": "honey"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-019",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "hockey",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "hockey",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "hockey"
+   },
+   {
+    "id": "b",
+    "textEn": "cheese"
+   },
+   {
+    "id": "c",
+    "textEn": "camera"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-020",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "badminton",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "badminton",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "rabbit"
+   },
+   {
+    "id": "b",
+    "textEn": "badminton"
+   },
+   {
+    "id": "c",
+    "textEn": "soup"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-021",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "feather",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "feather",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "pizza"
+   },
+   {
+    "id": "b",
+    "textEn": "train"
+   },
+   {
+    "id": "c",
+    "textEn": "feather"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-022",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "camping",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "camping",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "camping"
+   },
+   {
+    "id": "b",
+    "textEn": "piano"
+   },
+   {
+    "id": "c",
+    "textEn": "egg"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-023",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "desert",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "desert",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cow"
+   },
+   {
+    "id": "b",
+    "textEn": "desert"
+   },
+   {
+    "id": "c",
+    "textEn": "juice"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-024",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "angel",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "angel",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bicycle"
+   },
+   {
+    "id": "b",
+    "textEn": "grape"
+   },
+   {
+    "id": "c",
+    "textEn": "angel"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-025",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "curry",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "curry",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "curry"
+   },
+   {
+    "id": "b",
+    "textEn": "cat"
+   },
+   {
+    "id": "c",
+    "textEn": "window"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-026",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "headphone",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "headphone",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "frog"
+   },
+   {
+    "id": "b",
+    "textEn": "headphone"
+   },
+   {
+    "id": "c",
+    "textEn": "apple"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-027",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "fog",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "fog",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "dog"
+   },
+   {
+    "id": "b",
+    "textEn": "bell"
+   },
+   {
+    "id": "c",
+    "textEn": "fog"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-028",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "balloon",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "balloon",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "clock"
+   },
+   {
+    "id": "b",
+    "textEn": "tiger"
+   },
+   {
+    "id": "c",
+    "textEn": "rain"
+   },
+   {
+    "id": "d",
+    "textEn": "balloon"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-029",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "castle",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "castle",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "castle"
+   },
+   {
+    "id": "b",
+    "textEn": "bear"
+   },
+   {
+    "id": "c",
+    "textEn": "bread"
+   },
+   {
+    "id": "d",
+    "textEn": "ear"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-030",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "duck",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "duck",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "key"
+   },
+   {
+    "id": "b",
+    "textEn": "duck"
+   },
+   {
+    "id": "c",
+    "textEn": "rice"
+   },
+   {
+    "id": "d",
+    "textEn": "school"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-031",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "elephant",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "elephant",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "apple"
+   },
+   {
+    "id": "b",
+    "textEn": "bus"
+   },
+   {
+    "id": "c",
+    "textEn": "elephant"
+   },
+   {
+    "id": "d",
+    "textEn": "pen"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-032",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "crown",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "crown",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bird"
+   },
+   {
+    "id": "b",
+    "textEn": "gift"
+   },
+   {
+    "id": "c",
+    "textEn": "shoe"
+   },
+   {
+    "id": "d",
+    "textEn": "crown"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-033",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "glove",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "glove",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "glove"
+   },
+   {
+    "id": "b",
+    "textEn": "moon"
+   },
+   {
+    "id": "c",
+    "textEn": "pizza"
+   },
+   {
+    "id": "d",
+    "textEn": "rabbit"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-034",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "diamond",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "diamond",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cow"
+   },
+   {
+    "id": "b",
+    "textEn": "diamond"
+   },
+   {
+    "id": "c",
+    "textEn": "boat"
+   },
+   {
+    "id": "d",
+    "textEn": "tomato"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-035",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "calendar",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "calendar",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "umbrella"
+   },
+   {
+    "id": "b",
+    "textEn": "monkey"
+   },
+   {
+    "id": "c",
+    "textEn": "calendar"
+   },
+   {
+    "id": "d",
+    "textEn": "cake"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-036",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "carrot",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "carrot",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bell"
+   },
+   {
+    "id": "b",
+    "textEn": "house"
+   },
+   {
+    "id": "c",
+    "textEn": "mouse"
+   },
+   {
+    "id": "d",
+    "textEn": "carrot"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-037",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "dinosaur",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "dinosaur",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "dinosaur"
+   },
+   {
+    "id": "b",
+    "textEn": "pencil"
+   },
+   {
+    "id": "c",
+    "textEn": "cheese"
+   },
+   {
+    "id": "d",
+    "textEn": "bus"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-038",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "clown",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "clown",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "lion"
+   },
+   {
+    "id": "b",
+    "textEn": "clown"
+   },
+   {
+    "id": "c",
+    "textEn": "coffee"
+   },
+   {
+    "id": "d",
+    "textEn": "train"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-001",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "castle",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "castle",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "apple"
+   },
+   {
+    "id": "b",
+    "imageId": "cat"
+   },
+   {
+    "id": "c",
+    "imageId": "castle"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-002",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "duck",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "duck",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "duck"
+   },
+   {
+    "id": "b",
+    "imageId": "car"
+   },
+   {
+    "id": "c",
+    "imageId": "pizza"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-003",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "elephant",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "elephant",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "shoe"
+   },
+   {
+    "id": "b",
+    "imageId": "elephant"
+   },
+   {
+    "id": "c",
+    "imageId": "cake"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-004",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "glove",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "glove",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "bird"
+   },
+   {
+    "id": "b",
+    "imageId": "bus"
+   },
+   {
+    "id": "c",
+    "imageId": "glove"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-005",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "crown",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "crown",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "crown"
+   },
+   {
+    "id": "b",
+    "imageId": "egg"
+   },
+   {
+    "id": "c",
+    "imageId": "dog"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-006",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "diamond",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "diamond",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "fish"
+   },
+   {
+    "id": "b",
+    "imageId": "diamond"
+   },
+   {
+    "id": "c",
+    "imageId": "chair"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-007",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "feather",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "feather",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "bread"
+   },
+   {
+    "id": "b",
+    "imageId": "bicycle"
+   },
+   {
+    "id": "c",
+    "imageId": "feather"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-008",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "desert",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "desert",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "desert"
+   },
+   {
+    "id": "b",
+    "imageId": "cat"
+   },
+   {
+    "id": "c",
+    "imageId": "soup"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-009",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "garlic",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "garlic",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "truck"
+   },
+   {
+    "id": "b",
+    "imageId": "garlic"
+   },
+   {
+    "id": "c",
+    "imageId": "cow"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-010",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "headphone",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "headphone",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "tiger"
+   },
+   {
+    "id": "b",
+    "imageId": "pencil"
+   },
+   {
+    "id": "c",
+    "imageId": "headphone"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-011",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "envelope",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "envelope",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "envelope"
+   },
+   {
+    "id": "b",
+    "imageId": "snake"
+   },
+   {
+    "id": "c",
+    "imageId": "grape"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-012",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "camping",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "camping",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "cheese"
+   },
+   {
+    "id": "b",
+    "imageId": "camping"
+   },
+   {
+    "id": "c",
+    "imageId": "bell"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-013",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "badminton",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "badminton",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "pig"
+   },
+   {
+    "id": "b",
+    "imageId": "cake"
+   },
+   {
+    "id": "c",
+    "imageId": "badminton"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-014",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "angel",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "angel",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "angel"
+   },
+   {
+    "id": "b",
+    "imageId": "dog"
+   },
+   {
+    "id": "c",
+    "imageId": "bus"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-015",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "honey",
+  "promptJa": "きいて、えをえらぼう",
+  "speakEn": "I love honey.",
+  "choices": [
+   {
+    "id": "a",
+    "imageId": "pizza"
+   },
+   {
+    "id": "b",
+    "imageId": "honey"
+   },
+   {
+    "id": "c",
+    "imageId": "egg"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2751463",
+   "author": "Hybrid"
+  }
+ },
+ {
+  "id": "g4-listen-pick-016",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "brave",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "He is brave.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "He is gentle."
+   },
+   {
+    "id": "b",
+    "textEn": "He is kind."
+   },
+   {
+    "id": "c",
+    "textEn": "He is brave."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/9457081",
+   "author": "sundown"
+  }
+ },
+ {
+  "id": "g4-listen-pick-017",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "chef",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "I'm a chef.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "I'm a chef."
+   },
+   {
+    "id": "b",
+    "textEn": "I'm a hunter."
+   },
+   {
+    "id": "c",
+    "textEn": "I'm a dentist."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/8397776",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-018",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "joke",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "It's a joke.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's a fact."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a joke."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a deal."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/3507563",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-019",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "drawer",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "Close the drawer.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Open the drawer."
+   },
+   {
+    "id": "b",
+    "textEn": "Close the gate."
+   },
+   {
+    "id": "c",
+    "textEn": "Close the drawer."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/6849664",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-020",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "empty",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "It was empty.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It was empty."
+   },
+   {
+    "id": "b",
+    "textEn": "It was clear."
+   },
+   {
+    "id": "c",
+    "textEn": "It was easy."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2248822",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-021",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "advice",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "I need advice.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "I need cash."
+   },
+   {
+    "id": "b",
+    "textEn": "I need advice."
+   },
+   {
+    "id": "c",
+    "textEn": "I need air."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2245998",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-022",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "chance",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "Take a chance.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Take a bite."
+   },
+   {
+    "id": "b",
+    "textEn": "Take a seat."
+   },
+   {
+    "id": "c",
+    "textEn": "Take a chance."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2250038",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-023",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "dangerous",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "dangerous",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "dangerous"
+   },
+   {
+    "id": "b",
+    "textEn": "dinosaur"
+   },
+   {
+    "id": "c",
+    "textEn": "desert"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-024",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "escalator",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "escalator",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "elevator"
+   },
+   {
+    "id": "b",
+    "textEn": "escalator"
+   },
+   {
+    "id": "c",
+    "textEn": "elephant"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-025",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "kilometer",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "kilometer",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "kilogram"
+   },
+   {
+    "id": "b",
+    "textEn": "centimeter"
+   },
+   {
+    "id": "c",
+    "textEn": "kilometer"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-026",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "century",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "century",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "century"
+   },
+   {
+    "id": "b",
+    "textEn": "cereal"
+   },
+   {
+    "id": "c",
+    "textEn": "center"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-027",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "earthquake",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "earthquake",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "earth"
+   },
+   {
+    "id": "b",
+    "textEn": "earthquake"
+   },
+   {
+    "id": "c",
+    "textEn": "earring"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-028",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "crowd",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "crowd",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "crown"
+   },
+   {
+    "id": "b",
+    "textEn": "cloud"
+   },
+   {
+    "id": "c",
+    "textEn": "crowd"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-029",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "hundred",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "hundred",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "hundred"
+   },
+   {
+    "id": "b",
+    "textEn": "hungry"
+   },
+   {
+    "id": "c",
+    "textEn": "handle"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-030",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "cheap",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "cheap",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cheek"
+   },
+   {
+    "id": "b",
+    "textEn": "cheap"
+   },
+   {
+    "id": "c",
+    "textEn": "chair"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-001",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "balloon",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "balloon",
+  "answer": "balloon",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-002",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "castle",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "castle",
+  "answer": "castle",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-003",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "carrot",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "carrot",
+  "answer": "carrot",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-004",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "crown",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "crown",
+  "answer": "crown",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-005",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "diamond",
+  "promptJa": "えとヒントをみて、もじをならべよう",
+  "imageId": "diamond",
+  "answer": "diamond",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  },
+  "promptEn": "A hard, bright stone"
+ },
+ {
+  "id": "g4-letter-tiles-006",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "duck",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "duck",
+  "answer": "duck",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-007",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "glove",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "glove",
+  "answer": "glove",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-008",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "hockey",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "hockey",
+  "answer": "hockey",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-009",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "clown",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "clown",
+  "answer": "clown",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-010",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "calendar",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "calendar",
+  "answer": "calendar",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-011",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "elephant",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "elephant",
+  "answer": "elephant",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-012",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "hundred",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "The number 100",
+  "answer": "hundred",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-013",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "dentist",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "A doctor for your mouth and tooth",
+  "answer": "dentist",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-014",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "kilometer",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "1,000 meters",
+  "answer": "kilometer",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-015",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "kilogram",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "1,000 grams",
+  "answer": "kilogram",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-016",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "century",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "100 years",
+  "answer": "century",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-017",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "earthquake",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "The ground can move a lot",
+  "answer": "earthquake",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-018",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "escalator",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "Stairs that move by themselves",
+  "answer": "escalator",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-019",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "elevator",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "A small room that can go up and down in a building",
+  "answer": "elevator",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-020",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "dessert",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "Sweet food like cake or ice cream after dinner",
+  "answer": "dessert",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-021",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "diary",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "A book where you write about each day",
+  "answer": "diary",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-022",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "centimeter",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "100 of these make one meter",
+  "answer": "centimeter",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-word-001",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "accident",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "He had an ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "enough"
+   },
+   {
+    "id": "b",
+    "textEn": "honey"
+   },
+   {
+    "id": "c",
+    "textEn": "accident"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/947875",
+   "author": "Swift"
+  }
+ },
+ {
+  "id": "g4-pick-word-002",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "across",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Go ___ the bridge.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "fresh"
+   },
+   {
+    "id": "c",
+    "textEn": "crowd"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/13289698",
+   "author": "frpzzd"
+  }
+ },
+ {
+  "id": "g4-pick-word-003",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "advice",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I need ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "advice"
+   },
+   {
+    "id": "c",
+    "textEn": "although"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2245998",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-004",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "bake",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "___ a cake.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Boil"
+   },
+   {
+    "id": "b",
+    "textEn": "Hug"
+   },
+   {
+    "id": "c",
+    "textEn": "Bake"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/12204427",
+   "author": "sundown"
+  }
+ },
+ {
+  "id": "g4-pick-word-005",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "boil",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "___ an egg.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Boil"
+   },
+   {
+    "id": "b",
+    "textEn": "Hug"
+   },
+   {
+    "id": "c",
+    "textEn": "Fall"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/9140304",
+   "author": "sundown"
+  }
+ },
+ {
+  "id": "g4-pick-word-006",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "brave",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "He is ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "brave"
+   },
+   {
+    "id": "c",
+    "textEn": "honey"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/9457081",
+   "author": "sundown"
+  }
+ },
+ {
+  "id": "g4-pick-word-007",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "dentist",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "He's a ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "brave"
+   },
+   {
+    "id": "c",
+    "textEn": "dentist"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/8478374",
+   "author": "CH"
+  }
+ },
+ {
+  "id": "g4-pick-word-008",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "empty",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "It was ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "empty"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "enter"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2248822",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-009",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "follow",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Now ___ me.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "fresh"
+   },
+   {
+    "id": "b",
+    "textEn": "follow"
+   },
+   {
+    "id": "c",
+    "textEn": "hundred"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2249671",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-010",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "fresh",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Eat ___ food.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "empty"
+   },
+   {
+    "id": "b",
+    "textEn": "brave"
+   },
+   {
+    "id": "c",
+    "textEn": "fresh"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/8610483",
+   "author": "Amastan"
+  }
+ },
+ {
+  "id": "g4-pick-word-011",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "chef",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm a ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "chef"
+   },
+   {
+    "id": "b",
+    "textEn": "enter"
+   },
+   {
+    "id": "c",
+    "textEn": "across"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/8397776",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-012",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "lamp",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "The ___ is on.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "lake"
+   },
+   {
+    "id": "b",
+    "textEn": "lamp"
+   },
+   {
+    "id": "c",
+    "textEn": "fence"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/9161971",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-013",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "enter",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "May I ___?",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "fresh"
+   },
+   {
+    "id": "b",
+    "textEn": "hundred"
+   },
+   {
+    "id": "c",
+    "textEn": "enter"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/10107162",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-014",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "explain",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I can ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "explain"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "enough"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2245641",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-015",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "argue",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Let's not ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "fresh"
+   },
+   {
+    "id": "b",
+    "textEn": "argue"
+   },
+   {
+    "id": "c",
+    "textEn": "across"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2007873",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-016",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "challenge",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "It's a ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "enter"
+   },
+   {
+    "id": "b",
+    "textEn": "argue"
+   },
+   {
+    "id": "c",
+    "textEn": "challenge"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/4496384",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-017",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "gate",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Open the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "gate"
+   },
+   {
+    "id": "b",
+    "textEn": "lake"
+   },
+   {
+    "id": "c",
+    "textEn": "forest"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2249747",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-018",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "drawer",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Close the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "lake"
+   },
+   {
+    "id": "b",
+    "textEn": "drawer"
+   },
+   {
+    "id": "c",
+    "textEn": "forest"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/6849664",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-019",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "diary",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Keep a ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "gentle"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "diary"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/10666081",
+   "author": "sundown"
+  }
+ },
+ {
+  "id": "g4-pick-word-020",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "beginner",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm a ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "beginner"
+   },
+   {
+    "id": "b",
+    "textEn": "enter"
+   },
+   {
+    "id": "c",
+    "textEn": "across"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2247880",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-021",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "bench",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Sit on the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "lake"
+   },
+   {
+    "id": "b",
+    "textEn": "bench"
+   },
+   {
+    "id": "c",
+    "textEn": "forest"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2648759",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-022",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "download",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Did you ___ it?",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "fresh"
+   },
+   {
+    "id": "c",
+    "textEn": "download"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/8036414",
+   "author": "Amastan"
+  }
+ },
+ {
+  "id": "g4-pick-word-023",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "continue",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I must ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "continue"
+   },
+   {
+    "id": "b",
+    "textEn": "hundred"
+   },
+   {
+    "id": "c",
+    "textEn": "gentle"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2245985",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-024",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "journey",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "It's a long ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "journey"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/4500737",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-025",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "forest",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm in the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "brave"
+   },
+   {
+    "id": "c",
+    "textEn": "forest"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/13198758",
+   "author": "frpzzd"
+  }
+ },
+ {
+  "id": "g4-pick-word-026",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "fence",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I fixed the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "fence"
+   },
+   {
+    "id": "b",
+    "textEn": "lake"
+   },
+   {
+    "id": "c",
+    "textEn": "crowd"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/5858890",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-027",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "elephant",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "The ___ is a big animal with a long nose.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "duck"
+   },
+   {
+    "id": "b",
+    "textEn": "elephant"
+   },
+   {
+    "id": "c",
+    "textEn": "rabbit"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-028",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "calendar",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I look at the ___ to see the date.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "battery"
+   },
+   {
+    "id": "b",
+    "textEn": "glove"
+   },
+   {
+    "id": "c",
+    "textEn": "calendar"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-029",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "battery",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "My toy has no ___. It does not move.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "battery"
+   },
+   {
+    "id": "b",
+    "textEn": "carrot"
+   },
+   {
+    "id": "c",
+    "textEn": "feather"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-030",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "glove",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "It is cold. Put on your ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "carrot"
+   },
+   {
+    "id": "b",
+    "textEn": "glove"
+   },
+   {
+    "id": "c",
+    "textEn": "elephant"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-031",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "earth",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "We live on the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "castle"
+   },
+   {
+    "id": "b",
+    "textEn": "clown"
+   },
+   {
+    "id": "c",
+    "textEn": "earth"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-032",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "crown",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "She has a gold ___ on her head.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "crown"
+   },
+   {
+    "id": "b",
+    "textEn": "glove"
+   },
+   {
+    "id": "c",
+    "textEn": "garlic"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-033",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "clown",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "The ___ makes us laugh at the party.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "castle"
+   },
+   {
+    "id": "b",
+    "textEn": "clown"
+   },
+   {
+    "id": "c",
+    "textEn": "calendar"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-001",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "crown",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "crown",
+  "promptEn": "A: What is this?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's a carrot."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a glove."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a crown."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-002",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "castle",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "castle",
+  "promptEn": "A: What is this?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's a castle."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a clown."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a coin."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-003",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "glove",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "glove",
+  "promptEn": "A: What is this?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's a duck."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a glove."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a diamond."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-004",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "envelope",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "envelope",
+  "promptEn": "A: What is this?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's an elephant."
+   },
+   {
+    "id": "b",
+    "textEn": "It's an angel."
+   },
+   {
+    "id": "c",
+    "textEn": "It's an envelope."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-005",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "calendar",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "calendar",
+  "promptEn": "A: What is this?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's a calendar."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a carrot."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a camera."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-006",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "duck",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "duck",
+  "promptEn": "A: Is this a duck?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "No, it is a cat."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, it is."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I am."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-007",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "elephant",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "elephant",
+  "promptEn": "A: Is it a dog?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, it is. It's an elephant."
+   },
+   {
+    "id": "b",
+    "textEn": "No, I am not a dog."
+   },
+   {
+    "id": "c",
+    "textEn": "No, it isn't. It's an elephant."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-008",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "garlic",
+  "promptJa": "えをみて、かいわのつづきをえらぼう",
+  "imageId": "garlic",
+  "promptEn": "A: Do you like garlic?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, it is."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I am."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-009",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "deep",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Is the lake deep?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "No, I don't."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, it is very deep."
+   },
+   {
+    "id": "c",
+    "textEn": "I'm a dentist."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba (first line); reply original",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/3041973",
+   "author": "ApAdAnA"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-010",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "enter",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: May I enter?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I am."
+   },
+   {
+    "id": "b",
+    "textEn": "It is a door."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, come in."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba (first line); reply original",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/10107162",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-011",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "dangerous",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Don't go there. It is dangerous.\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "OK, I won't go."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, let's go there!"
+   },
+   {
+    "id": "c",
+    "textEn": "Happy birthday!"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-012",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "explain",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Can you explain this?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Good night."
+   },
+   {
+    "id": "b",
+    "textEn": "Sure. Look at the picture."
+   },
+   {
+    "id": "c",
+    "textEn": "I'm eight."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-013",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "dessert",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: What do you want for dessert?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "b",
+    "textEn": "At six o'clock."
+   },
+   {
+    "id": "c",
+    "textEn": "Ice cream, please."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-014",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "hundred",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: How much is this bag?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's a hundred dollars."
+   },
+   {
+    "id": "b",
+    "textEn": "It's on the desk."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, it is."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-015",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "cheap",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: This T-shirt is only five dollars.\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Wow, it's brave!"
+   },
+   {
+    "id": "b",
+    "textEn": "Wow, it's cheap!"
+   },
+   {
+    "id": "c",
+    "textEn": "Wow, it's empty!"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-016",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "camping",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: I want to go camping this weekend.\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "I'm a chef."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a gift."
+   },
+   {
+    "id": "c",
+    "textEn": "That sounds fun!"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-017",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "exam",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: What time is the exam?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's at ten o'clock."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a book."
+   },
+   {
+    "id": "c",
+    "textEn": "I like soccer."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-018",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "honey",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Do you like honey?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, it is."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I am."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-019",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "beginner",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Are you a beginner?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, it is."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I am."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-020",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "dentist",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Is she a dentist?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, she is."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, he is."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I do."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-021",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "kilometer",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: How far is the station?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's at nine."
+   },
+   {
+    "id": "b",
+    "textEn": "It's one kilometer."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a dog."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-022",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "kilogram",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: How heavy is the box?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's two kilometers."
+   },
+   {
+    "id": "b",
+    "textEn": "It's two o'clock."
+   },
+   {
+    "id": "c",
+    "textEn": "It's two kilograms."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-023",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "diary",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Did you write in your diary today?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I did."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, it is."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-024",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "elevator",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Where is the elevator?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It's two o'clock."
+   },
+   {
+    "id": "b",
+    "textEn": "It's next to the door."
+   },
+   {
+    "id": "c",
+    "textEn": "I'm ten."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-025",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "chess",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: What is your hobby?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "I'm fine."
+   },
+   {
+    "id": "b",
+    "textEn": "It's a book."
+   },
+   {
+    "id": "c",
+    "textEn": "I like chess."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-026",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "lake",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Where do you live?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Near the lake."
+   },
+   {
+    "id": "b",
+    "textEn": "At seven o'clock."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I do."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-027",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "hockey",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Do you play hockey?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, it is."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I am."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-028",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "clown",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Why are you laughing?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "I am hungry."
+   },
+   {
+    "id": "b",
+    "textEn": "It is hot."
+   },
+   {
+    "id": "c",
+    "textEn": "Because the clown is funny."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-029",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "crowd",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Look at the crowd!\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes. Many people are here."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes. It is a cat."
+   },
+   {
+    "id": "c",
+    "textEn": "No, I do not."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-030",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "fresh",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Is this fish fresh?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "No, I am not."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, it came from the sea today."
+   },
+   {
+    "id": "c",
+    "textEn": "It is on the table, thanks."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-034",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "adult",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm an ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "dentist"
+   },
+   {
+    "id": "b",
+    "textEn": "beginner"
+   },
+   {
+    "id": "c",
+    "textEn": "adult"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2247918",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-035",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "captain",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm the ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "captain"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2248274",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-036",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "crazy",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "A pig in a tree? That is a ___ idea!",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "hundred"
+   },
+   {
+    "id": "b",
+    "textEn": "crazy"
+   },
+   {
+    "id": "c",
+    "textEn": "enter"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-pick-word-037",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "danger",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm in ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "gentle"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "danger"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2248033",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-038",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "escape",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Try to ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "escape"
+   },
+   {
+    "id": "b",
+    "textEn": "honey"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2253808",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-039",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "gather",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "___ your things.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Sleep"
+   },
+   {
+    "id": "b",
+    "textEn": "Gather"
+   },
+   {
+    "id": "c",
+    "textEn": "Fall"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/6703304",
+   "author": "Eccles17"
+  }
+ },
+ {
+  "id": "g4-pick-word-040",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "heat",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "___ the milk.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Follow"
+   },
+   {
+    "id": "b",
+    "textEn": "Hug"
+   },
+   {
+    "id": "c",
+    "textEn": "Heat"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/9720149",
+   "author": "ariarin"
+  }
+ },
+ {
+  "id": "g4-pick-word-041",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "hug",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "___ me tight.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Hug"
+   },
+   {
+    "id": "b",
+    "textEn": "Follow"
+   },
+   {
+    "id": "c",
+    "textEn": "Enter"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/1209471",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-042",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "hunter",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'm a ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "hunter"
+   },
+   {
+    "id": "c",
+    "textEn": "enter"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/5839964",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-043",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "boss",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "He's my ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "brave"
+   },
+   {
+    "id": "c",
+    "textEn": "boss"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/8390880",
+   "author": "Amastan"
+  }
+ },
+ {
+  "id": "g4-pick-word-044",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "cost",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "What's the ___?",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cost"
+   },
+   {
+    "id": "b",
+    "textEn": "enter"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/3424130",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-045",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "gentle",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "She is ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "gentle"
+   },
+   {
+    "id": "c",
+    "textEn": "hundred"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/312370",
+   "author": "CC"
+  }
+ },
+ {
+  "id": "g4-pick-word-046",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "human",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I am ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "enter"
+   },
+   {
+    "id": "c",
+    "textEn": "human"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/252284",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-047",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "cash",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I need ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cash"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2246002",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-listen-pick-031",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "ancient",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "ancient",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "angel"
+   },
+   {
+    "id": "b",
+    "textEn": "ancient"
+   },
+   {
+    "id": "c",
+    "textEn": "animal"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-032",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "branch",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "branch",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "brand"
+   },
+   {
+    "id": "b",
+    "textEn": "bread"
+   },
+   {
+    "id": "c",
+    "textEn": "branch"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-033",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "garage",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "garage",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "garage"
+   },
+   {
+    "id": "b",
+    "textEn": "garden"
+   },
+   {
+    "id": "c",
+    "textEn": "gas"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-034",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "knowledge",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "knowledge",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "kingdom"
+   },
+   {
+    "id": "b",
+    "textEn": "knowledge"
+   },
+   {
+    "id": "c",
+    "textEn": "kitchen"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-035",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "hero",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "hero",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "herself"
+   },
+   {
+    "id": "b",
+    "textEn": "hello"
+   },
+   {
+    "id": "c",
+    "textEn": "hero"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-036",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "campus",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "campus",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "campus"
+   },
+   {
+    "id": "b",
+    "textEn": "camp"
+   },
+   {
+    "id": "c",
+    "textEn": "camera"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-037",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "chapter",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "chapter",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "character"
+   },
+   {
+    "id": "b",
+    "textEn": "chapter"
+   },
+   {
+    "id": "c",
+    "textEn": "chart"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-listen-pick-038",
+  "grade": "4",
+  "kind": "listen-pick",
+  "wordId": "blanket",
+  "promptJa": "きいて、こたえをえらぼう",
+  "speakEn": "blanket",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "black"
+   },
+   {
+    "id": "b",
+    "textEn": "blank"
+   },
+   {
+    "id": "c",
+    "textEn": "blanket"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-031",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "bill",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Can I have the bill, please?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Sure. Here you are."
+   },
+   {
+    "id": "b",
+    "textEn": "Yes, it is."
+   },
+   {
+    "id": "c",
+    "textEn": "I like it."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-032",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "adult",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Tom is thirty years old. Is he a child?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, he is a child."
+   },
+   {
+    "id": "b",
+    "textEn": "No, he is an adult."
+   },
+   {
+    "id": "c",
+    "textEn": "No, he is a baby."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-033",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "captain",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Who is the captain of your team?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It is on the desk."
+   },
+   {
+    "id": "b",
+    "textEn": "I'm fine, thanks."
+   },
+   {
+    "id": "c",
+    "textEn": "Ken is the captain."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-034",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "cost",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: How much does it cost?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Ten dollars."
+   },
+   {
+    "id": "b",
+    "textEn": "At six."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, please."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-035",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "enough",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Do you want more rice?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I am a cook."
+   },
+   {
+    "id": "b",
+    "textEn": "No, thanks. I have enough."
+   },
+   {
+    "id": "c",
+    "textEn": "It's a bowl."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-036",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "carrot",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Tom, you never eat carrots. Do you like them?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I do like them."
+   },
+   {
+    "id": "b",
+    "textEn": "No, I don't like them."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, they are carrots."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-037",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "joke",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: Tell me a joke.\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "OK. Listen!"
+   },
+   {
+    "id": "b",
+    "textEn": "It is a door."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I do."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-038",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "journey",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: How was your journey?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "It was a dog."
+   },
+   {
+    "id": "b",
+    "textEn": "It was long, but fun."
+   },
+   {
+    "id": "c",
+    "textEn": "Yes, I do."
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-039",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "decide",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: What do you want to eat?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes, I do."
+   },
+   {
+    "id": "b",
+    "textEn": "At home."
+   },
+   {
+    "id": "c",
+    "textEn": "I can't decide."
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-dialogue-choice-040",
+  "grade": "4",
+  "kind": "dialogue-choice",
+  "wordId": "invite",
+  "promptJa": "かいわのつづきをえらぼう",
+  "promptEn": "A: I am having a party. Can you come?\nB: ___",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "Yes! Thanks for inviting me."
+   },
+   {
+    "id": "b",
+    "textEn": "No, I'm not."
+   },
+   {
+    "id": "c",
+    "textEn": "It is a gift."
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-023",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "beginner",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "A person who is new to a sport or a game",
+  "answer": "beginner",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-024",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "boil",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "To cook in very hot water",
+  "answer": "boil",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-025",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "fisherman",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "His job is to get fish from the sea",
+  "answer": "fisherman",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-026",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "astronaut",
+  "promptJa": "ヒントをよんで、もじをならべよう",
+  "promptEn": "A person who can go to the moon",
+  "answer": "astronaut",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-039",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "coin",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "coin",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bus"
+   },
+   {
+    "id": "b",
+    "textEn": "rabbit"
+   },
+   {
+    "id": "c",
+    "textEn": "bread"
+   },
+   {
+    "id": "d",
+    "textEn": "coin"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-040",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "chess",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "chess",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "chess"
+   },
+   {
+    "id": "b",
+    "textEn": "cow"
+   },
+   {
+    "id": "c",
+    "textEn": "dress"
+   },
+   {
+    "id": "d",
+    "textEn": "milk"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-041",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "feather",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "feather",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "key"
+   },
+   {
+    "id": "b",
+    "textEn": "feather"
+   },
+   {
+    "id": "c",
+    "textEn": "dog"
+   },
+   {
+    "id": "d",
+    "textEn": "rice"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-042",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "garlic",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "garlic",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cat"
+   },
+   {
+    "id": "b",
+    "textEn": "bed"
+   },
+   {
+    "id": "c",
+    "textEn": "garlic"
+   },
+   {
+    "id": "d",
+    "textEn": "bell"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-043",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "headphone",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "headphone",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bee"
+   },
+   {
+    "id": "b",
+    "textEn": "kite"
+   },
+   {
+    "id": "c",
+    "textEn": "cheese"
+   },
+   {
+    "id": "d",
+    "textEn": "headphone"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-044",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "hockey",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "hockey",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "hockey"
+   },
+   {
+    "id": "b",
+    "textEn": "pig"
+   },
+   {
+    "id": "c",
+    "textEn": "door"
+   },
+   {
+    "id": "d",
+    "textEn": "soup"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-045",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "badminton",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "badminton",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "car"
+   },
+   {
+    "id": "b",
+    "textEn": "badminton"
+   },
+   {
+    "id": "c",
+    "textEn": "tomato"
+   },
+   {
+    "id": "d",
+    "textEn": "fish"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-046",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "camping",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "camping",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "cat"
+   },
+   {
+    "id": "b",
+    "textEn": "book"
+   },
+   {
+    "id": "c",
+    "textEn": "camping"
+   },
+   {
+    "id": "d",
+    "textEn": "shirt"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-047",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "honey",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "honey",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bird"
+   },
+   {
+    "id": "b",
+    "textEn": "clock"
+   },
+   {
+    "id": "c",
+    "textEn": "cow"
+   },
+   {
+    "id": "d",
+    "textEn": "honey"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-048",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "angel",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "angel",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "angel"
+   },
+   {
+    "id": "b",
+    "textEn": "milk"
+   },
+   {
+    "id": "c",
+    "textEn": "train"
+   },
+   {
+    "id": "d",
+    "textEn": "pen"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-049",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "envelope",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "envelope",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "moon"
+   },
+   {
+    "id": "b",
+    "textEn": "envelope"
+   },
+   {
+    "id": "c",
+    "textEn": "bear"
+   },
+   {
+    "id": "d",
+    "textEn": "cake"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-050",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "curry",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "curry",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "bus"
+   },
+   {
+    "id": "b",
+    "textEn": "frog"
+   },
+   {
+    "id": "c",
+    "textEn": "curry"
+   },
+   {
+    "id": "d",
+    "textEn": "bell"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-051",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "fog",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "fog",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "egg"
+   },
+   {
+    "id": "b",
+    "textEn": "boy"
+   },
+   {
+    "id": "c",
+    "textEn": "drum"
+   },
+   {
+    "id": "d",
+    "textEn": "fog"
+   }
+  ],
+  "answer": "d",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-picture-052",
+  "grade": "4",
+  "kind": "pick-picture",
+  "wordId": "desert",
+  "promptJa": "えをみて、えいごをえらぼう",
+  "imageId": "desert",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "desert"
+   },
+   {
+    "id": "b",
+    "textEn": "pen"
+   },
+   {
+    "id": "c",
+    "textEn": "shoe"
+   },
+   {
+    "id": "d",
+    "textEn": "bee"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-pick-word-048",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "east",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "We're going ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "east"
+   },
+   {
+    "id": "b",
+    "textEn": "enter"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2240775",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-049",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "anywhere",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "Just park ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "honey"
+   },
+   {
+    "id": "b",
+    "textEn": "anywhere"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/7724757",
+   "author": "Hybrid"
+  }
+ },
+ {
+  "id": "g4-pick-word-050",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "allow",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I'll ___ it.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "across"
+   },
+   {
+    "id": "b",
+    "textEn": "fresh"
+   },
+   {
+    "id": "c",
+    "textEn": "allow"
+   }
+  ],
+  "answer": "c",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/2247657",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-051",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "gas",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "I need ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "gas"
+   },
+   {
+    "id": "b",
+    "textEn": "across"
+   },
+   {
+    "id": "c",
+    "textEn": "brave"
+   }
+  ],
+  "answer": "a",
+  "source": {
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/en/sentences/show/11860035",
+   "author": "CK"
+  }
+ },
+ {
+  "id": "g4-pick-word-052",
+  "grade": "4",
+  "kind": "pick-word",
+  "wordId": "fall",
+  "promptJa": "あてはまることばをえらぼう",
+  "promptEn": "The leaves turn red and yellow in ___.",
+  "choices": [
+   {
+    "id": "a",
+    "textEn": "summer"
+   },
+   {
+    "id": "b",
+    "textEn": "fall"
+   },
+   {
+    "id": "c",
+    "textEn": "spring"
+   }
+  ],
+  "answer": "b",
+  "source": {
+   "name": "original",
+   "license": "n/a"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-027",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "dinosaur",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "dinosaur",
+  "answer": "dinosaur",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-028",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "garlic",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "garlic",
+  "answer": "garlic",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-029",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "envelope",
+  "promptJa": "えとヒントをみて、もじをならべよう",
+  "imageId": "envelope",
+  "answer": "envelope",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  },
+  "promptEn": "You put a letter in it"
+ },
+ {
+  "id": "g4-letter-tiles-030",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "headphone",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "headphone",
+  "answer": "headphone",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-031",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "feather",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "feather",
+  "answer": "feather",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-032",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "badminton",
+  "promptJa": "えをみて、もじをならべよう",
+  "imageId": "badminton",
+  "answer": "badminton",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  }
+ },
+ {
+  "id": "g4-letter-tiles-033",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "camping",
+  "promptJa": "えとヒントをみて、もじをならべよう",
+  "imageId": "camping",
+  "answer": "camping",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  },
+  "promptEn": "You sleep outside for fun"
+ },
+ {
+  "id": "g4-letter-tiles-034",
+  "grade": "4",
+  "kind": "letter-tiles",
+  "wordId": "coin",
+  "promptJa": "えとヒントをみて、もじをならべよう",
+  "imageId": "coin",
+  "answer": "coin",
+  "source": {
+   "name": "CEFR-J Wordlist Version 1.6",
+   "license": "citation required",
+   "url": "https://www.cefr-j.org/download.html"
+  },
+  "promptEn": "A small piece of money"
+ }
+]

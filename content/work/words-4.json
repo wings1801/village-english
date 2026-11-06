@@ -1,0 +1,6961 @@
+[
+ {
+  "wordId": "ability",
+  "en": "ability",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "のうりょく",
+  "jaGlossRaw": "能力",
+  "jaAlts": [
+   "しゅわん",
+   "せいのう",
+   "うでまえ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "abroad",
+  "en": "abroad",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "こくがい",
+  "jaGlossRaw": "国外",
+  "jaAlts": [
+   "ざいがい",
+   "かいがい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "accept",
+  "en": "accept",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "うけいれる",
+  "jaGlossRaw": "受け入れる",
+  "jaAlts": [
+   "うけつける",
+   "いれる",
+   "かう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "acceptable",
+  "en": "acceptable",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ぶなん",
+  "jaGlossRaw": "無難",
+  "jaAlts": [
+   "セーフ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "accident",
+  "en": "accident",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じこ",
+  "jaGlossRaw": "事故",
+  "jaAlts": [
+   "アクシデント",
+   "じへん",
+   "なん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "account",
+  "en": "account",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きじゅつ",
+  "jaGlossRaw": "記述",
+  "jaAlts": [
+   "せいきゅうしょ",
+   "じょじゅつ",
+   "はらい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "achieve",
+  "en": "achieve",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "とげる",
+  "jaGlossRaw": "遂げる",
+  "jaAlts": [
+   "なしとげる",
+   "はたす",
+   "いる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "across",
+  "en": "across",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ごし",
+  "jaGlossRaw": "越し",
+  "jaAlts": [
+   "かなた"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "act",
+  "en": "act",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうい",
+  "jaGlossRaw": "行為",
+  "jaAlts": [
+   "ポーズ",
+   "ほう",
+   "おこない"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "actually",
+  "en": "actually",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "げんに",
+  "jaGlossRaw": "現に",
+  "jaAlts": [
+   "じじつじょう",
+   "じっさいは",
+   "じつは"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "addition",
+  "en": "addition",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "か",
+  "jaGlossRaw": "加",
+  "jaAlts": [
+   "プラス",
+   "たしざん",
+   "てんか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "additional",
+  "en": "additional",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "エクストラ",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "adjective",
+  "en": "adjective",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けいようし",
+  "jaGlossRaw": "形容詞",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "adjust",
+  "en": "adjust",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ととのえる",
+  "jaGlossRaw": "整える",
+  "jaAlts": [
+   "あわせる",
+   "ただす",
+   "つくろう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "admire",
+  "en": "admire",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あこがれる",
+  "jaGlossRaw": "憧れる",
+  "jaAlts": [
+   "みあげる",
+   "あわれむ",
+   "ほれる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "admit",
+  "en": "admit",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "いれる",
+  "jaGlossRaw": "入れる",
+  "jaAlts": [
+   "みとめる",
+   "ゆるす",
+   "とおす"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "adult",
+  "en": "adult",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "おとな",
+  "jaGlossRaw": "大人",
+  "jaAlts": [
+   "アダルト",
+   "いちにんまえ",
+   "おとなっぽい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "advanced",
+  "en": "advanced",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "せんしん",
+  "jaGlossRaw": "先進",
+  "jaAlts": [
+   "こうしょう",
+   "こうど"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "advantage",
+  "en": "advantage",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りてん",
+  "jaGlossRaw": "利点",
+  "jaAlts": [
+   "アドバンテージ",
+   "メリット",
+   "プラス"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "adventure",
+  "en": "adventure",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぼうけん",
+  "jaGlossRaw": "冒険",
+  "jaAlts": [
+   "アドベンチャー"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "advertisement",
+  "en": "advertisement",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうこく",
+  "jaGlossRaw": "広告",
+  "jaAlts": [
+   "アド",
+   "せんでん",
+   "ぼしゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "advertising",
+  "en": "advertising",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうこく",
+  "jaGlossRaw": "広告",
+  "jaAlts": [
+   "せんでん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "advice",
+  "en": "advice",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちゅうこく",
+  "jaGlossRaw": "忠告",
+  "jaAlts": [
+   "アドバイス",
+   "かんこく",
+   "じょげん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "advise",
+  "en": "advise",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "しらせる",
+  "jaGlossRaw": "知らせる",
+  "jaAlts": [
+   "すすめる",
+   "さとす",
+   "よびかける"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "affair",
+  "en": "affair",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きょく",
+  "jaGlossRaw": "局",
+  "jaAlts": [
+   "うわき",
+   "けん",
+   "じけん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "against",
+  "en": "against",
+  "pos": "preposition",
+  "cefr": "A2",
+  "ja": "たい",
+  "jaGlossRaw": "対",
+  "jaAlts": [
+   "にたいして",
+   "と"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "aged",
+  "en": "aged",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "としとった",
+  "jaGlossRaw": "年取った",
+  "jaAlts": [
+   "ふるい",
+   "ねんぱい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "agency",
+  "en": "agency",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "だいりてん",
+  "jaGlossRaw": "代理店",
+  "jaAlts": [
+   "エージェンシー",
+   "ちゅうかい",
+   "とりつぎ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "agent",
+  "en": "agent",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "エージェント",
+  "jaAlts": [
+   "だいりてん",
+   "とりつぎ",
+   "だいりにん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "ahead",
+  "en": "ahead",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "おさきに",
+  "jaGlossRaw": "お先に",
+  "jaAlts": [
+   "さきに",
+   "どうぞ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "air",
+  "en": "air",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "くうき",
+  "jaGlossRaw": "空気",
+  "jaAlts": [
+   "エア",
+   "たいき",
+   "ちゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "aisle",
+  "en": "aisle",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "つうろ",
+  "jaGlossRaw": "通路",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "alarm",
+  "en": "alarm",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けいほう",
+  "jaGlossRaw": "警報",
+  "jaAlts": [
+   "けいてき",
+   "きょうこう",
+   "けいほうき"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "allow",
+  "en": "allow",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "かのうにする",
+  "jaGlossRaw": "可能にする",
+  "jaAlts": [
+   "ゆるす",
+   "みとめる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "alright",
+  "en": "alright",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "だいじょうぶ",
+  "jaGlossRaw": "大丈夫",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "although",
+  "en": "although",
+  "pos": "conjunction",
+  "cefr": "A2",
+  "ja": "ものの",
+  "jaAlts": [
+   "のに",
+   "こそ",
+   "に"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "ambition",
+  "en": "ambition",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "やしん",
+  "jaGlossRaw": "野心",
+  "jaAlts": [
+   "やぼう",
+   "はき",
+   "ほうふ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "among",
+  "en": "among",
+  "pos": "preposition",
+  "cefr": "A2",
+  "ja": "なか",
+  "jaGlossRaw": "中",
+  "jaAlts": [
+   "かん",
+   "うち",
+   "ちゅう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "amusement",
+  "en": "amusement",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ごらく",
+  "jaGlossRaw": "娯楽",
+  "jaAlts": [
+   "アミューズメント",
+   "たのしみ",
+   "あそび"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "ancestor",
+  "en": "ancestor",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "そせん",
+  "jaGlossRaw": "祖先",
+  "jaAlts": [
+   "そ",
+   "せんぞ",
+   "おや"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "ancient",
+  "en": "ancient",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ふるい",
+  "jaGlossRaw": "古い",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "angel",
+  "en": "angel",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "てんし",
+  "jaGlossRaw": "天使",
+  "jaAlts": [
+   "エンジェル"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "angrily",
+  "en": "angrily",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "プンプン",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "ankle",
+  "en": "ankle",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "あしくび",
+  "jaGlossRaw": "足首",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "anniversary",
+  "en": "anniversary",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きねんび",
+  "jaGlossRaw": "記念日",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "annoy",
+  "en": "annoy",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "そらす",
+  "jaGlossRaw": "逸らす",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "annoying",
+  "en": "annoying",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "うるさい",
+  "jaGlossRaw": "煩い",
+  "jaAlts": [
+   "わずらわしい",
+   "くやしい",
+   "きもちわるい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "anyway",
+  "en": "anyway",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "とにかく",
+  "jaGlossRaw": "兎に角",
+  "jaAlts": [
+   "おなじ",
+   "とりあえず",
+   "いずれ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "anywhere",
+  "en": "anywhere",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "どこまでも",
+  "jaGlossRaw": "何処までも",
+  "jaAlts": [
+   "どこにも"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "apart",
+  "en": "apart",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "べつに",
+  "jaGlossRaw": "別に",
+  "jaAlts": [
+   "ビリビリ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "apartment",
+  "en": "apartment",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "へや",
+  "jaGlossRaw": "部屋",
+  "jaAlts": [
+   "アパート",
+   "マンション"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "apologize",
+  "en": "apologize",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "わびる",
+  "jaGlossRaw": "詫びる",
+  "jaAlts": [
+   "あやまる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "apparently",
+  "en": "apparently",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "いっけん",
+  "jaGlossRaw": "一見",
+  "jaAlts": [
+   "どうやら",
+   "みたところ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "appear",
+  "en": "appear",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あらわれる",
+  "jaGlossRaw": "現れる",
+  "jaAlts": [
+   "でる",
+   "おもわれる",
+   "うかぶ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "appearance",
+  "en": "appearance",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "みため",
+  "jaGlossRaw": "見た目",
+  "jaAlts": [
+   "しゅっとう",
+   "しゅつげん",
+   "ふぜい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "apply",
+  "en": "apply",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あてはめる",
+  "jaGlossRaw": "当てはめる",
+  "jaAlts": [
+   "さす",
+   "はたらかせる",
+   "つうよう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "appointment",
+  "en": "appointment",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "まちあわせ",
+  "jaGlossRaw": "待ち合わせ",
+  "jaAlts": [
+   "とうよう",
+   "にんめい",
+   "やくそく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "appreciate",
+  "en": "appreciate",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あじわう",
+  "jaGlossRaw": "味わう",
+  "jaAlts": [
+   "いたわる",
+   "あわれむ",
+   "かう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "appropriate",
+  "en": "appropriate",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ふさわしい",
+  "jaGlossRaw": "相応しい",
+  "jaAlts": [
+   "てきせつ",
+   "そうとう",
+   "おうぶん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "architecture",
+  "en": "architecture",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けんちくがく",
+  "jaGlossRaw": "建築学",
+  "jaAlts": [
+   "アーキテクチャ",
+   "たいけい",
+   "けっこう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "area",
+  "en": "area",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "へん",
+  "jaGlossRaw": "辺",
+  "jaAlts": [
+   "エリア",
+   "コーナー",
+   "ベルト"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "argue",
+  "en": "argue",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ろんじる",
+  "jaGlossRaw": "論じる",
+  "jaAlts": [
+   "ろんずる",
+   "もむ",
+   "あらそう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "argument",
+  "en": "argument",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぎろん",
+  "jaGlossRaw": "議論",
+  "jaAlts": [
+   "ろんぎ",
+   "こうろん",
+   "あらすじ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "armchair",
+  "en": "armchair",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きじょう",
+  "jaGlossRaw": "机上",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "artificial",
+  "en": "artificial",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "じんこうてき",
+  "jaGlossRaw": "人工的",
+  "jaAlts": [
+   "じんぞう",
+   "じんいてき",
+   "じんこう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "assistant",
+  "en": "assistant",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "じょしゅ",
+  "jaGlossRaw": "助手",
+  "jaAlts": [
+   "アシスタント",
+   "セカンド",
+   "ふく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "association",
+  "en": "association",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けっしゃ",
+  "jaGlossRaw": "結社",
+  "jaAlts": [
+   "れんごうかい",
+   "くみあい",
+   "つきあい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "astronaut",
+  "en": "astronaut",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "うちゅうひこうし",
+  "jaGlossRaw": "宇宙飛行士",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "athlete",
+  "en": "athlete",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "アスリート",
+  "jaAlts": [
+   "せんしゅ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "atom",
+  "en": "atom",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "げんし",
+  "jaGlossRaw": "原子",
+  "jaAlts": [
+   "アトム",
+   "みじん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "attack",
+  "en": "attack",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せめ",
+  "jaGlossRaw": "攻め",
+  "jaAlts": [
+   "アタック",
+   "チャージ",
+   "しんこう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "attempt",
+  "en": "attempt",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こころみ",
+  "jaGlossRaw": "試み",
+  "jaAlts": [
+   "トライ",
+   "チャレンジ",
+   "アタック"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "attention",
+  "en": "attention",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちゅうい",
+  "jaGlossRaw": "注意",
+  "jaAlts": [
+   "ケア",
+   "ちゃくもく",
+   "ねん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "attitude",
+  "en": "attitude",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "でかた",
+  "jaGlossRaw": "出方",
+  "jaAlts": [
+   "スタンス",
+   "たいせい",
+   "たいど"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "attractive",
+  "en": "attractive",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "かっこいい",
+  "jaGlossRaw": "格好いい",
+  "jaAlts": [
+   "みりょくてき",
+   "おいしい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "audience",
+  "en": "audience",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちょうしゅう",
+  "jaGlossRaw": "聴衆",
+  "jaAlts": [
+   "リスナー",
+   "きゃくせき",
+   "かんきゃく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "audio",
+  "en": "audio",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "オーディオ",
+  "jaAlts": [
+   "おんせい",
+   "おんきょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "author",
+  "en": "author",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "さっか",
+  "jaGlossRaw": "作家",
+  "jaAlts": [
+   "ひっしゃ",
+   "さくしゃ",
+   "ろんしゃ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "automatic",
+  "en": "automatic",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "じどう",
+  "jaGlossRaw": "自動",
+  "jaAlts": [
+   "オートマチック",
+   "オート",
+   "じどうてき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "automatically",
+  "en": "automatically",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ひとりでに",
+  "jaGlossRaw": "独りでに",
+  "jaAlts": [
+   "しぜん",
+   "ただちに"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "average",
+  "en": "average",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "へいきんてき",
+  "jaGlossRaw": "平均的",
+  "jaAlts": [
+   "なみ",
+   "ひょうじゅんてき",
+   "ひとなみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "avoid",
+  "en": "avoid",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "きらう",
+  "jaGlossRaw": "嫌う",
+  "jaAlts": [
+   "ふせぐ",
+   "さける",
+   "にげる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "award",
+  "en": "award",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょう",
+  "jaGlossRaw": "賞",
+  "jaAlts": [
+   "ほうしょう",
+   "さいてい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "awful",
+  "en": "awful",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "さいてい",
+  "jaGlossRaw": "最低",
+  "jaAlts": [
+   "えらい",
+   "すさまじい",
+   "まずい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "background",
+  "en": "background",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はいけい",
+  "jaGlossRaw": "背景",
+  "jaAlts": [
+   "バック",
+   "バックグラウンド",
+   "はいご"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "badly",
+  "en": "badly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "さんざん",
+  "jaGlossRaw": "散々",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "badminton",
+  "en": "badminton",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "バドミントン",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bake",
+  "en": "bake",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "やく",
+  "jaGlossRaw": "焼く",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "balcony",
+  "en": "balcony",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ベランダ",
+  "jaAlts": [
+   "バルコニー"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "balloon",
+  "en": "balloon",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "バルーン",
+  "jaAlts": [
+   "ふうせん",
+   "ききゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "barbecue",
+  "en": "barbecue",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "バーベキュー",
+  "jaGlossRaw": "ＢＢＱ",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "barber",
+  "en": "barber",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "バーバー",
+  "jaAlts": [
+   "とこや"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bargain",
+  "en": "bargain",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かいどく",
+  "jaGlossRaw": "買い得",
+  "jaAlts": [
+   "バーゲン",
+   "おかいどく",
+   "ねうち"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "base",
+  "en": "base",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "えんき",
+  "jaGlossRaw": "塩基",
+  "jaAlts": [
+   "ベース",
+   "キャンバス",
+   "るい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "basic",
+  "en": "basic",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ベーシック",
+  "jaAlts": [
+   "きほんてき",
+   "こんぽんてき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "basically",
+  "en": "basically",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ようは",
+  "jaGlossRaw": "要は",
+  "jaAlts": [
+   "ほとんど",
+   "つまり"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "basket",
+  "en": "basket",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "バスケット",
+  "jaAlts": [
+   "ゴンドラ",
+   "ゴール",
+   "かばん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "batch",
+  "en": "batch",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "いっかつ",
+  "jaGlossRaw": "一括",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "battery",
+  "en": "battery",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "でんち",
+  "jaGlossRaw": "電池",
+  "jaAlts": [
+   "バッテリー",
+   "ちゅうたい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bay",
+  "en": "bay",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "わん",
+  "jaGlossRaw": "湾",
+  "jaAlts": [
+   "え",
+   "ないかい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "beauty",
+  "en": "beauty",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "び",
+  "jaGlossRaw": "美",
+  "jaAlts": [
+   "びよう",
+   "はな",
+   "いろ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "beer",
+  "en": "beer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ビア",
+  "jaAlts": [
+   "ビール"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "beg",
+  "en": "beg",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "こう",
+  "jaGlossRaw": "乞う",
+  "jaAlts": [
+   "ねだる",
+   "おがむ",
+   "ねがう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "beginner",
+  "en": "beginner",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょしんしゃ",
+  "jaGlossRaw": "初心者",
+  "jaAlts": [
+   "ビギナー",
+   "いちねんせい",
+   "しんまい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "beginning",
+  "en": "beginning",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かわきり",
+  "jaGlossRaw": "皮切り",
+  "jaAlts": [
+   "スタート",
+   "いとぐち",
+   "とうしょ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "behavior",
+  "en": "behavior",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ふるまい",
+  "jaGlossRaw": "振る舞い",
+  "jaAlts": [
+   "まね",
+   "しゅうせい",
+   "ぎょうぎ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "belly",
+  "en": "belly",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "おなか",
+  "jaGlossRaw": "お腹",
+  "jaAlts": [
+   "はら",
+   "ふくぶ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "belong",
+  "en": "belong",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "はいる",
+  "jaGlossRaw": "入る",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "belt",
+  "en": "belt",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "サンチュール",
+  "jaAlts": [
+   "ベルト",
+   "バンド",
+   "まわし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bench",
+  "en": "bench",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ベンチ",
+  "jaAlts": [
+   "こしかけ",
+   "いす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bend",
+  "en": "bend",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "なびく",
+  "jaGlossRaw": "靡く",
+  "jaAlts": [
+   "カーブ",
+   "まがる",
+   "まげる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "besides",
+  "en": "besides",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "なおかつ",
+  "jaGlossRaw": "尚且つ",
+  "jaAlts": [
+   "ほか",
+   "ほかに",
+   "かつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "beyond",
+  "en": "beyond",
+  "pos": "preposition",
+  "cefr": "A2",
+  "ja": "かなた",
+  "jaGlossRaw": "彼方",
+  "jaAlts": [
+   "ごし",
+   "むこう",
+   "さき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bill",
+  "en": "bill",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "つけ",
+  "jaGlossRaw": "付け",
+  "jaAlts": [
+   "チェック",
+   "せいきゅうしょ",
+   "かんじょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bit",
+  "en": "bit",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ビット",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bite",
+  "en": "bite",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひとくち",
+  "jaGlossRaw": "一口",
+  "jaAlts": [
+   "あたり"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "blackboard",
+  "en": "blackboard",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こくばん",
+  "jaGlossRaw": "黒板",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "blame",
+  "en": "blame",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "もんせき",
+  "jaGlossRaw": "問責",
+  "jaAlts": [
+   "とがめる",
+   "ひなん",
+   "せめる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "blanket",
+  "en": "blanket",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "もうふ",
+  "jaGlossRaw": "毛布",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "blood",
+  "en": "blood",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ち",
+  "jaGlossRaw": "血",
+  "jaAlts": [
+   "けつえき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bloom",
+  "en": "bloom",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はな",
+  "jaGlossRaw": "花",
+  "jaAlts": [
+   "さかり"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "boil",
+  "en": "boil",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "わかす",
+  "jaGlossRaw": "沸かす",
+  "jaAlts": [
+   "にる",
+   "たく",
+   "わく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bonus",
+  "en": "bonus",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょうよ",
+  "jaGlossRaw": "賞与",
+  "jaAlts": [
+   "ボーナス",
+   "いちじきん",
+   "てあて"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bookcase",
+  "en": "bookcase",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ほんばこ",
+  "jaGlossRaw": "本箱",
+  "jaAlts": [
+   "しょか",
+   "ほんだな"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bookshelf",
+  "en": "bookshelf",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょか",
+  "jaGlossRaw": "書架",
+  "jaAlts": [
+   "ほんだな"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bookshop",
+  "en": "bookshop",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょてん",
+  "jaGlossRaw": "書店",
+  "jaAlts": [
+   "ほんや",
+   "しょぼう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "boss",
+  "en": "boss",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "おやぶん",
+  "jaGlossRaw": "親分",
+  "jaAlts": [
+   "ボス",
+   "ヘッド",
+   "パトロン"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bother",
+  "en": "bother",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "くるしめる",
+  "jaGlossRaw": "苦しめる",
+  "jaAlts": [
+   "いためる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "bra",
+  "en": "bra",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ブラジャー",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "brake",
+  "en": "brake",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はどめ",
+  "jaGlossRaw": "歯止め",
+  "jaAlts": [
+   "ブレーキ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "branch",
+  "en": "branch",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しぶ",
+  "jaGlossRaw": "支部",
+  "jaAlts": [
+   "ブランチ",
+   "えだ",
+   "しりゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "brand",
+  "en": "brand",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "めいがら",
+  "jaGlossRaw": "銘柄",
+  "jaAlts": [
+   "ブランド",
+   "マーク"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "brave",
+  "en": "brave",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "いさましい",
+  "jaGlossRaw": "勇ましい",
+  "jaAlts": [
+   "ゆうかん",
+   "そうれつ",
+   "きじょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "breeze",
+  "en": "breeze",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かぜ",
+  "jaGlossRaw": "風",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "bride",
+  "en": "bride",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "よめ",
+  "jaGlossRaw": "嫁",
+  "jaAlts": [
+   "しんぷ",
+   "はなよめ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "brilliant",
+  "en": "brilliant",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "はなばなしい",
+  "jaGlossRaw": "華々しい",
+  "jaAlts": [
+   "かがやかしい",
+   "ゆうしゅう",
+   "あざやか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "budget",
+  "en": "budget",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "よさん",
+  "jaGlossRaw": "予算",
+  "jaAlts": [
+   "おかいどく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "bug",
+  "en": "bug",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こんちゅう",
+  "jaGlossRaw": "昆虫",
+  "jaAlts": [
+   "むし",
+   "とうちょう",
+   "あやまり"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "bulb",
+  "en": "bulb",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きゅう",
+  "jaGlossRaw": "球",
+  "jaAlts": [
+   "たま"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "burn",
+  "en": "burn",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "やけど",
+  "jaGlossRaw": "火傷",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bury",
+  "en": "bury",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ほうむる",
+  "jaGlossRaw": "葬る",
+  "jaAlts": [
+   "おくる",
+   "みおくる",
+   "うめる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "bush",
+  "en": "bush",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "き",
+  "jaGlossRaw": "木",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "businessman",
+  "en": "businessman",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ビジネスマン",
+  "jaAlts": [
+   "えいぎょうマン",
+   "じつぎょうか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "businesswoman",
+  "en": "businesswoman",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じつぎょうか",
+  "jaGlossRaw": "実業家",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cafeteria",
+  "en": "cafeteria",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "カフェテリア",
+  "jaAlts": [
+   "しょくどう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "calendar",
+  "en": "calendar",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こよみ",
+  "jaGlossRaw": "暦",
+  "jaAlts": [
+   "カレンダー",
+   "スケジュール"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "camping",
+  "en": "camping",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "キャンピング",
+  "jaAlts": [
+   "キャンプ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "campus",
+  "en": "campus",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "キャンパス",
+  "jaAlts": [
+   "こうない",
+   "がくえん",
+   "こうてい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "capital",
+  "en": "capital",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "げんし",
+  "jaGlossRaw": "原資",
+  "jaAlts": [
+   "がんきん",
+   "ちゅうおう",
+   "もと"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "captain",
+  "en": "captain",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "たいちょう",
+  "jaGlossRaw": "隊長",
+  "jaAlts": [
+   "キャプテン",
+   "キャップ",
+   "あたま"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "carrot",
+  "en": "carrot",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "にんじん",
+  "jaGlossRaw": "人参",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cash",
+  "en": "cash",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "げんきん",
+  "jaGlossRaw": "現金",
+  "jaAlts": [
+   "ドル",
+   "きんせん",
+   "おうごん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cassette",
+  "en": "cassette",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "カセット",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "castle",
+  "en": "castle",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しろ",
+  "jaGlossRaw": "城",
+  "jaAlts": [
+   "シャトー",
+   "じょうかく",
+   "かこい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cause",
+  "en": "cause",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "げんいん",
+  "jaGlossRaw": "原因",
+  "jaAlts": [
+   "ひきおこす",
+   "おこす",
+   "あたえる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cent",
+  "en": "cent",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "セント",
+  "jaGlossRaw": "仙",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "center",
+  "en": "center",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちゅうぶ",
+  "jaGlossRaw": "中部",
+  "jaAlts": [
+   "センター",
+   "ちゅうしん",
+   "じく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "centimeter",
+  "en": "centimeter",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "センチ",
+  "jaAlts": [
+   "センチメートル"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "century",
+  "en": "century",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せいき",
+  "jaGlossRaw": "世紀",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cereal",
+  "en": "cereal",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "シリアル",
+  "jaAlts": [
+   "こくもつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "certain",
+  "en": "certain",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "まちがいない",
+  "jaGlossRaw": "間違いない",
+  "jaAlts": [
+   "かくじつ",
+   "かたい",
+   "たしか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "certainly",
+  "en": "certainly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ぜひ",
+  "jaGlossRaw": "是非",
+  "jaAlts": [
+   "ぜひぜひ",
+   "だいじょうぶ",
+   "むろん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chain",
+  "en": "chain",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "くさり",
+  "jaGlossRaw": "鎖",
+  "jaAlts": [
+   "チェーン",
+   "れんさ",
+   "いちれん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chairman",
+  "en": "chairman",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ざちょう",
+  "jaGlossRaw": "座長",
+  "jaAlts": [
+   "チェアマン",
+   "しかいしゃ",
+   "しゅせき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "challenge",
+  "en": "challenge",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちょうせん",
+  "jaGlossRaw": "挑戦",
+  "jaAlts": [
+   "しかけ",
+   "なんだい",
+   "もうしこみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "champagne",
+  "en": "champagne",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "シャンパン",
+  "jaGlossRaw": "三鞭酒",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "championship",
+  "en": "championship",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せんしゅけん",
+  "jaGlossRaw": "選手権",
+  "jaAlts": [
+   "ゆうしょう",
+   "ようご",
+   "おうざ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chance",
+  "en": "chance",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "き",
+  "jaGlossRaw": "機",
+  "jaAlts": [
+   "チャンス",
+   "フロック",
+   "きかい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chapter",
+  "en": "chapter",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょう",
+  "jaGlossRaw": "章",
+  "jaAlts": [
+   "チャプター"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chart",
+  "en": "chart",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ずひょう",
+  "jaGlossRaw": "図表",
+  "jaAlts": [
+   "チャート",
+   "グラフ",
+   "ひょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chat",
+  "en": "chat",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "まんだん",
+  "jaGlossRaw": "漫談",
+  "jaAlts": [
+   "チャット",
+   "こんわ",
+   "かんだん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cheap",
+  "en": "cheap",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "やすい",
+  "jaGlossRaw": "安い",
+  "jaAlts": [
+   "やすあがり",
+   "こてさき",
+   "あんか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cheek",
+  "en": "cheek",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しんぞう",
+  "jaGlossRaw": "心臓",
+  "jaAlts": [
+   "ほお"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cheer",
+  "en": "cheer",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "かんせい",
+  "jaGlossRaw": "歓声",
+  "jaAlts": [
+   "チア",
+   "きあい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chef",
+  "en": "chef",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "シェフ",
+  "jaAlts": [
+   "コック",
+   "りょうりにん",
+   "いた"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chemical",
+  "en": "chemical",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ケミカル",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cheque",
+  "en": "cheque",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こぎって",
+  "jaGlossRaw": "小切手",
+  "jaAlts": [
+   "チェック"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chess",
+  "en": "chess",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "チェス",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "chest",
+  "en": "chest",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "むね",
+  "jaGlossRaw": "胸",
+  "jaAlts": [
+   "きょうぶ",
+   "はこ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "childhood",
+  "en": "childhood",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ようしょう",
+  "jaGlossRaw": "幼少",
+  "jaAlts": [
+   "ようしょうき"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "chin",
+  "en": "chin",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "あご",
+  "jaGlossRaw": "顎",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "chirp",
+  "en": "chirp",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "なきごえ",
+  "jaGlossRaw": "鳴き声",
+  "jaAlts": [
+   "ね"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "choice",
+  "en": "choice",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せんたく",
+  "jaGlossRaw": "選択",
+  "jaAlts": [
+   "オプション",
+   "せんこう",
+   "せんばつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cigarette",
+  "en": "cigarette",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "タバコ",
+  "jaGlossRaw": "煙草",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "citizen",
+  "en": "citizen",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうみん",
+  "jaGlossRaw": "公民",
+  "jaAlts": [
+   "こくみん",
+   "じゅうみん",
+   "しみん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "claim",
+  "en": "claim",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "せいきゅう",
+  "jaGlossRaw": "請求",
+  "jaAlts": [
+   "しゅちょう",
+   "ようせい",
+   "ひきとる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "classic",
+  "en": "classic",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "クラシック",
+  "jaAlts": [
+   "こてんてき",
+   "ていばん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cleaner",
+  "en": "cleaner",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "クリーナー",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "clear",
+  "en": "clear",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "せいちょう",
+  "jaGlossRaw": "清澄",
+  "jaAlts": [
+   "めいかく",
+   "あきらか",
+   "めいかい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "clearly",
+  "en": "clearly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "はっきり",
+  "jaAlts": [
+   "きっぱり",
+   "すっきり",
+   "くまなく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "clerk",
+  "en": "clerk",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょき",
+  "jaGlossRaw": "書記",
+  "jaAlts": [
+   "クラーク",
+   "きょくいん",
+   "じむいん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "click",
+  "en": "click",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "クリック",
+  "jaAlts": [
+   "ノック"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "climbing",
+  "en": "climbing",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "クライミング",
+  "jaAlts": [
+   "のぼり",
+   "じょうしょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "clone",
+  "en": "clone",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "クローン",
+  "jaAlts": [
+   "ぶんしん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "clown",
+  "en": "clown",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ピエロ",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "clue",
+  "en": "clue",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "てがかり",
+  "jaGlossRaw": "手がかり",
+  "jaAlts": [
+   "ヒント",
+   "キーワード",
+   "キー"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "coast",
+  "en": "coast",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "えんがん",
+  "jaGlossRaw": "沿岸",
+  "jaAlts": [
+   "えんかい",
+   "きし",
+   "かいがん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "coin",
+  "en": "coin",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうか",
+  "jaGlossRaw": "硬貨",
+  "jaAlts": [
+   "コイン",
+   "たま",
+   "かへい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cola",
+  "en": "cola",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "コーラ",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "colorful",
+  "en": "colorful",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "カラフル",
+  "jaAlts": [
+   "たさい",
+   "はなやか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "column",
+  "en": "column",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "えんちゅう",
+  "jaGlossRaw": "円柱",
+  "jaAlts": [
+   "コラム",
+   "コーナー",
+   "けた"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "comb",
+  "en": "comb",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "くし",
+  "jaGlossRaw": "櫛",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "comfortable",
+  "en": "comfortable",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "のびやか",
+  "jaGlossRaw": "伸びやか",
+  "jaAlts": [
+   "ここちよい",
+   "きらく",
+   "きもちいい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "comic",
+  "en": "comic",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "コミック",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "commitment",
+  "en": "commitment",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "げんち",
+  "jaGlossRaw": "言質",
+  "jaAlts": [
+   "コミット",
+   "とうにゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "committee",
+  "en": "committee",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "いいんかい",
+  "jaGlossRaw": "委員会",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "common",
+  "en": "common",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ありがち",
+  "jaGlossRaw": "有りがち",
+  "jaAlts": [
+   "ポピュラー",
+   "きょうつう",
+   "じんじょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "communicate",
+  "en": "communicate",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "つたえる",
+  "jaGlossRaw": "伝える",
+  "jaAlts": [
+   "つうじる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "communication",
+  "en": "communication",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "コミュニケーション",
+  "jaAlts": [
+   "こうつう",
+   "そつう",
+   "つうしん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "company",
+  "en": "company",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かいしゃ",
+  "jaGlossRaw": "会社",
+  "jaAlts": [
+   "カンパニー",
+   "コンス",
+   "ちゅうたい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "compare",
+  "en": "compare",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "くらべる",
+  "jaGlossRaw": "比べる",
+  "jaAlts": [
+   "あわす",
+   "みあわせる",
+   "てらす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "competition",
+  "en": "competition",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せりあい",
+  "jaGlossRaw": "競り合い",
+  "jaAlts": [
+   "コンペ",
+   "コンペティション",
+   "コンクール"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "complain",
+  "en": "complain",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "うったえる",
+  "jaGlossRaw": "訴える",
+  "jaAlts": [
+   "ならす",
+   "こぼす"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "complaint",
+  "en": "complaint",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "もんく",
+  "jaGlossRaw": "文句",
+  "jaAlts": [
+   "クレーム",
+   "くじょう",
+   "こごと"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "complete",
+  "en": "complete",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "まんぷく",
+  "jaGlossRaw": "満腹",
+  "jaAlts": [
+   "あか",
+   "かんぜん",
+   "かんぺき"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "composer",
+  "en": "composer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "さっきょくか",
+  "jaGlossRaw": "作曲家",
+  "jaAlts": [
+   "さくしゃ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "concentrate",
+  "en": "concentrate",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "につめる",
+  "jaGlossRaw": "煮詰める",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "concern",
+  "en": "concern",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かんしん",
+  "jaGlossRaw": "関心",
+  "jaAlts": [
+   "サービス",
+   "ゆうりょ",
+   "きづかい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "condition",
+  "en": "condition",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぐあい",
+  "jaGlossRaw": "具合",
+  "jaAlts": [
+   "コンディション",
+   "トラブル",
+   "けいせい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "confident",
+  "en": "confident",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "つよき",
+  "jaGlossRaw": "強気",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "confuse",
+  "en": "confuse",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "まちがえる",
+  "jaGlossRaw": "間違える",
+  "jaAlts": [
+   "まちがう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "confused",
+  "en": "confused",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "そうぜん",
+  "jaGlossRaw": "騒然",
+  "jaAlts": [
+   "はんざつ",
+   "あちこち",
+   "ちぐはぐ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "consequence",
+  "en": "consequence",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せい",
+  "jaGlossRaw": "所為",
+  "jaAlts": [
+   "ため",
+   "しり",
+   "けっか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "consider",
+  "en": "consider",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "かんがえる",
+  "jaGlossRaw": "考える",
+  "jaAlts": [
+   "かえりみる",
+   "おもう",
+   "ぞんじる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "contact",
+  "en": "contact",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ふれあい",
+  "jaGlossRaw": "触れ合い",
+  "jaAlts": [
+   "コンタクト",
+   "わたり",
+   "せっしょく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "container",
+  "en": "container",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "いれもの",
+  "jaGlossRaw": "入れ物",
+  "jaAlts": [
+   "ボックス",
+   "コンテナ",
+   "ようき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "context",
+  "en": "context",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "みゃくらく",
+  "jaGlossRaw": "脈絡",
+  "jaAlts": [
+   "はいけい",
+   "ぜんご",
+   "ぶんみゃく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "continent",
+  "en": "continent",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "たいりく",
+  "jaGlossRaw": "大陸",
+  "jaAlts": [
+   "しゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "continue",
+  "en": "continue",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "つづく",
+  "jaGlossRaw": "続く",
+  "jaAlts": [
+   "つづける",
+   "ひきつぐ",
+   "すすむ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "contrast",
+  "en": "contrast",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "たいひ",
+  "jaGlossRaw": "対比",
+  "jaAlts": [
+   "コントラスト",
+   "たいしょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "control",
+  "en": "control",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かんり",
+  "jaGlossRaw": "管理",
+  "jaAlts": [
+   "コントロール",
+   "とりしまり",
+   "せいし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "convenience",
+  "en": "convenience",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りべん",
+  "jaGlossRaw": "利便",
+  "jaAlts": [
+   "コンビニエンス",
+   "べんりさ",
+   "べんぎ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "convenient",
+  "en": "convenient",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "べんり",
+  "jaGlossRaw": "便利",
+  "jaAlts": [
+   "ちょうほう",
+   "こうつごう",
+   "てごろ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cooker",
+  "en": "cooker",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "レンジ",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cooking",
+  "en": "cooking",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "すいじ",
+  "jaGlossRaw": "炊事",
+  "jaAlts": [
+   "クッキング",
+   "メイク",
+   "ちょうり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cooler",
+  "en": "cooler",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "クーラー",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cost",
+  "en": "cost",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひ",
+  "jaGlossRaw": "費",
+  "jaAlts": [
+   "コスト",
+   "ひよう",
+   "あたい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "count",
+  "en": "count",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "かぞえる",
+  "jaGlossRaw": "数える",
+  "jaAlts": [
+   "カウント",
+   "よむ",
+   "かんじょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "country",
+  "en": "country",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "くに",
+  "jaGlossRaw": "国",
+  "jaAlts": [
+   "こくど",
+   "こっか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "countryside",
+  "en": "countryside",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "さんや",
+  "jaGlossRaw": "山野",
+  "jaAlts": [
+   "いなか",
+   "でんえん",
+   "ちほう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "couple",
+  "en": "couple",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "カップル",
+  "jaAlts": [
+   "アベック",
+   "つい",
+   "ふたり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "court",
+  "en": "court",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "さいばんしょ",
+  "jaGlossRaw": "裁判所",
+  "jaAlts": [
+   "コート",
+   "ごてん",
+   "りっぽうふ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "crazy",
+  "en": "crazy",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "クレイジー",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "create",
+  "en": "create",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "うみだす",
+  "jaGlossRaw": "生み出す",
+  "jaAlts": [
+   "プロデュース",
+   "つくりあげる",
+   "なす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "creative",
+  "en": "creative",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "そうぞうてき",
+  "jaGlossRaw": "創造的",
+  "jaAlts": [
+   "クリエイティブ",
+   "どくそうてき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "creativity",
+  "en": "creativity",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "そうぞうりょく",
+  "jaGlossRaw": "創造力",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "creature",
+  "en": "creature",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せいぶつ",
+  "jaGlossRaw": "生物",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "credit",
+  "en": "credit",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かけ",
+  "jaGlossRaw": "掛け",
+  "jaAlts": [
+   "クレジット",
+   "さいけん",
+   "しんよう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cricket",
+  "en": "cricket",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "むし",
+  "jaGlossRaw": "虫",
+  "jaAlts": [
+   "クリケット"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "crime",
+  "en": "crime",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はんざい",
+  "jaGlossRaw": "犯罪",
+  "jaAlts": [
+   "つみ",
+   "はんこう",
+   "あくじ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "crisp",
+  "en": "crisp",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ばりばり",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "criticize",
+  "en": "criticize",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "せめる",
+  "jaGlossRaw": "責める",
+  "jaAlts": [
+   "とがめる",
+   "たたく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "cross",
+  "en": "cross",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じゅうじ",
+  "jaGlossRaw": "十字",
+  "jaAlts": [
+   "クロス",
+   "せっちゅう",
+   "じゅうじか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "crowd",
+  "en": "crowd",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひとで",
+  "jaGlossRaw": "人出",
+  "jaAlts": [
+   "ひとだかり",
+   "ぐんしゅう",
+   "むれ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "crowded",
+  "en": "crowded",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "にぎやか",
+  "jaGlossRaw": "賑やか",
+  "jaAlts": [
+   "まんいん",
+   "いっぱい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "crown",
+  "en": "crown",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "おうかん",
+  "jaGlossRaw": "王冠",
+  "jaAlts": [
+   "クラウン",
+   "かんむり",
+   "くらい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cruise",
+  "en": "cruise",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じゅんこう",
+  "jaGlossRaw": "巡航",
+  "jaAlts": [
+   "クルーズ",
+   "こうこう",
+   "ふなたび"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cupboard",
+  "en": "cupboard",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "とだな",
+  "jaGlossRaw": "戸棚",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "curry",
+  "en": "curry",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "カレー",
+  "jaGlossRaw": "咖哩",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "curse",
+  "en": "curse",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "のろい",
+  "jaGlossRaw": "呪い",
+  "jaAlts": [
+   "ばち"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "custom",
+  "en": "custom",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ふうしゅう",
+  "jaGlossRaw": "風習",
+  "jaAlts": [
+   "オリジナル",
+   "つうれい",
+   "かんしゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "customer",
+  "en": "customer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こきゃく",
+  "jaGlossRaw": "顧客",
+  "jaAlts": [
+   "カスタマー",
+   "とりひきさき",
+   "きゃく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "cycling",
+  "en": "cycling",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "サイクリング",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "daily",
+  "en": "daily",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ひび",
+  "jaGlossRaw": "日々",
+  "jaAlts": [
+   "デイリー",
+   "にちじょう",
+   "ひごろ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dam",
+  "en": "dam",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せき",
+  "jaGlossRaw": "堰",
+  "jaAlts": [
+   "ダム"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dancer",
+  "en": "dancer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ダンサー",
+  "jaAlts": [
+   "おどりこ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "danger",
+  "en": "danger",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きけん",
+  "jaGlossRaw": "危険",
+  "jaAlts": [
+   "きがい",
+   "きけんせい",
+   "てき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dangerous",
+  "en": "dangerous",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "あやうい",
+  "jaGlossRaw": "危うい",
+  "jaAlts": [
+   "あぶない",
+   "ぶっそう",
+   "けんあく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "daylight",
+  "en": "daylight",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひ",
+  "jaGlossRaw": "日",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "dead",
+  "en": "dead",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "デッド",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "deal",
+  "en": "deal",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "プラン",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "death",
+  "en": "death",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "し",
+  "jaGlossRaw": "死",
+  "jaAlts": [
+   "ぼつ",
+   "せいきょ",
+   "しきょ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "debate",
+  "en": "debate",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "とうぎ",
+  "jaGlossRaw": "討議",
+  "jaAlts": [
+   "ディベート",
+   "とうろん",
+   "べんろん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "decide",
+  "en": "decide",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "さだめる",
+  "jaGlossRaw": "定める",
+  "jaAlts": [
+   "けっする",
+   "きめる",
+   "ふみきる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "deep",
+  "en": "deep",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ディープ",
+  "jaAlts": [
+   "あつい",
+   "じゅうこう",
+   "かいこう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "deeply",
+  "en": "deeply",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "つくづく",
+  "jaGlossRaw": "熟",
+  "jaAlts": [
+   "しみじみ",
+   "ほっと"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "degree",
+  "en": "degree",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "どあい",
+  "jaGlossRaw": "度合い",
+  "jaAlts": [
+   "かげん",
+   "ていど",
+   "かぎり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "delay",
+  "en": "delay",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちえん",
+  "jaGlossRaw": "遅延",
+  "jaAlts": [
+   "ちたい",
+   "おくれ",
+   "じゅうたい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dentist",
+  "en": "dentist",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しかい",
+  "jaGlossRaw": "歯科医",
+  "jaAlts": [
+   "はいしゃ",
+   "しかいし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "description",
+  "en": "description",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きじゅつ",
+  "jaGlossRaw": "記述",
+  "jaAlts": [
+   "じょじゅつ",
+   "けいよう",
+   "びょうしゃ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "desert",
+  "en": "desert",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "さばく",
+  "jaGlossRaw": "砂漠",
+  "jaAlts": [
+   "こうや"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dessert",
+  "en": "dessert",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "デザート",
+  "jaAlts": [
+   "あまみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "destroy",
+  "en": "destroy",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ほろぼす",
+  "jaGlossRaw": "滅ぼす",
+  "jaAlts": [
+   "くずす",
+   "こわす",
+   "うつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "detail",
+  "en": "detail",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ディテール",
+  "jaAlts": [
+   "ないよう",
+   "てん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "develop",
+  "en": "develop",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "そだてる",
+  "jaGlossRaw": "育てる",
+  "jaAlts": [
+   "すすめる",
+   "やしなう",
+   "のびる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "developed",
+  "en": "developed",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "せんしん",
+  "jaGlossRaw": "先進",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "diamond",
+  "en": "diamond",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ダイヤ",
+  "jaAlts": [
+   "ダイヤモンド",
+   "ないや"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "diary",
+  "en": "diary",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "にっき",
+  "jaGlossRaw": "日記",
+  "jaAlts": [
+   "てちょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "die",
+  "en": "die",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "しぬ",
+  "jaGlossRaw": "死ぬ",
+  "jaAlts": [
+   "なくなる",
+   "はてる",
+   "たびだつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "diet",
+  "en": "diet",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ダイエット",
+  "jaAlts": [
+   "しょくじ",
+   "しょくせいかつ",
+   "ぎいん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "difficulty",
+  "en": "difficulty",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "なん",
+  "jaGlossRaw": "難",
+  "jaAlts": [
+   "トラブル",
+   "こんなん",
+   "なんかん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dinosaur",
+  "en": "dinosaur",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きょうりゅう",
+  "jaGlossRaw": "恐竜",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "direct",
+  "en": "direct",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ちょく",
+  "jaGlossRaw": "直",
+  "jaAlts": [
+   "ダイレクト",
+   "ストレート",
+   "ちょくせつてき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "direction",
+  "en": "direction",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かた",
+  "jaGlossRaw": "方",
+  "jaAlts": [
+   "ほうがく",
+   "ほうめん",
+   "むき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "director",
+  "en": "director",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りじ",
+  "jaGlossRaw": "理事",
+  "jaAlts": [
+   "ディレクター",
+   "やくいん",
+   "かんとく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "disadvantage",
+  "en": "disadvantage",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ふり",
+  "jaGlossRaw": "不利",
+  "jaAlts": [
+   "デメリット",
+   "マイナス",
+   "ふりえき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "disagree",
+  "en": "disagree",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "もめる",
+  "jaGlossRaw": "揉める",
+  "jaAlts": [
+   "ことなる",
+   "ちがう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "disappear",
+  "en": "disappear",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "きえる",
+  "jaGlossRaw": "消える",
+  "jaAlts": [
+   "ちる",
+   "とぶ",
+   "ながれる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "disappointed",
+  "en": "disappointed",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "くやしい",
+  "jaGlossRaw": "悔しい",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "disappointing",
+  "en": "disappointing",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "おしい",
+  "jaGlossRaw": "惜しい",
+  "jaAlts": [
+   "ざんねん",
+   "ふほんい",
+   "ばか"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "disco",
+  "en": "disco",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ディスコ",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "discover",
+  "en": "discover",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "みいだす",
+  "jaGlossRaw": "見出す",
+  "jaAlts": [
+   "みつける",
+   "みやぶる",
+   "しる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "discussion",
+  "en": "discussion",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ろんぎ",
+  "jaGlossRaw": "論議",
+  "jaAlts": [
+   "ディスカッション",
+   "べんろん",
+   "はなしあい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dishonest",
+  "en": "dishonest",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ふじゅん",
+  "jaGlossRaw": "不純",
+  "jaAlts": [
+   "ずるい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "dislike",
+  "en": "dislike",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "いやき",
+  "jaGlossRaw": "嫌気",
+  "jaAlts": [
+   "けんおかん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "display",
+  "en": "display",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ディスプレイ",
+  "jaAlts": [
+   "オンパレード",
+   "モニター",
+   "ひょうじ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "disturb",
+  "en": "disturb",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "さまたげる",
+  "jaGlossRaw": "妨げる",
+  "jaAlts": [
+   "くずす",
+   "ゆさぶる",
+   "みだす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "divide",
+  "en": "divide",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "わる",
+  "jaGlossRaw": "割る",
+  "jaAlts": [
+   "わかつ",
+   "くぎる",
+   "はなす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "done",
+  "en": "done",
+  "pos": "do-verb",
+  "cefr": "A2",
+  "ja": "ございます",
+  "jaGlossRaw": "御座います",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "double",
+  "en": "double",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ばい",
+  "jaGlossRaw": "倍",
+  "jaAlts": [
+   "ダブル",
+   "アベック",
+   "にじゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "doubt",
+  "en": "doubt",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぎぎ",
+  "jaGlossRaw": "疑義",
+  "jaAlts": [
+   "かいぎ",
+   "ぎしん",
+   "ぎねん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "download",
+  "en": "download",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ダウンロード",
+  "jaAlts": [
+   "おとす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "downtown",
+  "en": "downtown",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "まちなか",
+  "jaGlossRaw": "町中",
+  "jaAlts": [
+   "ダウンタウン",
+   "まち",
+   "しょうてんがい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "drawer",
+  "en": "drawer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひきだし",
+  "jaGlossRaw": "引き出し",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "drawing",
+  "en": "drawing",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "そびょう",
+  "jaGlossRaw": "素描",
+  "jaAlts": [
+   "ドローイング",
+   "ドロー",
+   "イラスト"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "drill",
+  "en": "drill",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "くんれん",
+  "jaGlossRaw": "訓練",
+  "jaAlts": [
+   "ドリル",
+   "しゅうれん",
+   "えんしゅう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "drug",
+  "en": "drug",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "やくぶつ",
+  "jaGlossRaw": "薬物",
+  "jaAlts": [
+   "ドラッグ",
+   "やくざい",
+   "やくひん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "drugstore",
+  "en": "drugstore",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ドラッグストア",
+  "jaAlts": [
+   "やっきょく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "duck",
+  "en": "duck",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かも",
+  "jaGlossRaw": "鴨",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "during",
+  "en": "during",
+  "pos": "preposition",
+  "cefr": "A2",
+  "ja": "あいだじゅう",
+  "jaGlossRaw": "間中",
+  "jaAlts": [
+   "ちゅう",
+   "なか",
+   "ながら"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "dust",
+  "en": "dust",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ほこり",
+  "jaGlossRaw": "埃",
+  "jaAlts": [
+   "ちり",
+   "こな",
+   "おぶつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "earn",
+  "en": "earn",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "える",
+  "jaGlossRaw": "得る",
+  "jaAlts": [
+   "もうける",
+   "うる",
+   "とる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "earring",
+  "en": "earring",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "イヤリング",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "earth",
+  "en": "earth",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ち",
+  "jaGlossRaw": "地",
+  "jaAlts": [
+   "アース",
+   "だいち",
+   "つち"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "earthquake",
+  "en": "earthquake",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じしん",
+  "jaGlossRaw": "地震",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "easily",
+  "en": "easily",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "あっさり",
+  "jaAlts": [
+   "スラスラ",
+   "じきに",
+   "ゆうゆう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "east",
+  "en": "east",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ひがし",
+  "jaGlossRaw": "東",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "editor",
+  "en": "editor",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "へんしゃ",
+  "jaGlossRaw": "編者",
+  "jaAlts": [
+   "エディター",
+   "へんしゅうしゃ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "education",
+  "en": "education",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぶんきょう",
+  "jaGlossRaw": "文教",
+  "jaAlts": [
+   "きょういく",
+   "いくえい",
+   "しこみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "educational",
+  "en": "educational",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "きょういくてき",
+  "jaGlossRaw": "教育的",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "effect",
+  "en": "effect",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうか",
+  "jaGlossRaw": "効果",
+  "jaAlts": [
+   "インパクト",
+   "ききめ",
+   "こうりょく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "effort",
+  "en": "effort",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "とりくみ",
+  "jaGlossRaw": "取り組み",
+  "jaAlts": [
+   "どりょく",
+   "ちから",
+   "きあい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "elderly",
+  "en": "elderly",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ねんぱい",
+  "jaGlossRaw": "年配",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "electric",
+  "en": "electric",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "エレクトリック",
+  "jaAlts": [
+   "でんどう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "elephant",
+  "en": "elephant",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぞう",
+  "jaGlossRaw": "象",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "elevator",
+  "en": "elevator",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "エレベーター",
+  "jaAlts": [
+   "くら"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "embarrassing",
+  "en": "embarrassing",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "はずかしい",
+  "jaGlossRaw": "恥ずかしい",
+  "jaAlts": [
+   "くすぐったい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "emergency",
+  "en": "emergency",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ゆうじ",
+  "jaGlossRaw": "有事",
+  "jaAlts": [
+   "ひじょう",
+   "ききゅう",
+   "かんきゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "empty",
+  "en": "empty",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "むなしい",
+  "jaGlossRaw": "虚しい",
+  "jaAlts": [
+   "からっぽ",
+   "かんさん",
+   "くうそ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "encourage",
+  "en": "encourage",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "はげます",
+  "jaGlossRaw": "励ます",
+  "jaAlts": [
+   "うながす",
+   "すすめる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "ending",
+  "en": "ending",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "むすび",
+  "jaGlossRaw": "結び",
+  "jaAlts": [
+   "エンディング",
+   "エンド",
+   "オメガ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "energetic",
+  "en": "energetic",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "エネルギッシュ",
+  "jaAlts": [
+   "きえい",
+   "げんき",
+   "おうせい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "enormous",
+  "en": "enormous",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "じんだい",
+  "jaGlossRaw": "甚大",
+  "jaAlts": [
+   "きょだい",
+   "ただい",
+   "ぜつだい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "enough",
+  "en": "enough",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "たくさん",
+  "jaGlossRaw": "沢山",
+  "jaAlts": [
+   "いいかげん",
+   "ろくに",
+   "いまひとつ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "enter",
+  "en": "enter",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "いる",
+  "jaGlossRaw": "入る",
+  "jaAlts": [
+   "はいる",
+   "のりこむ",
+   "うちこむ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "entertainment",
+  "en": "entertainment",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "えんげい",
+  "jaGlossRaw": "演芸",
+  "jaAlts": [
+   "エンターテインメント",
+   "ふるまい",
+   "あいきょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "entrance",
+  "en": "entrance",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "にゅうじょう",
+  "jaGlossRaw": "入場",
+  "jaAlts": [
+   "いりぐち",
+   "げんかん",
+   "にゅうしょ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "envelope",
+  "en": "envelope",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ふうとう",
+  "jaGlossRaw": "封筒",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "envy",
+  "en": "envy",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しっと",
+  "jaGlossRaw": "嫉妬",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "episode",
+  "en": "episode",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "そうわ",
+  "jaGlossRaw": "挿話",
+  "jaAlts": [
+   "エピソード",
+   "いつわ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "error",
+  "en": "error",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "あやまり",
+  "jaGlossRaw": "誤り",
+  "jaAlts": [
+   "エラー",
+   "ミス",
+   "しっさく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "escalator",
+  "en": "escalator",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "エスカレーター",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "escape",
+  "en": "escape",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "にげ",
+  "jaGlossRaw": "逃げ",
+  "jaAlts": [
+   "とうひ",
+   "だっしゅつ",
+   "とうぼう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "especially",
+  "en": "especially",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "とりわけ",
+  "jaGlossRaw": "取り分け",
+  "jaAlts": [
+   "ことに",
+   "とくだん",
+   "とくに"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "essay",
+  "en": "essay",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "エッセイ",
+  "jaAlts": [
+   "ろんぶん",
+   "ぶんしょう",
+   "しょうひん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "establish",
+  "en": "establish",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "さだめる",
+  "jaGlossRaw": "定める",
+  "jaAlts": [
+   "まとめる",
+   "かまえる",
+   "もうける"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "euro",
+  "en": "euro",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ユーロ",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "even",
+  "en": "even",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "いちりつ",
+  "jaGlossRaw": "一律",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "ever",
+  "en": "ever",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "エバー",
+  "jaAlts": [
+   "しじょう",
+   "かつて",
+   "はたして"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "evidence",
+  "en": "evidence",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょうこ",
+  "jaGlossRaw": "証拠",
+  "jaAlts": [
+   "しるし",
+   "けいせき",
+   "あかし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "exactly",
+  "en": "exactly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "きっちり",
+  "jaAlts": [
+   "ジャスト",
+   "ズバリ",
+   "ちょうど"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "exam",
+  "en": "exam",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しけん",
+  "jaGlossRaw": "試験",
+  "jaAlts": [
+   "テスト"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "except",
+  "en": "except",
+  "pos": "conjunction",
+  "cefr": "A2",
+  "ja": "のぞいて",
+  "jaGlossRaw": "除いて",
+  "jaAlts": [
+   "より",
+   "ほか",
+   "しか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "exchange",
+  "en": "exchange",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひきかえ",
+  "jaGlossRaw": "引き換え",
+  "jaAlts": [
+   "チェンジ",
+   "きりかえ",
+   "こうかん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "exhibition",
+  "en": "exhibition",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "てんじかい",
+  "jaGlossRaw": "展示会",
+  "jaAlts": [
+   "ショー",
+   "てんらんかい",
+   "てんじ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "exist",
+  "en": "exist",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "いる",
+  "jaGlossRaw": "居る",
+  "jaAlts": [
+   "いきる",
+   "ある",
+   "おる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "expect",
+  "en": "expect",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "おもう",
+  "jaGlossRaw": "思う",
+  "jaAlts": [
+   "みこむ",
+   "まちうける",
+   "くくる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "experience",
+  "en": "experience",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けいけん",
+  "jaGlossRaw": "経験",
+  "jaAlts": [
+   "エクスペリエンス",
+   "あじ",
+   "べんきょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "expert",
+  "en": "expert",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はかせ",
+  "jaGlossRaw": "博士",
+  "jaAlts": [
+   "エキスパート",
+   "ゆうしきしゃ",
+   "くろうと"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "explain",
+  "en": "explain",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "とく",
+  "jaGlossRaw": "説く",
+  "jaAlts": [
+   "はなす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "explanation",
+  "en": "explanation",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しゃくめい",
+  "jaGlossRaw": "釈明",
+  "jaAlts": [
+   "かいせつ",
+   "べんめい",
+   "せつめい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "explore",
+  "en": "explore",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "さぐる",
+  "jaGlossRaw": "探る",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "express",
+  "en": "express",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "そくたつ",
+  "jaGlossRaw": "速達",
+  "jaAlts": [
+   "エクスプレス",
+   "こうそく",
+   "しきゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "expression",
+  "en": "expression",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "いいまわし",
+  "jaGlossRaw": "言い回し",
+  "jaAlts": [
+   "ひょうげん",
+   "おももち",
+   "はっそう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "extra",
+  "en": "extra",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "よぶん",
+  "jaGlossRaw": "余分",
+  "jaAlts": [
+   "エクストラ",
+   "よけい",
+   "りんじ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "extremely",
+  "en": "extremely",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "もっとも",
+  "jaGlossRaw": "最も",
+  "jaAlts": [
+   "きわめて",
+   "ひじょうに",
+   "たいそう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fact",
+  "en": "fact",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じじつ",
+  "jaGlossRaw": "事実",
+  "jaAlts": [
+   "まこと",
+   "ほんとう",
+   "じっさい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fail",
+  "en": "fail",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "しくじる",
+  "jaAlts": [
+   "つまずく",
+   "みすてる",
+   "つぶれる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fairly",
+  "en": "fairly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "どうどう",
+  "jaGlossRaw": "堂々",
+  "jaAlts": [
+   "かなり",
+   "わりに",
+   "わりと"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fall",
+  "en": "fall",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ついらく",
+  "jaGlossRaw": "墜落",
+  "jaAlts": [
+   "ダウン",
+   "フォール",
+   "げんしゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "familiar",
+  "en": "familiar",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "おなじみ",
+  "jaGlossRaw": "お馴染み",
+  "jaAlts": [
+   "したしい",
+   "みぢか",
+   "ありふれた"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fancy",
+  "en": "fancy",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "このみ",
+  "jaGlossRaw": "好み",
+  "jaAlts": [
+   "くうそう",
+   "ごうか"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fantastic",
+  "en": "fantastic",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ファンタスティック",
+  "jaAlts": [
+   "すてき",
+   "にくい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "far",
+  "en": "far",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "はるか",
+  "jaGlossRaw": "遥か",
+  "jaAlts": [
+   "ずっと",
+   "とおく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fare",
+  "en": "fare",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りょうきん",
+  "jaGlossRaw": "料金",
+  "jaAlts": [
+   "うんちん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fascinating",
+  "en": "fascinating",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "みりょくてき",
+  "jaGlossRaw": "魅力的",
+  "jaAlts": [
+   "おもしろい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fashion",
+  "en": "fashion",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りゅうこう",
+  "jaGlossRaw": "流行",
+  "jaAlts": [
+   "モード",
+   "ファッション",
+   "しき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fault",
+  "en": "fault",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "だんそう",
+  "jaGlossRaw": "断層",
+  "jaAlts": [
+   "フォールト",
+   "ひ",
+   "あやまち"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "favor",
+  "en": "favor",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かし",
+  "jaGlossRaw": "貸し",
+  "jaAlts": [
+   "たのみ",
+   "おん",
+   "こうい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fear",
+  "en": "fear",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "おそれ",
+  "jaGlossRaw": "恐れ",
+  "jaAlts": [
+   "きょうふ",
+   "けねん",
+   "しんろう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "feather",
+  "en": "feather",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はね",
+  "jaGlossRaw": "羽",
+  "jaAlts": [
+   "うもう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "feature",
+  "en": "feature",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "とくちょう",
+  "jaGlossRaw": "特徴",
+  "jaAlts": [
+   "とくしつ",
+   "きのう",
+   "かんばん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fee",
+  "en": "fee",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りょう",
+  "jaGlossRaw": "料",
+  "jaAlts": [
+   "りょうきん",
+   "れいきん",
+   "だいきん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "female",
+  "en": "female",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "じょせい",
+  "jaGlossRaw": "女性",
+  "jaAlts": [
+   "めす"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fence",
+  "en": "fence",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かき",
+  "jaGlossRaw": "垣",
+  "jaAlts": [
+   "フェンス",
+   "さく",
+   "へい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "few",
+  "en": "few",
+  "pos": "determiner",
+  "cefr": "A2",
+  "ja": "すくない",
+  "jaGlossRaw": "少ない",
+  "jaAlts": [
+   "しょうすう",
+   "じゃっかん",
+   "しょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fiction",
+  "en": "fiction",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きょこう",
+  "jaGlossRaw": "虚構",
+  "jaAlts": [
+   "フィクション",
+   "つくりばなし",
+   "そうさく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fighter",
+  "en": "fighter",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ファイター",
+  "jaAlts": [
+   "せんとうき",
+   "とうし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "figure",
+  "en": "figure",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "すがた",
+  "jaGlossRaw": "姿",
+  "jaAlts": [
+   "フィギュア",
+   "イラスト",
+   "スタイル"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "film",
+  "en": "film",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "フィルム",
+  "jaAlts": [
+   "ムービー",
+   "まく",
+   "えいが"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "final",
+  "en": "final",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "さいしゅうてき",
+  "jaGlossRaw": "最終的",
+  "jaAlts": [
+   "ラスト",
+   "まっきてき",
+   "さいしゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "finally",
+  "en": "finally",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ようやく",
+  "jaGlossRaw": "漸く",
+  "jaAlts": [
+   "ついに",
+   "すえに",
+   "とうとう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fisherman",
+  "en": "fisherman",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "りょうし",
+  "jaGlossRaw": "漁師",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fit",
+  "en": "fit",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "たっしゃ",
+  "jaGlossRaw": "達者",
+  "jaAlts": [
+   "てきとう",
+   "まめ",
+   "げんき"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fix",
+  "en": "fix",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しゅうせい",
+  "jaGlossRaw": "修正",
+  "jaAlts": [
+   "はめ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "flight",
+  "en": "flight",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ひこう",
+  "jaGlossRaw": "飛行",
+  "jaAlts": [
+   "フライト",
+   "とうそう",
+   "とうぼう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "float",
+  "en": "float",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "フロート",
+  "jaAlts": [
+   "うき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "flood",
+  "en": "flood",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "おおみず",
+  "jaGlossRaw": "大水",
+  "jaAlts": [
+   "こうずい",
+   "みず",
+   "さっとう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "flour",
+  "en": "flour",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こな",
+  "jaGlossRaw": "粉",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fog",
+  "en": "fog",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きり",
+  "jaGlossRaw": "霧",
+  "jaAlts": [
+   "くもり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "folder",
+  "en": "folder",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ディレクトリ",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "follow",
+  "en": "follow",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ついてくる",
+  "jaGlossRaw": "付いてくる",
+  "jaAlts": [
+   "フォロー",
+   "つぐ",
+   "のる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fool",
+  "en": "fool",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぼけ",
+  "jaGlossRaw": "惚け",
+  "jaAlts": [
+   "まぬけ",
+   "ばか",
+   "ちほう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "forbid",
+  "en": "forbid",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "きんじる",
+  "jaGlossRaw": "禁じる",
+  "jaAlts": [
+   "きんずる",
+   "ふうじる",
+   "いましめる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "force",
+  "en": "force",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ぶたい",
+  "jaGlossRaw": "部隊",
+  "jaAlts": [
+   "フォース",
+   "ちから",
+   "いきおい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "forest",
+  "en": "forest",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "もり",
+  "jaGlossRaw": "森",
+  "jaAlts": [
+   "しんりん",
+   "はやし",
+   "やま"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "forever",
+  "en": "forever",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "いつまでも",
+  "jaGlossRaw": "何時までも",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fork",
+  "en": "fork",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "わかれめ",
+  "jaGlossRaw": "分かれ目",
+  "jaAlts": [
+   "フォーク",
+   "ぶんきてん",
+   "また"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fortunately",
+  "en": "fortunately",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ちょうど",
+  "jaGlossRaw": "丁度",
+  "jaAlts": [
+   "さいわい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fortune",
+  "en": "fortune",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ざい",
+  "jaGlossRaw": "財",
+  "jaAlts": [
+   "フォーチュン",
+   "うん",
+   "こううん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "forward",
+  "en": "forward",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "まえ",
+  "jaGlossRaw": "前",
+  "jaAlts": [
+   "フォワード",
+   "よこす",
+   "ぜんぽう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "frame",
+  "en": "frame",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "わく",
+  "jaGlossRaw": "枠",
+  "jaAlts": [
+   "フレーム",
+   "ほね",
+   "しゃたい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "frank",
+  "en": "frank",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "たんてき",
+  "jaGlossRaw": "端的",
+  "jaAlts": [
+   "フランク",
+   "オープン",
+   "そっちょく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "freedom",
+  "en": "freedom",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じゆう",
+  "jaGlossRaw": "自由",
+  "jaAlts": [
+   "フリーダム",
+   "どくりつ",
+   "あそび"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "freeze",
+  "en": "freeze",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "こおる",
+  "jaGlossRaw": "凍る",
+  "jaAlts": [
+   "ハング",
+   "かたまる",
+   "かためる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fresh",
+  "en": "fresh",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "しんせん",
+  "jaGlossRaw": "新鮮",
+  "jaAlts": [
+   "フレッシュ",
+   "せいせん",
+   "せいしん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fridge",
+  "en": "fridge",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "れいぞうこ",
+  "jaGlossRaw": "冷蔵庫",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "friendship",
+  "en": "friendship",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ゆうこう",
+  "jaGlossRaw": "友好",
+  "jaAlts": [
+   "こんしん",
+   "しんぼく",
+   "こんい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "frighten",
+  "en": "frighten",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "おどろかす",
+  "jaGlossRaw": "驚かす",
+  "jaAlts": [
+   "おびやかす",
+   "おどかす",
+   "あっとう"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "frightened",
+  "en": "frightened",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "カチカチ",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "frightening",
+  "en": "frightening",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "こわい",
+  "jaGlossRaw": "怖い",
+  "jaAlts": [
+   "おそろしい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "fry",
+  "en": "fry",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちぎょ",
+  "jaGlossRaw": "稚魚",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "fully",
+  "en": "fully",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "いっぱい",
+  "jaGlossRaw": "一杯",
+  "jaAlts": [
+   "しみじみ",
+   "たっぷり",
+   "じゅうぶん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "function",
+  "en": "function",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "きのう",
+  "jaGlossRaw": "機能",
+  "jaAlts": [
+   "はたらく",
+   "まわる",
+   "さよう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "furniture",
+  "en": "furniture",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かぐ",
+  "jaGlossRaw": "家具",
+  "jaAlts": [
+   "どうぐ",
+   "きぶつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "further",
+  "en": "further",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "いちだん",
+  "jaGlossRaw": "一段",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "gallery",
+  "en": "gallery",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ギャラリー",
+  "jaAlts": [
+   "かいろう",
+   "おいこみ",
+   "こうどう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "garage",
+  "en": "garage",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しゃこ",
+  "jaGlossRaw": "車庫",
+  "jaAlts": [
+   "ガレージ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "garlic",
+  "en": "garlic",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "にんにく",
+  "jaGlossRaw": "大蒜",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "gas",
+  "en": "gas",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きたい",
+  "jaGlossRaw": "気体",
+  "jaAlts": [
+   "ガス",
+   "おなら"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "gate",
+  "en": "gate",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "もん",
+  "jaGlossRaw": "門",
+  "jaAlts": [
+   "ゲート",
+   "くち",
+   "せき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "gather",
+  "en": "gather",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あつまる",
+  "jaGlossRaw": "集まる",
+  "jaAlts": [
+   "たかる",
+   "あつめる",
+   "そろう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "gender",
+  "en": "gender",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ジェンダー",
+  "jaAlts": [
+   "セックス",
+   "せい",
+   "せいべつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "generation",
+  "en": "generation",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "せだい",
+  "jaGlossRaw": "世代",
+  "jaAlts": [
+   "ジェネレーション",
+   "いっせい",
+   "いちだい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "gentle",
+  "en": "gentle",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "おんこう",
+  "jaGlossRaw": "温厚",
+  "jaAlts": [
+   "おんびん",
+   "にゅうわ",
+   "おとなしい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "globe",
+  "en": "globe",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きゅう",
+  "jaGlossRaw": "球",
+  "jaAlts": [
+   "たま"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "glove",
+  "en": "glove",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "てぶくろ",
+  "jaGlossRaw": "手袋",
+  "jaAlts": [
+   "グローブ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "golden",
+  "en": "golden",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ゴールデン",
+  "jaAlts": [
+   "おうごん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "golf",
+  "en": "golf",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ゴルフ",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "government",
+  "en": "government",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しせい",
+  "jaGlossRaw": "施政",
+  "jaAlts": [
+   "せいふ",
+   "しはい",
+   "かみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "grace",
+  "en": "grace",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ゆうび",
+  "jaGlossRaw": "優美",
+  "jaAlts": [
+   "おんけい",
+   "おもむき",
+   "めぐみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "gradually",
+  "en": "gradually",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ぜんじ",
+  "jaGlossRaw": "漸次",
+  "jaAlts": [
+   "ジワジワ",
+   "しだいに",
+   "だんだん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "graduate",
+  "en": "graduate",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "おえる",
+  "jaGlossRaw": "終える",
+  "jaAlts": [
+   "でる",
+   "もる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "gram",
+  "en": "gram",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "グラム",
+  "jaGlossRaw": "瓦",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "grandchild",
+  "en": "grandchild",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "まご",
+  "jaGlossRaw": "孫",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "granddaughter",
+  "en": "granddaughter",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "まごむすめ",
+  "jaGlossRaw": "孫娘",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "granny",
+  "en": "granny",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ばあちゃん",
+  "jaGlossRaw": "婆ちゃん",
+  "jaAlts": [
+   "おばあちゃん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "grateful",
+  "en": "grateful",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ありがたい",
+  "jaGlossRaw": "有難い",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "greatly",
+  "en": "greatly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "だいぶ",
+  "jaGlossRaw": "大分",
+  "jaAlts": [
+   "たいへん",
+   "よほど",
+   "はなはだ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "greedy",
+  "en": "greedy",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "どんよく",
+  "jaGlossRaw": "貪欲",
+  "jaAlts": [
+   "いやしい",
+   "きたない"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "guard",
+  "en": "guard",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ごえい",
+  "jaGlossRaw": "護衛",
+  "jaAlts": [
+   "ガード",
+   "みはり",
+   "けいび"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "guidebook",
+  "en": "guidebook",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ガイドブック",
+  "jaAlts": [
+   "ガイド",
+   "とくほん",
+   "てびき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "gun",
+  "en": "gun",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "てっぽう",
+  "jaGlossRaw": "鉄砲",
+  "jaAlts": [
+   "ガン",
+   "じゅう",
+   "ほう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "ham",
+  "en": "ham",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ハム",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "handbag",
+  "en": "handbag",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "てさげ",
+  "jaGlossRaw": "手提げ",
+  "jaAlts": [
+   "ハンドバッグ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "handle",
+  "en": "handle",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "え",
+  "jaGlossRaw": "柄",
+  "jaAlts": [
+   "ハンドル",
+   "とって",
+   "て"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "happily",
+  "en": "happily",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "うきうき",
+  "jaGlossRaw": "浮き浮き",
+  "jaAlts": [
+   "いそいそ",
+   "なかよく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "happiness",
+  "en": "happiness",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しあわせ",
+  "jaGlossRaw": "幸せ",
+  "jaAlts": [
+   "さいわい",
+   "こうふく",
+   "ひかり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hardly",
+  "en": "hardly",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "ほとんど",
+  "jaGlossRaw": "殆ど",
+  "jaAlts": [
+   "ようやく",
+   "まさか"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "harm",
+  "en": "harm",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "そこねる",
+  "jaGlossRaw": "損ねる",
+  "jaAlts": [
+   "そこなう",
+   "おかす",
+   "いためる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "harmful",
+  "en": "harmful",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ゆうがい",
+  "jaGlossRaw": "有害",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "harmony",
+  "en": "harmony",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ゆうわ",
+  "jaGlossRaw": "融和",
+  "jaAlts": [
+   "ハーモニー",
+   "アンサンブル",
+   "ちょうわ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "harvest",
+  "en": "harvest",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かりいれ",
+  "jaGlossRaw": "刈り入れ",
+  "jaAlts": [
+   "しゅうかく",
+   "さち",
+   "さく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hate",
+  "en": "hate",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "にくむ",
+  "jaGlossRaw": "憎む",
+  "jaAlts": [
+   "きらう",
+   "けんお"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "headphone",
+  "en": "headphone",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ヘッドホン",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "heat",
+  "en": "heat",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ねつ",
+  "jaGlossRaw": "熱",
+  "jaAlts": [
+   "ヒート",
+   "ねっき",
+   "よせん"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "heating",
+  "en": "heating",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かねつ",
+  "jaGlossRaw": "加熱",
+  "jaAlts": [
+   "だんぼう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "heavily",
+  "en": "heavily",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "おもいきり",
+  "jaGlossRaw": "思い切り",
+  "jaAlts": [
+   "ベタベタ",
+   "おもいっきり"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "helpful",
+  "en": "helpful",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ゆうよう",
+  "jaGlossRaw": "有用",
+  "jaAlts": [
+   "こんせつ",
+   "ちょうほう",
+   "ゆうえき"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "hero",
+  "en": "hero",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "えいゆう",
+  "jaGlossRaw": "英雄",
+  "jaAlts": [
+   "ヒーロー",
+   "ゆうしゃ",
+   "ごうけつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "herself",
+  "en": "herself",
+  "pos": "pronoun",
+  "cefr": "A2",
+  "ja": "じしん",
+  "jaGlossRaw": "自身",
+  "jaAlts": [
+   "じぶん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "hey",
+  "en": "hey",
+  "pos": "interjection",
+  "cefr": "A2",
+  "ja": "よ",
+  "jaAlts": [
+   "ね",
+   "な",
+   "さ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "highway",
+  "en": "highway",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうそくどうろ",
+  "jaGlossRaw": "高速道路",
+  "jaAlts": [
+   "ハイウェイ",
+   "こうそく",
+   "どうろ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hike",
+  "en": "hike",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ハイク",
+  "jaAlts": [
+   "ピクニック"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hiking",
+  "en": "hiking",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ハイキング",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "himself",
+  "en": "himself",
+  "pos": "pronoun",
+  "cefr": "A2",
+  "ja": "じしん",
+  "jaGlossRaw": "自身",
+  "jaAlts": [
+   "じぶん"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "hit",
+  "en": "hit",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あてる",
+  "jaGlossRaw": "当てる",
+  "jaAlts": [
+   "ヒット",
+   "おうだ",
+   "うつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hockey",
+  "en": "hockey",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ホッケー",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "honey",
+  "en": "honey",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はちみつ",
+  "jaGlossRaw": "蜂蜜",
+  "jaAlts": [
+   "みつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "honor",
+  "en": "honor",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "めいよ",
+  "jaGlossRaw": "名誉",
+  "jaAlts": [
+   "メンツ",
+   "えいかん",
+   "えいよ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "horror",
+  "en": "horror",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ホラー",
+  "jaAlts": [
+   "おそれ",
+   "きょうふ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "host",
+  "en": "host",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しゅじん",
+  "jaGlossRaw": "主人",
+  "jaAlts": [
+   "ホスト",
+   "ナビゲーター",
+   "しかい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "however",
+  "en": "however",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "どんなに",
+  "jaAlts": [
+   "いくら",
+   "いかに"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "hug",
+  "en": "hug",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ようする",
+  "jaGlossRaw": "擁する",
+  "jaAlts": [
+   "ほうよう",
+   "だく",
+   "いだく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "human",
+  "en": "human",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "じんてき",
+  "jaGlossRaw": "人的",
+  "jaAlts": [
+   "ヒューマン",
+   "にんげんてき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hundred",
+  "en": "hundred",
+  "pos": "number",
+  "cefr": "A2",
+  "ja": "ひゃく",
+  "jaGlossRaw": "百",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "hunter",
+  "en": "hunter",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かりゅうど",
+  "jaGlossRaw": "狩人",
+  "jaAlts": [
+   "ハンター",
+   "りょうし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "illegal",
+  "en": "illegal",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ひごうほう",
+  "jaGlossRaw": "非合法",
+  "jaAlts": [
+   "アングラ",
+   "いほう",
+   "ふほう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "image",
+  "en": "image",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "がぞう",
+  "jaGlossRaw": "画像",
+  "jaAlts": [
+   "アイドル",
+   "イメージ",
+   "ぐうぞう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "imagination",
+  "en": "imagination",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "そうぞう",
+  "jaGlossRaw": "想像",
+  "jaAlts": [
+   "ビジョン",
+   "かそう",
+   "おもい"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "impact",
+  "en": "impact",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "しょうげき",
+  "jaGlossRaw": "衝撃",
+  "jaAlts": [
+   "ショック",
+   "パンチ",
+   "インパクト"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "impatient",
+  "en": "impatient",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "せっかち",
+  "jaAlts": [
+   "せいきゅう",
+   "はがゆい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "importance",
+  "en": "importance",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じゅうようせい",
+  "jaGlossRaw": "重要性",
+  "jaAlts": [
+   "ウェイト",
+   "おもき",
+   "おもみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "impossible",
+  "en": "impossible",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ふかのう",
+  "jaGlossRaw": "不可能",
+  "jaAlts": [
+   "ありえない",
+   "ふのう",
+   "むり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "impress",
+  "en": "impress",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "あっとう",
+  "jaGlossRaw": "圧倒",
+  "jaAlts": [
+   "うつ",
+   "いんしょうづける"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "improve",
+  "en": "improve",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "みなおす",
+  "jaGlossRaw": "見直す",
+  "jaAlts": [
+   "あがる",
+   "もちなおす",
+   "みがく"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "inch",
+  "en": "inch",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "インチ",
+  "jaGlossRaw": "吋",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "include",
+  "en": "include",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "くわえる",
+  "jaGlossRaw": "加える",
+  "jaAlts": [
+   "いれる",
+   "よせる",
+   "もりこむ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "increase",
+  "en": "increase",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "ます",
+  "jaGlossRaw": "増す",
+  "jaAlts": [
+   "アップ",
+   "ふえる",
+   "ふやす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "indeed",
+  "en": "indeed",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "いかにも",
+  "jaGlossRaw": "如何にも",
+  "jaAlts": [
+   "まったく",
+   "まこと",
+   "まさか"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "independence",
+  "en": "independence",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じりつ",
+  "jaGlossRaw": "自立",
+  "jaAlts": [
+   "じしゅ",
+   "どくりつ",
+   "たんどく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "indicate",
+  "en": "indicate",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "さししめす",
+  "jaGlossRaw": "指し示す",
+  "jaAlts": [
+   "つげる",
+   "かたる",
+   "しめす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "indoor",
+  "en": "indoor",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "しつない",
+  "jaGlossRaw": "室内",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "inexpensive",
+  "en": "inexpensive",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "やすい",
+  "jaGlossRaw": "安い",
+  "jaAlts": [
+   "あんか",
+   "かくやす"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "influence",
+  "en": "influence",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "えいきょう",
+  "jaGlossRaw": "影響",
+  "jaAlts": [
+   "インパクト",
+   "えいきょうりょく",
+   "せいりょく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "injure",
+  "en": "injure",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "がいする",
+  "jaGlossRaw": "害する",
+  "jaAlts": [
+   "きずつける",
+   "いためる",
+   "そこねる"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "insect",
+  "en": "insect",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こんちゅう",
+  "jaGlossRaw": "昆虫",
+  "jaAlts": [
+   "むし"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "inspiration",
+  "en": "inspiration",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "インスピレーション",
+  "jaAlts": [
+   "モデル",
+   "かんか",
+   "こぶ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "instant",
+  "en": "instant",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "しゅんじ",
+  "jaGlossRaw": "瞬時",
+  "jaAlts": [
+   "インスタント",
+   "そくざ",
+   "そくせき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "instead",
+  "en": "instead",
+  "pos": "adverb",
+  "cefr": "A2",
+  "ja": "むしろ",
+  "jaGlossRaw": "寧ろ",
+  "jaAlts": [
+   "かえって"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "instrument",
+  "en": "instrument",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "きかい",
+  "jaGlossRaw": "機械",
+  "jaAlts": [
+   "ようぐ",
+   "どうぐ",
+   "きぐ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "intelligence",
+  "en": "intelligence",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちせい",
+  "jaGlossRaw": "知性",
+  "jaAlts": [
+   "インテリジェンス",
+   "ちのう",
+   "えいち"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "intelligent",
+  "en": "intelligent",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "えいめい",
+  "jaGlossRaw": "英明",
+  "jaAlts": [
+   "インテリジェント",
+   "はつめい",
+   "りこう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "interest",
+  "en": "interest",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "のりき",
+  "jaGlossRaw": "乗り気",
+  "jaAlts": [
+   "りけん",
+   "きょう",
+   "りまわり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "international",
+  "en": "international",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "こくさい",
+  "jaGlossRaw": "国際",
+  "jaAlts": [
+   "インターナショナル",
+   "こくさいてき",
+   "せかいてき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "invade",
+  "en": "invade",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "おかす",
+  "jaGlossRaw": "侵す",
+  "jaAlts": [
+   "あらす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "invent",
+  "en": "invent",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "うみだす",
+  "jaGlossRaw": "生み出す",
+  "jaAlts": [
+   "つくりだす",
+   "たくらむ",
+   "つくりあげる"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "invention",
+  "en": "invention",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "はつめい",
+  "jaGlossRaw": "発明",
+  "jaAlts": [
+   "こうあん",
+   "そうさく",
+   "くふう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "invite",
+  "en": "invite",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "まねく",
+  "jaGlossRaw": "招く",
+  "jaAlts": [
+   "さそう",
+   "よぶ",
+   "めす"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "issue",
+  "en": "issue",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "かんこう",
+  "jaGlossRaw": "刊行",
+  "jaAlts": [
+   "はっこう",
+   "はっかん",
+   "かだい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "itself",
+  "en": "itself",
+  "pos": "pronoun",
+  "cefr": "A2",
+  "ja": "じたい",
+  "jaGlossRaw": "自体",
+  "jaAlts": [
+   "そのもの"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "jam",
+  "en": "jam",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ジャム",
+  "jaAlts": [
+   "セッション",
+   "こんざつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "jelly",
+  "en": "jelly",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ゼリー",
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "joke",
+  "en": "joke",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "じょうだん",
+  "jaGlossRaw": "冗談",
+  "jaAlts": [
+   "ジョーク",
+   "ギャグ",
+   "ユーモア"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "journey",
+  "en": "journey",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "こうてい",
+  "jaGlossRaw": "行程",
+  "jaAlts": [
+   "みちのり",
+   "たび",
+   "りょこう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "joy",
+  "en": "joy",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "よろこび",
+  "jaGlossRaw": "喜び",
+  "jaAlts": [
+   "ジョイ",
+   "こうふく",
+   "たのしみ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "junior",
+  "en": "junior",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "ジュニア",
+  "jaAlts": [
+   "としした",
+   "かきゅう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "junk",
+  "en": "junk",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ガラクタ",
+  "jaGlossRaw": "我楽多",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "killer",
+  "en": "killer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "キラー",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "kilogram",
+  "en": "kilogram",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "キログラム",
+  "jaGlossRaw": "瓩",
+  "jaAlts": [
+   "キロ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "kilometer",
+  "en": "kilometer",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "キロメートル",
+  "jaGlossRaw": "粁",
+  "jaAlts": [
+   "キロ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "kindly",
+  "en": "kindly",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "どうぞ",
+  "jaAlts": [
+   "なにとぞ"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "kingdom",
+  "en": "kingdom",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "おうこく",
+  "jaGlossRaw": "王国",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "kit",
+  "en": "kit",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "キット",
+  "jaAlts": [
+   "いっしき"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "knock",
+  "en": "knock",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ノック",
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "knowledge",
+  "en": "knowledge",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ちしき",
+  "jaGlossRaw": "知識",
+  "jaAlts": [
+   "しょうち",
+   "けんぶん",
+   "がくりょく"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "labor",
+  "en": "labor",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ろうどう",
+  "jaGlossRaw": "労働",
+  "jaAlts": [
+   "トラバーユ",
+   "ろうむ",
+   "きんろう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "lack",
+  "en": "lack",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けつじょ",
+  "jaGlossRaw": "欠如",
+  "jaAlts": [
+   "ふそく",
+   "けつぼう",
+   "ふび"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "lake",
+  "en": "lake",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "みずうみ",
+  "jaGlossRaw": "湖",
+  "jaAlts": [
+   "レーク",
+   "こすい",
+   "こしょう"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "lamp",
+  "en": "lamp",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ランプ",
+  "jaAlts": [
+   "ひ",
+   "あかり"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "land",
+  "en": "land",
+  "pos": "verb",
+  "cefr": "A2",
+  "ja": "りく",
+  "jaGlossRaw": "陸",
+  "jaAlts": [
+   "ランド",
+   "じめん",
+   "てんち"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "landscape",
+  "en": "landscape",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "けしき",
+  "jaGlossRaw": "景色",
+  "jaAlts": [
+   "ふうけい"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "lane",
+  "en": "lane",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ろじ",
+  "jaGlossRaw": "路地",
+  "jaAlts": [
+   "レーン",
+   "コース",
+   "みち"
+  ],
+  "jaLookup": "doubtful"
+ },
+ {
+  "wordId": "last",
+  "en": "last",
+  "pos": "determiner",
+  "cefr": "A2",
+  "ja": "さいしゅう",
+  "jaGlossRaw": "最終",
+  "jaAlts": [
+   "ラスト",
+   "さいご",
+   "たもつ"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "latest",
+  "en": "latest",
+  "pos": "adjective",
+  "cefr": "A2",
+  "ja": "さいしん",
+  "jaGlossRaw": "最新",
+  "jaAlts": [
+   "あたらしい",
+   "さいご"
+  ],
+  "jaLookup": "clean"
+ },
+ {
+  "wordId": "law",
+  "en": "law",
+  "pos": "noun",
+  "cefr": "A2",
+  "ja": "ほうがく",
+  "jaGlossRaw": "法学",
+  "jaAlts": [
+   "ほうそく",
+   "ほう",
+   "ほうりつ"
+  ],
+  "jaLookup": "clean"
+ }
+]
