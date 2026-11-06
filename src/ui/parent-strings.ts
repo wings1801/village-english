@@ -131,6 +131,10 @@ export const vi = {
     title: 'Nội dung câu hỏi',
     count: (n: number): string => `${n} câu hỏi đã duyệt`,
     none: 'Nội dung chưa được duyệt, nên cấp này chưa có câu hỏi. Xem hướng dẫn duyệt nội dung trong file docs/content-review.md.',
+    byWho: (parent: number, ai: number): string => `${parent} câu do bạn duyệt, ${ai} câu do AI duyệt (chưa có người xem)`,
+    aiNoticeTitle: 'Có câu hỏi do AI duyệt',
+    aiNotice:
+      'Các câu do AI duyệt đã qua kiểm tra tự động và các lần AI rà soát trước đó, nhưng chưa có người kiểm tra nghĩa tiếng Nhật. Nên xem lại chúng bằng trang duyệt (npm run build-review): chọn bộ lọc "AI-approved" để xem và sửa.',
   },
 
   settings: {

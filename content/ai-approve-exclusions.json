@@ -1,0 +1,27 @@
+{
+  "ids": [
+    "g4-dialogue-choice-036",
+    "g4-letter-tiles-017",
+    "g4-pick-word-029",
+    "g5-dialogue-choice-016",
+    "g5-dialogue-choice-027",
+    "g5-letter-tiles-019",
+    "g5-letter-tiles-029",
+    "g5-listen-pick-030",
+    "g5-listen-pick-031",
+    "g5-listen-pick-037",
+    "g5-listen-pick-042",
+    "g5-listen-pick-045",
+    "g5-listen-pick-048",
+    "g5-pick-picture-026",
+    "g5-pick-picture-036",
+    "g5-pick-picture-037",
+    "g5-pick-picture-038",
+    "g5-pick-picture-039",
+    "g5-pick-picture-040",
+    "g5-pick-picture-042",
+    "g5-pick-picture-050",
+    "g5-pick-word-029"
+  ],
+  "note": "Questions that only the parent may approve: earlier reviews flagged them as inference-only or ambiguity-prone (colour-circle and hat pictures, plus specific ids named in review). npm run ai-approve skips every id listed here."
+}

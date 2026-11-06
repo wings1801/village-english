@@ -286,3 +286,29 @@ describe('renderReviewHtml', () => {
     expect(html).not.toMatch(/(src|href)=["']https?:/);
   });
 });
+
+describe('approvals "by" field and approval summary', () => {
+  const pp = samples['pick-picture'];
+  const pw = samples['pick-word'];
+  it('accepts by: "parent" | "ai" | absent and rejects unknown values', () => {
+    expect(buildContent([pp], { pp1: { ...ok(pp), by: 'ai' } })).toEqual([pp]);
+    expect(buildContent([pp], { pp1: { ...ok(pp), by: 'parent' } })).toEqual([pp]);
+    expect(() => buildContent([pp], { pp1: { ...ok(pp), by: 'robot' } } as unknown as Approvals)).toThrow(/pp1.*by/);
+    expect(() => buildAll({ '5': [pp], '4': [] }, { pp1: { status: 'rejected', by: 'x' } } as unknown as Approvals)).toThrow(/by/);
+  });
+  it('validateApprovals reports an unknown by value', async () => {
+    const { validateApprovals } = await import('../scripts/validate-content');
+    expect(validateApprovals({ '5': [pp], '4': [] }, { pp1: { ...ok(pp), by: 'ai' } })).toEqual([]);
+    expect(validateApprovals({ '5': [pp], '4': [] }, { pp1: { ...ok(pp), by: 'bot' } })[0]).toContain('by');
+  });
+  it('summarises shipped questions per grade by who approved them', async () => {
+    const { approvalSummary } = await import('../scripts/build-content');
+    const byGrade = { '5': [pp, { ...pp, id: 'pp2' }, { ...pp, id: 'pp3' }], '4': [pw] };
+    const approvals: Approvals = { pp1: ok(pp), pp2: { ...ok({ ...pp, id: 'pp2' }), by: 'ai' }, pp3: no };
+    const built = buildAll(byGrade, approvals);
+    expect(approvalSummary(byGrade, built, approvals)).toEqual({
+      '5': { parent: 1, ai: 1, total: 3 },
+      '4': { parent: 0, ai: 0, total: 1 },
+    });
+  });
+});

@@ -15,7 +15,8 @@
     "import-tatoeba": "tsx scripts/import-tatoeba.ts",
     "gen-credits": "tsx scripts/gen-credits.ts",
     "build-word-grades": "tsx scripts/build-word-grades.ts",
-    "build-content": "npm run validate-content && tsx scripts/build-content.ts"
+    "build-content": "npm run validate-content && tsx scripts/build-content.ts",
+    "ai-approve": "tsx scripts/ai-approve.ts"
   },
   "dependencies": {
     "idb": "8.0.4",

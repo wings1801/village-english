@@ -9,7 +9,7 @@ import type { Question } from '../src/domain/types';
  * id -> decision. `hash` is questionHash() of the question as the parent saw it; an approval whose hash no longer
  * matches (the question was edited afterwards) is stale and stops the build. Rejected entries may omit the hash.
  */
-export type Approval = { status: 'approved' | 'rejected'; hash?: string };
+export type Approval = { status: 'approved' | 'rejected'; hash?: string; by?: 'parent' | 'ai' };
 export type Approvals = Record<string, Approval>;
 
 function checkEntry(id: string, entry: unknown): Approval {
@@ -19,6 +19,9 @@ function checkEntry(id: string, entry: unknown): Approval {
     throw new Error(
       `Invalid approvals value for ${id}: ${JSON.stringify(entry)} (use { "status": "approved" | "rejected", "hash": "..." }; download approvals.json again from the review page)`,
     );
+  }
+  if (e!.by !== undefined && e!.by !== 'parent' && e!.by !== 'ai') {
+    throw new Error(`Invalid approvals value for ${id}: by must be "parent" or "ai" (or absent), got ${JSON.stringify(e!.by)}`);
   }
   return e as Approval;
 }
@@ -74,6 +77,23 @@ export function buildAll(byGrade: Record<string, Question[]>, approvals: Approva
   return out;
 }
 
+export type ApprovalSummary = Record<string, { parent: number; ai: number; total: number }>;
+
+/** Per grade: authored total and how many shipped (approved) questions were approved by the parent vs by the AI option. */
+export function approvalSummary(
+  byGrade: Record<string, Question[]>,
+  built: Record<string, Question[]>,
+  approvals: Approvals,
+): ApprovalSummary {
+  const out: ApprovalSummary = {};
+  for (const [grade, authored] of Object.entries(byGrade)) {
+    const shipped = built[grade] ?? [];
+    const ai = shipped.filter((q) => approvals[q.id]?.by === 'ai').length;
+    out[grade] = { parent: shipped.length - ai, ai, total: authored.length };
+  }
+  return out;
+}
+
 function main(): void {
   const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
   const approvalsPath = resolve(root, 'content/approvals.json');
@@ -88,6 +108,9 @@ function main(): void {
     writeFileSync(resolve(root, `public/content/${grade}.json`), JSON.stringify(out, null, 2) + '\n');
     console.log(`grade ${grade}: ${out.length} approved of ${byGrade[grade].length}`);
   }
+  const summary = approvalSummary(byGrade, built, approvals);
+  writeFileSync(resolve(root, 'public/content/approval-summary.json'), JSON.stringify(summary, null, 2) + '\n');
+  console.log(`approval summary: ${JSON.stringify(summary)}`);
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) main();

@@ -150,6 +150,11 @@ function ContentSection({ data }: { data: DashData }) {
             <div class="grade-row" key={g} data-testid="content-row" data-grade={g}>
               <span class="grade-name">{vi.gradeName(g)}</span>
               <span class="grade-count">{vi.content.count(n)}</span>
+              {data.approval && (
+                <span class="p-note" data-testid="content-by">
+                  {vi.content.byWho(data.approval[g].parent, data.approval[g].ai)}
+                </span>
+              )}
               {n === 0 && (
                 <p class="p-note" data-testid="content-none">
                   {vi.content.none}
@@ -159,6 +164,11 @@ function ContentSection({ data }: { data: DashData }) {
           );
         })}
       </div>
+      {data.approval && (data.approval['5'].ai > 0 || data.approval['4'].ai > 0) && (
+        <p class="p-note" data-testid="content-ai-notice">
+          {vi.content.aiNotice}
+        </p>
+      )}
     </Section>
   );
 }
