@@ -6,6 +6,7 @@ Tất cả những việc cần con người làm, gom vào một chỗ. Đánh 
 
 - [ ] `npm run build-review`, mở `dist-review/index.html`, duyệt/loại từng câu (xem `docs/content-review.md`).
 - [ ] Đối chiếu nghĩa tiếng Nhật với `content/work/authoring-notes-5.md` và `content/work/authoring-notes-4.md`. Câu nào có nghĩa sai hoặc khó hiểu thì loại.
+- [ ] (Tùy chọn) Nếu dùng `npm run ai-approve`, ít nhất hãy xem lướt các câu "AI-approved" theo từng loại trong trang duyệt trước khi cho bé chơi (AI duyệt chưa có người kiểm tra nghĩa tiếng Nhật).
 - [ ] Chép `approvals.json` vào `content/`, chạy `npm run build-content`, commit `public/content/5.json` và `4.json`. Hiện cả hai đang là `[]` nên bé thấy "もんだいを じゅんびちゅう".
 - [ ] Mở góc phụ huynh, kiểm tra mục "Nội dung câu hỏi" cho số câu khác 0.
 

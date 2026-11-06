@@ -20,6 +20,7 @@ Công nghệ: Preact + TypeScript + Vite (PWA). Không có quảng cáo, không 
    - `npx playwright install webkit` (một lần), sau đó `npm run e2e` chạy test giả lập iPad.
 3. **Duyệt câu hỏi** (bắt buộc, hiện chưa có câu nào được phát hành, bé sẽ thấy "もんだいを じゅんびちゅう"):
    - `npm run build-review`, mở `dist-review/index.html`, bấm duyệt hoặc loại từng câu, tải `approvals.json`, chép vào thư mục `content/`, rồi `npm run build-content`.
+   - Trang duyệt có bộ lọc và nút duyệt/loại hàng loạt cho các câu đang hiện. Tùy chọn (mặc định tắt): `npm run ai-approve` cho AI duyệt các câu chưa có quyết định sau kiểm tra tự động; các câu này được đánh dấu "AI-approved" và chưa có người kiểm tra nghĩa tiếng Nhật, nên ít nhất hãy xem lướt theo từng loại câu trước khi cho bé chơi.
    - Hướng dẫn chi tiết: `docs/content-review.md`.
    - Đọc kèm `content/work/authoring-notes-5.md` và `content/work/authoring-notes-4.md` (nghĩa tiếng Nhật của từng từ). Nghĩa nào sai thì phải loại câu đó, đừng duyệt.
 4. **Đưa lên GitHub Pages**:

@@ -6,10 +6,28 @@ Câu hỏi chỉ xuất hiện trong trò chơi sau khi phụ huynh đã duyệt
 
 1. Mở terminal trong thư mục dự án và chạy `npm run build-review`.
 2. Mở file `dist-review/index.html` bằng trình duyệt (mở trực tiếp từ thư mục `dist-review/` nằm trong dự án; các hình minh họa được đọc từ `../public/assets/emoji/` theo đường dẫn tương đối, nên đừng chép trang này đi nơi khác). Trang liệt kê từng câu hỏi kèm phần giải thích tiếng Nhật và hình minh họa để bạn kiểm tra hình có đúng không.
-3. Với mỗi câu, bấm duyệt (approve) hoặc loại (reject). Có thể làm nhiều lần: các quyết định được lưu trong trình duyệt (localStorage) và hiện lại khi mở lại trang. Trên đầu trang có bộ đếm (đã duyệt / đã loại / chưa quyết), ô "Undecided only" để chỉ xem câu chưa quyết, và nút "Load approvals.json" để nạp lại file `approvals.json` đã tải trước đó (các quyết định được gộp vào, không ghi đè những gì đã làm).
+3. Với mỗi câu, bấm duyệt (approve) hoặc loại (reject). Có thể làm nhiều lần: các quyết định được lưu trong trình duyệt (localStorage) và hiện lại khi mở lại trang. Trên đầu trang có bộ đếm (đã duyệt / đã loại / chưa quyết), ba bộ lọc (Status: All / Undecided / Approved / Rejected / AI-approved; Kind: loại câu; Grade: cấp 5 hoặc 4), và nút "Load approvals.json" để nạp lại file `approvals.json` đã tải trước đó (các quyết định được gộp vào, không ghi đè những gì đã làm).
+### Duyệt hàng loạt (nhanh hơn)
+
+Mặc định trang chỉ hiện các câu chưa quyết. Chọn bộ lọc (ví dụ Kind = pick-picture), xem nhanh các câu đang hiện (dòng "Showing N of M"), rồi bấm một trong ba nút lớn: "Approve all shown", "Reject all shown", "Clear all shown". Trang luôn hỏi lại, ví dụ "Approve 37 shown questions (kind: pick-picture, status: undecided)?". Các nút chỉ tác động lên những câu đang hiện, không bao giờ đụng vào câu bị lọc ẩn. Muốn ghi đè câu đã quyết, hãy chọn bộ lọc Status hiện chúng ra trước. Những câu nhạy cảm (hình tròn màu, mũ, các câu từng bị AI đánh dấu khó) nên xem từng câu một.
+
 4. Khi xong, bấm "Download approvals.json" và chép đè vào thư mục `content/` (thay file `content/approvals.json` cũ). Mỗi quyết định mang theo một mã băm (hash) của nội dung câu hỏi lúc bạn duyệt.
 5. Chạy `npm run build-content`. Lệnh này kiểm tra dữ liệu rồi tạo file câu hỏi đã duyệt cho từng cấp. Nếu một câu đã duyệt bị sửa sau đó, lệnh dừng với lỗi `stale approval for <id>: the question changed after it was approved — review it again`: hãy chạy lại `npm run build-review`, duyệt lại câu đó (quyết định cũ của câu đã sửa tự bị bỏ), tải `approvals.json` mới. `npm run validate-content` cũng kiểm tra điều này.
 6. Triển khai lại (deploy) ứng dụng. Trên iPad: mở ứng dụng một lần khi có mạng, rồi vuốt tắt hẳn ứng dụng (vuốt lên trong bộ chuyển ứng dụng), rồi mở lại. Bản mới chỉ có hiệu lực sau khi ứng dụng được tắt hẳn và mở lại (`docs/pwa-update-policy.md`).
+
+## Tùy chọn: để AI duyệt giúp (mặc định TẮT)
+
+Chỉ dùng nếu bạn chấp nhận rủi ro bên dưới. Không có gì tự chạy: bạn phải tự gõ lệnh.
+
+1. `npm run ai-approve` chạy THỬ (dry run), chỉ in bản tóm tắt: bao nhiêu câu sẽ được duyệt, bao nhiêu câu bị loại khỏi danh sách (`content/ai-approve-exclusions.json`), câu nào không qua kiểm tra và vì sao. Tùy chọn: `-- --grade 5|4|all`, `-- --renew-stale`.
+2. Hài lòng thì chạy `npm run ai-approve -- --write`: ghi các câu đạt vào `content/approvals.json` với `"by": "ai"`.
+3. Chạy `npm run build-content` để phát hành (lệnh ai-approve không bao giờ tự chạy lệnh này).
+
+Quy tắc: AI chỉ duyệt câu CHƯA có quyết định. Quyết định của bạn (duyệt hoặc loại) không bao giờ bị đổi. Câu đã duyệt bởi bạn mà bị sửa sau đó chỉ được báo, không tự duyệt lại. Câu AI duyệt mà bị sửa chỉ được duyệt lại khi có `--renew-stale`.
+
+AI duyệt nghĩa là gì: câu đã qua các kiểm tra tự động (đúng định dạng, đáp án đúng một lựa chọn, không trùng lựa chọn, có đủ hình, nguồn đầy đủ, một chỗ trống ___ ...) và các lần AI rà soát độc lập đã làm trước đó. Điều này KHÔNG phải là người đã kiểm tra nghĩa tiếng Nhật. Các câu dễ gây hiểu nhầm (hình tròn màu, mũ...) nằm trong danh sách loại trừ để chỉ bạn duyệt.
+
+Xem lại sau này: trong trang duyệt, chọn Status = "AI-approved" (các câu này có nhãn "AI-approved"). Bấm Approve/Reject trên một câu hoặc nút hàng loạt là chuyển câu đó thành quyết định của bạn (`by` bị bỏ). Trong góc phụ huynh, mục "Nội dung câu hỏi" cho biết bao nhiêu câu do bạn duyệt và bao nhiêu do AI duyệt (file `public/content/approval-summary.json`).
 
 ## Ghi chú soạn câu hỏi
 
