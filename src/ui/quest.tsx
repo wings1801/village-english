@@ -284,8 +284,13 @@ function QuestInner({
     setBells(baseBells.current + sum.bellsEarned);
     setAnswered(sum.answered);
     const english = englishAfterCorrect(question);
-    if (english) void speak(english, 'en-US');
-    advanceTimer.current = setTimeout(() => {
+    // Move on only after the English has been read out (speak always settles, even if the voice fails),
+    // otherwise the next question's cancelSpeech() cuts it off mid-word.
+    const spoken = english ? speak(english, 'en-US') : Promise.resolve();
+    const minWait = new Promise<void>((resolve) => {
+      advanceTimer.current = setTimeout(resolve, advanceMs);
+    });
+    void Promise.all([minWait, spoken]).then(() => {
       if (!alive.current || phaseRef.current !== 'playing') return;
       setFeedback(null);
       setAttempt(0);
@@ -298,7 +303,7 @@ function QuestInner({
       setPose(poseFor('idle'));
       setQuestion(s.next());
       lock(false);
-    }, advanceMs);
+    });
   }
 
   // Voice for the non-question screens (the playing phase has its own effect below).
