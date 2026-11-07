@@ -1,4 +1,1587 @@
 {
+  "g4-dialogue-choice-001": {
+    "status": "approved",
+    "hash": "78dd5c66f50751f2",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-002": {
+    "status": "approved",
+    "hash": "0af558c623c519e4",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-003": {
+    "status": "approved",
+    "hash": "f909a3ed7adeeb5c",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-004": {
+    "status": "approved",
+    "hash": "e5089f906dec6e98",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-005": {
+    "status": "approved",
+    "hash": "59c39949f0bdee28",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-006": {
+    "status": "approved",
+    "hash": "22cf1a1b6db02a7d",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-007": {
+    "status": "approved",
+    "hash": "b524eb408a967a4d",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-008": {
+    "status": "approved",
+    "hash": "7a366619b768e648",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-009": {
+    "status": "approved",
+    "hash": "d6497c91924351b1",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-010": {
+    "status": "approved",
+    "hash": "242635c25837ab4e",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-011": {
+    "status": "approved",
+    "hash": "7d021e2323cd245f",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-012": {
+    "status": "approved",
+    "hash": "5c130849bab48a6c",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-013": {
+    "status": "approved",
+    "hash": "f1b71abcaaeacb37",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-014": {
+    "status": "approved",
+    "hash": "883d6d077f94a418",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-015": {
+    "status": "approved",
+    "hash": "436ef5e10f093213",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-016": {
+    "status": "approved",
+    "hash": "5cefd01579ccca01",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-017": {
+    "status": "approved",
+    "hash": "030b59812ff6c18c",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-018": {
+    "status": "approved",
+    "hash": "62992b81b86f9798",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-019": {
+    "status": "approved",
+    "hash": "fb272f6421d44b51",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-020": {
+    "status": "approved",
+    "hash": "6d3517abb78ff85c",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-021": {
+    "status": "approved",
+    "hash": "7bd2571784ce4d4e",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-022": {
+    "status": "approved",
+    "hash": "1fbf45a502fd7e1f",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-023": {
+    "status": "approved",
+    "hash": "f023a88eba8fb1fc",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-024": {
+    "status": "approved",
+    "hash": "3e39be16afcacbe6",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-025": {
+    "status": "approved",
+    "hash": "498b335b79d8bdf3",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-026": {
+    "status": "approved",
+    "hash": "51f09c606f60ea2a",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-027": {
+    "status": "approved",
+    "hash": "0d81684b02a0d351",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-028": {
+    "status": "approved",
+    "hash": "09d4e14f847c5c57",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-029": {
+    "status": "approved",
+    "hash": "bee70df13111c037",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-030": {
+    "status": "approved",
+    "hash": "cc313f2f0000b40c",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-031": {
+    "status": "approved",
+    "hash": "25af09838879a619",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-032": {
+    "status": "approved",
+    "hash": "4acaa469213cdea1",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-033": {
+    "status": "approved",
+    "hash": "a64ded7cc3dd43c2",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-034": {
+    "status": "approved",
+    "hash": "61ca9aa0e8238ad3",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-035": {
+    "status": "approved",
+    "hash": "09a10ae591c4544e",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-037": {
+    "status": "approved",
+    "hash": "b586a491b2487d2c",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-038": {
+    "status": "approved",
+    "hash": "81019df7a00eeaff",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-039": {
+    "status": "approved",
+    "hash": "2deb27655e2d2785",
+    "by": "ai"
+  },
+  "g4-dialogue-choice-040": {
+    "status": "approved",
+    "hash": "fbee75ad818c7ece",
+    "by": "ai"
+  },
+  "g4-letter-tiles-001": {
+    "status": "approved",
+    "hash": "a360196dbc59cde0",
+    "by": "ai"
+  },
+  "g4-letter-tiles-002": {
+    "status": "approved",
+    "hash": "8e054ffb8c78ae24",
+    "by": "ai"
+  },
+  "g4-letter-tiles-003": {
+    "status": "approved",
+    "hash": "ef65980ba12c9f3a",
+    "by": "ai"
+  },
+  "g4-letter-tiles-004": {
+    "status": "approved",
+    "hash": "89110f146c2dad9f",
+    "by": "ai"
+  },
+  "g4-letter-tiles-005": {
+    "status": "approved",
+    "hash": "4e8b82a73e748ae8",
+    "by": "ai"
+  },
+  "g4-letter-tiles-006": {
+    "status": "approved",
+    "hash": "f22068f76c2d3f38",
+    "by": "ai"
+  },
+  "g4-letter-tiles-007": {
+    "status": "approved",
+    "hash": "f60be9c75012cb07",
+    "by": "ai"
+  },
+  "g4-letter-tiles-008": {
+    "status": "approved",
+    "hash": "96755046e4bd7883",
+    "by": "ai"
+  },
+  "g4-letter-tiles-009": {
+    "status": "approved",
+    "hash": "5007fd8581d0e36b",
+    "by": "ai"
+  },
+  "g4-letter-tiles-010": {
+    "status": "approved",
+    "hash": "2c18c7cfaa78839e",
+    "by": "ai"
+  },
+  "g4-letter-tiles-011": {
+    "status": "approved",
+    "hash": "89991c4b9846b08d",
+    "by": "ai"
+  },
+  "g4-letter-tiles-012": {
+    "status": "approved",
+    "hash": "07f469b5ad986418",
+    "by": "ai"
+  },
+  "g4-letter-tiles-013": {
+    "status": "approved",
+    "hash": "ad40d5f07ac8d159",
+    "by": "ai"
+  },
+  "g4-letter-tiles-014": {
+    "status": "approved",
+    "hash": "e2dc32083edaa1c4",
+    "by": "ai"
+  },
+  "g4-letter-tiles-015": {
+    "status": "approved",
+    "hash": "0cba8e0aabbfcc1c",
+    "by": "ai"
+  },
+  "g4-letter-tiles-016": {
+    "status": "approved",
+    "hash": "c0f864d13271cf62",
+    "by": "ai"
+  },
+  "g4-letter-tiles-018": {
+    "status": "approved",
+    "hash": "90912b73f7039a3c",
+    "by": "ai"
+  },
+  "g4-letter-tiles-019": {
+    "status": "approved",
+    "hash": "8c402bd4bf29a945",
+    "by": "ai"
+  },
+  "g4-letter-tiles-020": {
+    "status": "approved",
+    "hash": "a9928bbdc4d41b8d",
+    "by": "ai"
+  },
+  "g4-letter-tiles-021": {
+    "status": "approved",
+    "hash": "880bfcda674681f7",
+    "by": "ai"
+  },
+  "g4-letter-tiles-022": {
+    "status": "approved",
+    "hash": "3a1e1f947fc26a9d",
+    "by": "ai"
+  },
+  "g4-letter-tiles-023": {
+    "status": "approved",
+    "hash": "78b9612819efff79",
+    "by": "ai"
+  },
+  "g4-letter-tiles-024": {
+    "status": "approved",
+    "hash": "0cfe881944f898df",
+    "by": "ai"
+  },
+  "g4-letter-tiles-025": {
+    "status": "approved",
+    "hash": "9d7262436d270117",
+    "by": "ai"
+  },
+  "g4-letter-tiles-026": {
+    "status": "approved",
+    "hash": "934920b44ca7395d",
+    "by": "ai"
+  },
+  "g4-letter-tiles-027": {
+    "status": "approved",
+    "hash": "1aee4189d0569e03",
+    "by": "ai"
+  },
+  "g4-letter-tiles-028": {
+    "status": "approved",
+    "hash": "f645fa51d38164ee",
+    "by": "ai"
+  },
+  "g4-letter-tiles-029": {
+    "status": "approved",
+    "hash": "3632bd60c18af380",
+    "by": "ai"
+  },
+  "g4-letter-tiles-030": {
+    "status": "approved",
+    "hash": "678e9ae6cb689270",
+    "by": "ai"
+  },
+  "g4-letter-tiles-031": {
+    "status": "approved",
+    "hash": "cd8bb77dc13ebce8",
+    "by": "ai"
+  },
+  "g4-letter-tiles-032": {
+    "status": "approved",
+    "hash": "8c4dc9fe6c70f8e8",
+    "by": "ai"
+  },
+  "g4-letter-tiles-033": {
+    "status": "approved",
+    "hash": "2802bfaa0451e285",
+    "by": "ai"
+  },
+  "g4-letter-tiles-034": {
+    "status": "approved",
+    "hash": "2a46181e95487e7b",
+    "by": "ai"
+  },
+  "g4-listen-pick-001": {
+    "status": "approved",
+    "hash": "05738bc76d1d3962",
+    "by": "ai"
+  },
+  "g4-listen-pick-002": {
+    "status": "approved",
+    "hash": "7172e526a1b1ef6f",
+    "by": "ai"
+  },
+  "g4-listen-pick-003": {
+    "status": "approved",
+    "hash": "4f9e74290697a59a",
+    "by": "ai"
+  },
+  "g4-listen-pick-004": {
+    "status": "approved",
+    "hash": "30d7d2c4b944602b",
+    "by": "ai"
+  },
+  "g4-listen-pick-005": {
+    "status": "approved",
+    "hash": "cbbacbf160d96fea",
+    "by": "ai"
+  },
+  "g4-listen-pick-006": {
+    "status": "approved",
+    "hash": "6845ea26e6a3aa74",
+    "by": "ai"
+  },
+  "g4-listen-pick-007": {
+    "status": "approved",
+    "hash": "f900fbe031c9aac6",
+    "by": "ai"
+  },
+  "g4-listen-pick-008": {
+    "status": "approved",
+    "hash": "fced6a4776f89241",
+    "by": "ai"
+  },
+  "g4-listen-pick-009": {
+    "status": "approved",
+    "hash": "4a88d2ce29889a3e",
+    "by": "ai"
+  },
+  "g4-listen-pick-010": {
+    "status": "approved",
+    "hash": "2a882711b3b9dc80",
+    "by": "ai"
+  },
+  "g4-listen-pick-011": {
+    "status": "approved",
+    "hash": "daae562505743ec7",
+    "by": "ai"
+  },
+  "g4-listen-pick-012": {
+    "status": "approved",
+    "hash": "e7f44caca94822ab",
+    "by": "ai"
+  },
+  "g4-listen-pick-013": {
+    "status": "approved",
+    "hash": "c8ae80da5402999c",
+    "by": "ai"
+  },
+  "g4-listen-pick-014": {
+    "status": "approved",
+    "hash": "5a54c2e4dc323313",
+    "by": "ai"
+  },
+  "g4-listen-pick-015": {
+    "status": "approved",
+    "hash": "c8e092de9306153b",
+    "by": "ai"
+  },
+  "g4-listen-pick-016": {
+    "status": "approved",
+    "hash": "7d86cfa6b6952ace",
+    "by": "ai"
+  },
+  "g4-listen-pick-017": {
+    "status": "approved",
+    "hash": "2681668b35e01629",
+    "by": "ai"
+  },
+  "g4-listen-pick-018": {
+    "status": "approved",
+    "hash": "77a223b4451f5e53",
+    "by": "ai"
+  },
+  "g4-listen-pick-019": {
+    "status": "approved",
+    "hash": "586272cc44af8a5d",
+    "by": "ai"
+  },
+  "g4-listen-pick-020": {
+    "status": "approved",
+    "hash": "eb246b735d90400e",
+    "by": "ai"
+  },
+  "g4-listen-pick-021": {
+    "status": "approved",
+    "hash": "7689be593cd1048f",
+    "by": "ai"
+  },
+  "g4-listen-pick-022": {
+    "status": "approved",
+    "hash": "a11325514bb91aa2",
+    "by": "ai"
+  },
+  "g4-listen-pick-023": {
+    "status": "approved",
+    "hash": "af412bab28d6d5c7",
+    "by": "ai"
+  },
+  "g4-listen-pick-024": {
+    "status": "approved",
+    "hash": "360c34f16ffc2969",
+    "by": "ai"
+  },
+  "g4-listen-pick-025": {
+    "status": "approved",
+    "hash": "7320328e541a47f7",
+    "by": "ai"
+  },
+  "g4-listen-pick-026": {
+    "status": "approved",
+    "hash": "51b6d1787c8ffc62",
+    "by": "ai"
+  },
+  "g4-listen-pick-027": {
+    "status": "approved",
+    "hash": "0365ada626121b7a",
+    "by": "ai"
+  },
+  "g4-listen-pick-028": {
+    "status": "approved",
+    "hash": "5b0434177a004093",
+    "by": "ai"
+  },
+  "g4-listen-pick-029": {
+    "status": "approved",
+    "hash": "26c8f084230b6a94",
+    "by": "ai"
+  },
+  "g4-listen-pick-030": {
+    "status": "approved",
+    "hash": "1fae44078a6b763d",
+    "by": "ai"
+  },
+  "g4-listen-pick-031": {
+    "status": "approved",
+    "hash": "64e528be67c74281",
+    "by": "ai"
+  },
+  "g4-listen-pick-032": {
+    "status": "approved",
+    "hash": "8028a7407c3eb637",
+    "by": "ai"
+  },
+  "g4-listen-pick-033": {
+    "status": "approved",
+    "hash": "04247804c5620673",
+    "by": "ai"
+  },
+  "g4-listen-pick-034": {
+    "status": "approved",
+    "hash": "6220b013fce25171",
+    "by": "ai"
+  },
+  "g4-listen-pick-035": {
+    "status": "approved",
+    "hash": "eef443888913fd8d",
+    "by": "ai"
+  },
+  "g4-listen-pick-036": {
+    "status": "approved",
+    "hash": "97a458258f2fc87d",
+    "by": "ai"
+  },
+  "g4-listen-pick-037": {
+    "status": "approved",
+    "hash": "708946fb2303e319",
+    "by": "ai"
+  },
+  "g4-listen-pick-038": {
+    "status": "approved",
+    "hash": "9f6ac39bd2b1b2ca",
+    "by": "ai"
+  },
+  "g4-pick-picture-001": {
+    "status": "approved",
+    "hash": "cafd883ddf468ce9",
+    "by": "ai"
+  },
+  "g4-pick-picture-002": {
+    "status": "approved",
+    "hash": "dc8b79ac3345b576",
+    "by": "ai"
+  },
+  "g4-pick-picture-003": {
+    "status": "approved",
+    "hash": "ae8bc4a08140df2a",
+    "by": "ai"
+  },
+  "g4-pick-picture-004": {
+    "status": "approved",
+    "hash": "81578ec939733e17",
+    "by": "ai"
+  },
+  "g4-pick-picture-005": {
+    "status": "approved",
+    "hash": "3296007eca09c8a8",
+    "by": "ai"
+  },
+  "g4-pick-picture-006": {
+    "status": "approved",
+    "hash": "e76ed9d5ecbbda95",
+    "by": "ai"
+  },
+  "g4-pick-picture-007": {
+    "status": "approved",
+    "hash": "3a2c5785d1010573",
+    "by": "ai"
+  },
+  "g4-pick-picture-008": {
+    "status": "approved",
+    "hash": "65ecb865ddae5755",
+    "by": "ai"
+  },
+  "g4-pick-picture-009": {
+    "status": "approved",
+    "hash": "527c0d7e91cf70d6",
+    "by": "ai"
+  },
+  "g4-pick-picture-010": {
+    "status": "approved",
+    "hash": "586dded115776ce1",
+    "by": "ai"
+  },
+  "g4-pick-picture-011": {
+    "status": "approved",
+    "hash": "90eb74783ff2a669",
+    "by": "ai"
+  },
+  "g4-pick-picture-012": {
+    "status": "approved",
+    "hash": "71db0011f928ad94",
+    "by": "ai"
+  },
+  "g4-pick-picture-013": {
+    "status": "approved",
+    "hash": "c6507ada8bae2bf1",
+    "by": "ai"
+  },
+  "g4-pick-picture-014": {
+    "status": "approved",
+    "hash": "893a59b2e84696de",
+    "by": "ai"
+  },
+  "g4-pick-picture-015": {
+    "status": "approved",
+    "hash": "af10f53a0d1f402e",
+    "by": "ai"
+  },
+  "g4-pick-picture-016": {
+    "status": "approved",
+    "hash": "35fefce93b4aed91",
+    "by": "ai"
+  },
+  "g4-pick-picture-017": {
+    "status": "approved",
+    "hash": "00d115f05e8ebf90",
+    "by": "ai"
+  },
+  "g4-pick-picture-018": {
+    "status": "approved",
+    "hash": "b93dd85b6540c21c",
+    "by": "ai"
+  },
+  "g4-pick-picture-019": {
+    "status": "approved",
+    "hash": "93518146c63a003a",
+    "by": "ai"
+  },
+  "g4-pick-picture-020": {
+    "status": "approved",
+    "hash": "df423678fcffacd8",
+    "by": "ai"
+  },
+  "g4-pick-picture-021": {
+    "status": "approved",
+    "hash": "3cb923cd99dda51d",
+    "by": "ai"
+  },
+  "g4-pick-picture-022": {
+    "status": "approved",
+    "hash": "7919f8426ab297f0",
+    "by": "ai"
+  },
+  "g4-pick-picture-023": {
+    "status": "approved",
+    "hash": "5282cf1be5729756",
+    "by": "ai"
+  },
+  "g4-pick-picture-024": {
+    "status": "approved",
+    "hash": "6c6c0109eb9c692a",
+    "by": "ai"
+  },
+  "g4-pick-picture-025": {
+    "status": "approved",
+    "hash": "54c1b1c08b15cf9a",
+    "by": "ai"
+  },
+  "g4-pick-picture-026": {
+    "status": "approved",
+    "hash": "e42fb9299460661e",
+    "by": "ai"
+  },
+  "g4-pick-picture-027": {
+    "status": "approved",
+    "hash": "b55d9f1b5b534aa0",
+    "by": "ai"
+  },
+  "g4-pick-picture-028": {
+    "status": "approved",
+    "hash": "299f3ddc86d7f1ae",
+    "by": "ai"
+  },
+  "g4-pick-picture-029": {
+    "status": "approved",
+    "hash": "44fc312ca2e530e1",
+    "by": "ai"
+  },
+  "g4-pick-picture-030": {
+    "status": "approved",
+    "hash": "70d671fcd006a493",
+    "by": "ai"
+  },
+  "g4-pick-picture-031": {
+    "status": "approved",
+    "hash": "39f82f6e6dd50217",
+    "by": "ai"
+  },
+  "g4-pick-picture-032": {
+    "status": "approved",
+    "hash": "71e827f9048610b8",
+    "by": "ai"
+  },
+  "g4-pick-picture-033": {
+    "status": "approved",
+    "hash": "2060d6aeaa20a5e4",
+    "by": "ai"
+  },
+  "g4-pick-picture-034": {
+    "status": "approved",
+    "hash": "c5c58dc75350bd7b",
+    "by": "ai"
+  },
+  "g4-pick-picture-035": {
+    "status": "approved",
+    "hash": "323f10e69b863e2a",
+    "by": "ai"
+  },
+  "g4-pick-picture-036": {
+    "status": "approved",
+    "hash": "7d5716406f0fbc13",
+    "by": "ai"
+  },
+  "g4-pick-picture-037": {
+    "status": "approved",
+    "hash": "20836f81ac974d4f",
+    "by": "ai"
+  },
+  "g4-pick-picture-038": {
+    "status": "approved",
+    "hash": "53ae037fbbc8afa2",
+    "by": "ai"
+  },
+  "g4-pick-picture-039": {
+    "status": "approved",
+    "hash": "6b5895badd1e3754",
+    "by": "ai"
+  },
+  "g4-pick-picture-040": {
+    "status": "approved",
+    "hash": "8ccc92d61bea5d44",
+    "by": "ai"
+  },
+  "g4-pick-picture-041": {
+    "status": "approved",
+    "hash": "877f0b9cb775d03b",
+    "by": "ai"
+  },
+  "g4-pick-picture-042": {
+    "status": "approved",
+    "hash": "c8a58592e1bce9e7",
+    "by": "ai"
+  },
+  "g4-pick-picture-043": {
+    "status": "approved",
+    "hash": "1b9048f263ebb3b8",
+    "by": "ai"
+  },
+  "g4-pick-picture-044": {
+    "status": "approved",
+    "hash": "f1fa67d6894a80b4",
+    "by": "ai"
+  },
+  "g4-pick-picture-045": {
+    "status": "approved",
+    "hash": "559013837a6ae361",
+    "by": "ai"
+  },
+  "g4-pick-picture-046": {
+    "status": "approved",
+    "hash": "ad4eb593f5cb0816",
+    "by": "ai"
+  },
+  "g4-pick-picture-047": {
+    "status": "approved",
+    "hash": "639c758661b2bcbc",
+    "by": "ai"
+  },
+  "g4-pick-picture-048": {
+    "status": "approved",
+    "hash": "f2ca65b00bc8ebe0",
+    "by": "ai"
+  },
+  "g4-pick-picture-049": {
+    "status": "approved",
+    "hash": "a4d0de97fae1da23",
+    "by": "ai"
+  },
+  "g4-pick-picture-050": {
+    "status": "approved",
+    "hash": "bfdaf451ded73fb4",
+    "by": "ai"
+  },
+  "g4-pick-picture-051": {
+    "status": "approved",
+    "hash": "52ad89f6c551902d",
+    "by": "ai"
+  },
+  "g4-pick-picture-052": {
+    "status": "approved",
+    "hash": "e2b947709ffc5b6f",
+    "by": "ai"
+  },
+  "g4-pick-word-001": {
+    "status": "approved",
+    "hash": "d32fea28d8e47f3a",
+    "by": "ai"
+  },
+  "g4-pick-word-002": {
+    "status": "approved",
+    "hash": "40ae31f56f0126e8",
+    "by": "ai"
+  },
+  "g4-pick-word-003": {
+    "status": "approved",
+    "hash": "061c746a0e21cd27",
+    "by": "ai"
+  },
+  "g4-pick-word-004": {
+    "status": "approved",
+    "hash": "62cadb9b02c28c36",
+    "by": "ai"
+  },
+  "g4-pick-word-005": {
+    "status": "approved",
+    "hash": "54680533f48a0410",
+    "by": "ai"
+  },
+  "g4-pick-word-006": {
+    "status": "approved",
+    "hash": "94492b82e7de5482",
+    "by": "ai"
+  },
+  "g4-pick-word-007": {
+    "status": "approved",
+    "hash": "fc9ef56cac7144ea",
+    "by": "ai"
+  },
+  "g4-pick-word-008": {
+    "status": "approved",
+    "hash": "71b160ac7942f33e",
+    "by": "ai"
+  },
+  "g4-pick-word-009": {
+    "status": "approved",
+    "hash": "6aebd266fc3e6653",
+    "by": "ai"
+  },
+  "g4-pick-word-010": {
+    "status": "approved",
+    "hash": "ce28221e8670dcab",
+    "by": "ai"
+  },
+  "g4-pick-word-011": {
+    "status": "approved",
+    "hash": "3ccead027a3d9cd1",
+    "by": "ai"
+  },
+  "g4-pick-word-012": {
+    "status": "approved",
+    "hash": "b290f96a40805b00",
+    "by": "ai"
+  },
+  "g4-pick-word-013": {
+    "status": "approved",
+    "hash": "7cc28e0c8a925748",
+    "by": "ai"
+  },
+  "g4-pick-word-014": {
+    "status": "approved",
+    "hash": "ef11f1df0db23a6a",
+    "by": "ai"
+  },
+  "g4-pick-word-015": {
+    "status": "approved",
+    "hash": "07fbb61b28c3a133",
+    "by": "ai"
+  },
+  "g4-pick-word-016": {
+    "status": "approved",
+    "hash": "3809ca6eac00b627",
+    "by": "ai"
+  },
+  "g4-pick-word-017": {
+    "status": "approved",
+    "hash": "2519f16eb1461370",
+    "by": "ai"
+  },
+  "g4-pick-word-018": {
+    "status": "approved",
+    "hash": "aea3de952b22c274",
+    "by": "ai"
+  },
+  "g4-pick-word-019": {
+    "status": "approved",
+    "hash": "cee122e5fc8280ee",
+    "by": "ai"
+  },
+  "g4-pick-word-020": {
+    "status": "approved",
+    "hash": "92829f2adb1afeec",
+    "by": "ai"
+  },
+  "g4-pick-word-021": {
+    "status": "approved",
+    "hash": "96ee8fc331e39906",
+    "by": "ai"
+  },
+  "g4-pick-word-022": {
+    "status": "approved",
+    "hash": "e12fc6fed2f744d1",
+    "by": "ai"
+  },
+  "g4-pick-word-023": {
+    "status": "approved",
+    "hash": "18704afa25c8314b",
+    "by": "ai"
+  },
+  "g4-pick-word-024": {
+    "status": "approved",
+    "hash": "5a2119efb1a7e15c",
+    "by": "ai"
+  },
+  "g4-pick-word-025": {
+    "status": "approved",
+    "hash": "9afe6f6b52e8ecd1",
+    "by": "ai"
+  },
+  "g4-pick-word-026": {
+    "status": "approved",
+    "hash": "0828122741f01108",
+    "by": "ai"
+  },
+  "g4-pick-word-027": {
+    "status": "approved",
+    "hash": "b47bbae75aaa8ad2",
+    "by": "ai"
+  },
+  "g4-pick-word-028": {
+    "status": "approved",
+    "hash": "2a73cfcd7e69f66e",
+    "by": "ai"
+  },
+  "g4-pick-word-030": {
+    "status": "approved",
+    "hash": "f2ab91fc175e582f",
+    "by": "ai"
+  },
+  "g4-pick-word-031": {
+    "status": "approved",
+    "hash": "94be4a07fdb2ff6c",
+    "by": "ai"
+  },
+  "g4-pick-word-032": {
+    "status": "approved",
+    "hash": "ce3a822afeba26f8",
+    "by": "ai"
+  },
+  "g4-pick-word-033": {
+    "status": "approved",
+    "hash": "871f805f1d9412bc",
+    "by": "ai"
+  },
+  "g4-pick-word-034": {
+    "status": "approved",
+    "hash": "660c40fff3693c1d",
+    "by": "ai"
+  },
+  "g4-pick-word-035": {
+    "status": "approved",
+    "hash": "38c192b5eb120252",
+    "by": "ai"
+  },
+  "g4-pick-word-036": {
+    "status": "approved",
+    "hash": "5d10516689561825",
+    "by": "ai"
+  },
+  "g4-pick-word-037": {
+    "status": "approved",
+    "hash": "cd056559b10e1aed",
+    "by": "ai"
+  },
+  "g4-pick-word-038": {
+    "status": "approved",
+    "hash": "888d3c505b9e084a",
+    "by": "ai"
+  },
+  "g4-pick-word-039": {
+    "status": "approved",
+    "hash": "67c1ab2ab33afecf",
+    "by": "ai"
+  },
+  "g4-pick-word-040": {
+    "status": "approved",
+    "hash": "435c63f32a77f4cf",
+    "by": "ai"
+  },
+  "g4-pick-word-041": {
+    "status": "approved",
+    "hash": "4c7854656aa39c9d",
+    "by": "ai"
+  },
+  "g4-pick-word-042": {
+    "status": "approved",
+    "hash": "43d12662e8a1ca7d",
+    "by": "ai"
+  },
+  "g4-pick-word-043": {
+    "status": "approved",
+    "hash": "4a4e2db9296087ea",
+    "by": "ai"
+  },
+  "g4-pick-word-044": {
+    "status": "approved",
+    "hash": "ca211c180cd24f1b",
+    "by": "ai"
+  },
+  "g4-pick-word-045": {
+    "status": "approved",
+    "hash": "c8a1ba1764524758",
+    "by": "ai"
+  },
+  "g4-pick-word-046": {
+    "status": "approved",
+    "hash": "07b4f748c359698f",
+    "by": "ai"
+  },
+  "g4-pick-word-047": {
+    "status": "approved",
+    "hash": "48c1e4221357c716",
+    "by": "ai"
+  },
+  "g4-pick-word-048": {
+    "status": "approved",
+    "hash": "570d245135e5ff4a",
+    "by": "ai"
+  },
+  "g4-pick-word-049": {
+    "status": "approved",
+    "hash": "351acfd331b86c18",
+    "by": "ai"
+  },
+  "g4-pick-word-050": {
+    "status": "approved",
+    "hash": "2bfc177792c7f1fb",
+    "by": "ai"
+  },
+  "g4-pick-word-051": {
+    "status": "approved",
+    "hash": "e9c5ab503959d93a",
+    "by": "ai"
+  },
+  "g4-pick-word-052": {
+    "status": "approved",
+    "hash": "2be0d805eb2ffc20",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-001": {
+    "status": "approved",
+    "hash": "df71aebfd9bf83e6"
+  },
+  "g5-dialogue-choice-002": {
+    "status": "approved",
+    "hash": "da3cc5e7192034c7"
+  },
+  "g5-dialogue-choice-003": {
+    "status": "approved",
+    "hash": "f8045ef7e7c5142f"
+  },
+  "g5-dialogue-choice-004": {
+    "status": "approved",
+    "hash": "2a34b28ed7a8154b"
+  },
+  "g5-dialogue-choice-005": {
+    "status": "approved",
+    "hash": "9cc59162fd748df0"
+  },
+  "g5-dialogue-choice-006": {
+    "status": "approved",
+    "hash": "d7ecc6c44644b58e"
+  },
+  "g5-dialogue-choice-007": {
+    "status": "approved",
+    "hash": "1084b89bd3a7ce10"
+  },
+  "g5-dialogue-choice-008": {
+    "status": "approved",
+    "hash": "9f1bfc04d68d1dfb"
+  },
+  "g5-dialogue-choice-009": {
+    "status": "approved",
+    "hash": "76834a7bce6b49ea",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-010": {
+    "status": "approved",
+    "hash": "d0de06bccd16fed6",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-011": {
+    "status": "approved",
+    "hash": "73a7f6fc55440030",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-012": {
+    "status": "approved",
+    "hash": "c5dd36ea44576d4a",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-013": {
+    "status": "approved",
+    "hash": "7b6998e653900c47",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-014": {
+    "status": "approved",
+    "hash": "5679bc91c0db9b1c",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-015": {
+    "status": "approved",
+    "hash": "993ff7ca5736bfe8",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-017": {
+    "status": "approved",
+    "hash": "23995597094efcb5",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-018": {
+    "status": "approved",
+    "hash": "27470b26e258462e",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-019": {
+    "status": "approved",
+    "hash": "eb1d2bc6c61dd128",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-020": {
+    "status": "approved",
+    "hash": "f2a333d92d20aeec",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-021": {
+    "status": "approved",
+    "hash": "3ac9dfec00302b32",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-022": {
+    "status": "approved",
+    "hash": "ffceff1779b0bced",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-023": {
+    "status": "approved",
+    "hash": "e32b515287187ad3",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-024": {
+    "status": "approved",
+    "hash": "10171dbb40361cc6",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-025": {
+    "status": "approved",
+    "hash": "9c3325710b94d7e9",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-026": {
+    "status": "approved",
+    "hash": "18469710b43d1ad4",
+    "by": "ai"
+  },
+  "g5-dialogue-choice-028": {
+    "status": "approved",
+    "hash": "35c7f4609cf9b268",
+    "by": "ai"
+  },
+  "g5-letter-tiles-001": {
+    "status": "approved",
+    "hash": "0c1c38091a63c33d"
+  },
+  "g5-letter-tiles-002": {
+    "status": "approved",
+    "hash": "1c18c3ea8da9d9b2"
+  },
+  "g5-letter-tiles-003": {
+    "status": "approved",
+    "hash": "3b077397cd772768"
+  },
+  "g5-letter-tiles-004": {
+    "status": "approved",
+    "hash": "d834219a807af73e"
+  },
+  "g5-letter-tiles-005": {
+    "status": "approved",
+    "hash": "72201b138a0327bc"
+  },
+  "g5-letter-tiles-006": {
+    "status": "approved",
+    "hash": "c586ab84fa74bcb1"
+  },
+  "g5-letter-tiles-007": {
+    "status": "approved",
+    "hash": "2d9d6b4bcc9a2401"
+  },
+  "g5-letter-tiles-008": {
+    "status": "approved",
+    "hash": "161b261093e8b338"
+  },
+  "g5-letter-tiles-009": {
+    "status": "approved",
+    "hash": "cddd63ed52f333d7"
+  },
+  "g5-letter-tiles-010": {
+    "status": "approved",
+    "hash": "67987d9d7d9a2b6a"
+  },
+  "g5-letter-tiles-011": {
+    "status": "approved",
+    "hash": "8d7b6981262e81d8"
+  },
+  "g5-letter-tiles-012": {
+    "status": "approved",
+    "hash": "6941eb27c87746b7"
+  },
+  "g5-letter-tiles-013": {
+    "status": "approved",
+    "hash": "fb1debaa6e3986a1"
+  },
+  "g5-letter-tiles-014": {
+    "status": "approved",
+    "hash": "4abe4dca840c4cb1"
+  },
+  "g5-letter-tiles-015": {
+    "status": "approved",
+    "hash": "6b3139d54a0ca698"
+  },
+  "g5-letter-tiles-016": {
+    "status": "approved",
+    "hash": "66f1f7b7c27619a9"
+  },
+  "g5-letter-tiles-017": {
+    "status": "approved",
+    "hash": "94ff0ee0853edea6"
+  },
+  "g5-letter-tiles-018": {
+    "status": "approved",
+    "hash": "5b8f9b3f88b3134d"
+  },
+  "g5-letter-tiles-019": {
+    "status": "approved",
+    "hash": "480aa9e0b89397e9"
+  },
+  "g5-letter-tiles-020": {
+    "status": "approved",
+    "hash": "846b8f5a01513e7b"
+  },
+  "g5-letter-tiles-021": {
+    "status": "approved",
+    "hash": "f4ffbdf899efaab5"
+  },
+  "g5-letter-tiles-022": {
+    "status": "approved",
+    "hash": "31005ae40eb39d31"
+  },
+  "g5-letter-tiles-023": {
+    "status": "approved",
+    "hash": "f354413489556451"
+  },
+  "g5-letter-tiles-024": {
+    "status": "approved",
+    "hash": "7fc5a81de3e9da81"
+  },
+  "g5-letter-tiles-025": {
+    "status": "approved",
+    "hash": "9aa6582ad3fbb027"
+  },
+  "g5-letter-tiles-026": {
+    "status": "approved",
+    "hash": "22a65f784eada4dd"
+  },
+  "g5-letter-tiles-027": {
+    "status": "approved",
+    "hash": "853e4b7a18ec6aeb"
+  },
+  "g5-letter-tiles-028": {
+    "status": "approved",
+    "hash": "0e46e04195bf3e18",
+    "by": "ai"
+  },
+  "g5-letter-tiles-030": {
+    "status": "approved",
+    "hash": "09e6ce7a3e916010",
+    "by": "ai"
+  },
+  "g5-letter-tiles-031": {
+    "status": "approved",
+    "hash": "5287287eb90dc437",
+    "by": "ai"
+  },
+  "g5-letter-tiles-032": {
+    "status": "approved",
+    "hash": "74f8caad8e7f4511",
+    "by": "ai"
+  },
+  "g5-letter-tiles-033": {
+    "status": "approved",
+    "hash": "88a22a62c8b5dc7e",
+    "by": "ai"
+  },
+  "g5-letter-tiles-034": {
+    "status": "approved",
+    "hash": "441c1ee8c8b5d0c9",
+    "by": "ai"
+  },
+  "g5-letter-tiles-035": {
+    "status": "approved",
+    "hash": "87d286868e6ad197",
+    "by": "ai"
+  },
+  "g5-letter-tiles-036": {
+    "status": "approved",
+    "hash": "cb864d0121e19909",
+    "by": "ai"
+  },
+  "g5-letter-tiles-037": {
+    "status": "approved",
+    "hash": "10a312fdf1d7857f",
+    "by": "ai"
+  },
+  "g5-letter-tiles-038": {
+    "status": "approved",
+    "hash": "9db31dfa3cd34803",
+    "by": "ai"
+  },
+  "g5-letter-tiles-039": {
+    "status": "approved",
+    "hash": "652f81419a927ed8",
+    "by": "ai"
+  },
+  "g5-letter-tiles-040": {
+    "status": "approved",
+    "hash": "d334b1aeef7f84f2",
+    "by": "ai"
+  },
+  "g5-letter-tiles-041": {
+    "status": "approved",
+    "hash": "4516d2e9346a39b1",
+    "by": "ai"
+  },
+  "g5-letter-tiles-042": {
+    "status": "approved",
+    "hash": "c640b5e29f050717",
+    "by": "ai"
+  },
+  "g5-letter-tiles-043": {
+    "status": "approved",
+    "hash": "7b72c1295c839a88",
+    "by": "ai"
+  },
+  "g5-letter-tiles-044": {
+    "status": "approved",
+    "hash": "6deb9df3cd240e6f",
+    "by": "ai"
+  },
+  "g5-letter-tiles-045": {
+    "status": "approved",
+    "hash": "77fc08a1e20422ac",
+    "by": "ai"
+  },
+  "g5-letter-tiles-046": {
+    "status": "approved",
+    "hash": "d5522104ec001cda",
+    "by": "ai"
+  },
+  "g5-letter-tiles-047": {
+    "status": "approved",
+    "hash": "ff077d6749753219",
+    "by": "ai"
+  },
+  "g5-listen-pick-001": {
+    "status": "approved",
+    "hash": "b97cb5b8f8eb5acf"
+  },
+  "g5-listen-pick-002": {
+    "status": "approved",
+    "hash": "22f726e06a37153f"
+  },
+  "g5-listen-pick-003": {
+    "status": "approved",
+    "hash": "6a9874e7f820ea28"
+  },
+  "g5-listen-pick-004": {
+    "status": "approved",
+    "hash": "65b0fc2eff67b74b"
+  },
+  "g5-listen-pick-005": {
+    "status": "approved",
+    "hash": "477687fd547b8941"
+  },
+  "g5-listen-pick-006": {
+    "status": "approved",
+    "hash": "03be1fcfe7eb9f14"
+  },
+  "g5-listen-pick-007": {
+    "status": "approved",
+    "hash": "c25fd1f27763a881"
+  },
+  "g5-listen-pick-008": {
+    "status": "approved",
+    "hash": "df664145ff3c3843"
+  },
+  "g5-listen-pick-009": {
+    "status": "approved",
+    "hash": "5f9c3bfd4027f2de"
+  },
+  "g5-listen-pick-010": {
+    "status": "approved",
+    "hash": "bc2b7e84c2ead02d"
+  },
+  "g5-listen-pick-011": {
+    "status": "approved",
+    "hash": "f9b3a2f9a821077b"
+  },
+  "g5-listen-pick-012": {
+    "status": "approved",
+    "hash": "88973568453da387"
+  },
+  "g5-listen-pick-013": {
+    "status": "approved",
+    "hash": "00a1e483da68c215"
+  },
+  "g5-listen-pick-014": {
+    "status": "approved",
+    "hash": "96aeded7d6bf3521"
+  },
+  "g5-listen-pick-015": {
+    "status": "approved",
+    "hash": "5695db866c23169c"
+  },
+  "g5-listen-pick-016": {
+    "status": "approved",
+    "hash": "a735c23618dda456"
+  },
+  "g5-listen-pick-017": {
+    "status": "approved",
+    "hash": "fbd3a9d5dde29ddb"
+  },
+  "g5-listen-pick-018": {
+    "status": "approved",
+    "hash": "a1c53a16a23d61e4"
+  },
+  "g5-listen-pick-019": {
+    "status": "approved",
+    "hash": "97e9096c1cff64cf"
+  },
+  "g5-listen-pick-020": {
+    "status": "approved",
+    "hash": "11daee75d27bc31a"
+  },
+  "g5-listen-pick-021": {
+    "status": "approved",
+    "hash": "454fce71f3752146"
+  },
+  "g5-listen-pick-022": {
+    "status": "approved",
+    "hash": "7b3d70d56538e255"
+  },
+  "g5-listen-pick-023": {
+    "status": "approved",
+    "hash": "387804fa6087a0e8"
+  },
+  "g5-listen-pick-024": {
+    "status": "approved",
+    "hash": "a164de34a9e6c5a0"
+  },
+  "g5-listen-pick-025": {
+    "status": "approved",
+    "hash": "830bd419ec9994b2"
+  },
+  "g5-listen-pick-026": {
+    "status": "approved",
+    "hash": "a36c2636450a16a3"
+  },
+  "g5-listen-pick-027": {
+    "status": "approved",
+    "hash": "3793ea68c3afe5e8"
+  },
+  "g5-listen-pick-028": {
+    "status": "approved",
+    "hash": "13b174c502c48a33",
+    "by": "ai"
+  },
+  "g5-listen-pick-029": {
+    "status": "approved",
+    "hash": "5d45290b4faf4c23",
+    "by": "ai"
+  },
+  "g5-listen-pick-032": {
+    "status": "approved",
+    "hash": "0d3d2b6b8638986e",
+    "by": "ai"
+  },
+  "g5-listen-pick-033": {
+    "status": "approved",
+    "hash": "35e35bf3112020b9",
+    "by": "ai"
+  },
+  "g5-listen-pick-034": {
+    "status": "approved",
+    "hash": "a564304d17176f0e",
+    "by": "ai"
+  },
+  "g5-listen-pick-035": {
+    "status": "approved",
+    "hash": "4b550ae9e376b1eb",
+    "by": "ai"
+  },
+  "g5-listen-pick-036": {
+    "status": "approved",
+    "hash": "abcfe3f94431883f",
+    "by": "ai"
+  },
+  "g5-listen-pick-038": {
+    "status": "approved",
+    "hash": "7baa8b400b3b43fb",
+    "by": "ai"
+  },
+  "g5-listen-pick-039": {
+    "status": "approved",
+    "hash": "c213abf7f81a34b2",
+    "by": "ai"
+  },
+  "g5-listen-pick-040": {
+    "status": "approved",
+    "hash": "2ac2fafb01d49770",
+    "by": "ai"
+  },
+  "g5-listen-pick-041": {
+    "status": "approved",
+    "hash": "a2f345a14e834c6c",
+    "by": "ai"
+  },
+  "g5-listen-pick-043": {
+    "status": "approved",
+    "hash": "2507ebf7d98d3705",
+    "by": "ai"
+  },
+  "g5-listen-pick-044": {
+    "status": "approved",
+    "hash": "7013c437bef356a4",
+    "by": "ai"
+  },
+  "g5-listen-pick-046": {
+    "status": "approved",
+    "hash": "f01bc6e375eb51b9",
+    "by": "ai"
+  },
+  "g5-listen-pick-047": {
+    "status": "approved",
+    "hash": "6f87e147159668a7",
+    "by": "ai"
+  },
+  "g5-listen-pick-049": {
+    "status": "approved",
+    "hash": "bb349f4626530ce3",
+    "by": "ai"
+  },
+  "g5-listen-pick-050": {
+    "status": "approved",
+    "hash": "5bc9a011fdf72c46",
+    "by": "ai"
+  },
   "g5-pick-picture-001": {
     "status": "approved",
     "hash": "3456e28b4c92648e"
@@ -159,221 +1742,95 @@
     "status": "approved",
     "hash": "6e8330a8072fd298"
   },
-  "g5-listen-pick-001": {
+  "g5-pick-picture-041": {
     "status": "approved",
-    "hash": "b97cb5b8f8eb5acf"
+    "hash": "e215f26c6bb326e4",
+    "by": "ai"
   },
-  "g5-listen-pick-002": {
+  "g5-pick-picture-043": {
     "status": "approved",
-    "hash": "22f726e06a37153f"
+    "hash": "407301d8c05ccab5",
+    "by": "ai"
   },
-  "g5-listen-pick-003": {
+  "g5-pick-picture-044": {
     "status": "approved",
-    "hash": "6a9874e7f820ea28"
+    "hash": "f98d4993d4913506",
+    "by": "ai"
   },
-  "g5-listen-pick-004": {
+  "g5-pick-picture-045": {
     "status": "approved",
-    "hash": "65b0fc2eff67b74b"
+    "hash": "a483c70e0b1dd609",
+    "by": "ai"
   },
-  "g5-listen-pick-005": {
+  "g5-pick-picture-046": {
     "status": "approved",
-    "hash": "477687fd547b8941"
+    "hash": "8182c64ff1ddf5ca",
+    "by": "ai"
   },
-  "g5-listen-pick-006": {
+  "g5-pick-picture-047": {
     "status": "approved",
-    "hash": "03be1fcfe7eb9f14"
+    "hash": "19740fd472ef86e0",
+    "by": "ai"
   },
-  "g5-listen-pick-007": {
+  "g5-pick-picture-048": {
     "status": "approved",
-    "hash": "c25fd1f27763a881"
+    "hash": "2db62bf4f909c994",
+    "by": "ai"
   },
-  "g5-listen-pick-008": {
+  "g5-pick-picture-049": {
     "status": "approved",
-    "hash": "df664145ff3c3843"
+    "hash": "8fb3897ed25842fe",
+    "by": "ai"
   },
-  "g5-listen-pick-009": {
+  "g5-pick-picture-051": {
     "status": "approved",
-    "hash": "5f9c3bfd4027f2de"
+    "hash": "8f7c635e058a2b1f",
+    "by": "ai"
   },
-  "g5-listen-pick-010": {
+  "g5-pick-picture-052": {
     "status": "approved",
-    "hash": "bc2b7e84c2ead02d"
+    "hash": "d9e4dc333f07b34b",
+    "by": "ai"
   },
-  "g5-listen-pick-011": {
+  "g5-pick-picture-053": {
     "status": "approved",
-    "hash": "f9b3a2f9a821077b"
+    "hash": "196e267cbf3fc457",
+    "by": "ai"
   },
-  "g5-listen-pick-012": {
+  "g5-pick-picture-054": {
     "status": "approved",
-    "hash": "88973568453da387"
+    "hash": "1596d86bae4f21b4",
+    "by": "ai"
   },
-  "g5-listen-pick-013": {
+  "g5-pick-picture-055": {
     "status": "approved",
-    "hash": "00a1e483da68c215"
+    "hash": "e75d89e0f17a3ffe",
+    "by": "ai"
   },
-  "g5-listen-pick-014": {
+  "g5-pick-picture-056": {
     "status": "approved",
-    "hash": "96aeded7d6bf3521"
+    "hash": "ecca112d6f518989",
+    "by": "ai"
   },
-  "g5-listen-pick-015": {
+  "g5-pick-picture-057": {
     "status": "approved",
-    "hash": "5695db866c23169c"
+    "hash": "1d3c89e1aea1968f",
+    "by": "ai"
   },
-  "g5-listen-pick-016": {
+  "g5-pick-picture-058": {
     "status": "approved",
-    "hash": "a735c23618dda456"
+    "hash": "2483faedd04e3198",
+    "by": "ai"
   },
-  "g5-listen-pick-017": {
+  "g5-pick-picture-059": {
     "status": "approved",
-    "hash": "fbd3a9d5dde29ddb"
+    "hash": "f18748f69a6f0eab",
+    "by": "ai"
   },
-  "g5-listen-pick-018": {
+  "g5-pick-picture-060": {
     "status": "approved",
-    "hash": "a1c53a16a23d61e4"
-  },
-  "g5-listen-pick-019": {
-    "status": "approved",
-    "hash": "97e9096c1cff64cf"
-  },
-  "g5-listen-pick-020": {
-    "status": "approved",
-    "hash": "11daee75d27bc31a"
-  },
-  "g5-listen-pick-021": {
-    "status": "approved",
-    "hash": "454fce71f3752146"
-  },
-  "g5-listen-pick-022": {
-    "status": "approved",
-    "hash": "7b3d70d56538e255"
-  },
-  "g5-listen-pick-023": {
-    "status": "approved",
-    "hash": "387804fa6087a0e8"
-  },
-  "g5-listen-pick-024": {
-    "status": "approved",
-    "hash": "a164de34a9e6c5a0"
-  },
-  "g5-listen-pick-025": {
-    "status": "approved",
-    "hash": "830bd419ec9994b2"
-  },
-  "g5-listen-pick-026": {
-    "status": "approved",
-    "hash": "a36c2636450a16a3"
-  },
-  "g5-listen-pick-027": {
-    "status": "approved",
-    "hash": "3793ea68c3afe5e8"
-  },
-  "g5-letter-tiles-001": {
-    "status": "approved",
-    "hash": "0c1c38091a63c33d"
-  },
-  "g5-letter-tiles-002": {
-    "status": "approved",
-    "hash": "1c18c3ea8da9d9b2"
-  },
-  "g5-letter-tiles-003": {
-    "status": "approved",
-    "hash": "3b077397cd772768"
-  },
-  "g5-letter-tiles-004": {
-    "status": "approved",
-    "hash": "d834219a807af73e"
-  },
-  "g5-letter-tiles-005": {
-    "status": "approved",
-    "hash": "72201b138a0327bc"
-  },
-  "g5-letter-tiles-006": {
-    "status": "approved",
-    "hash": "c586ab84fa74bcb1"
-  },
-  "g5-letter-tiles-007": {
-    "status": "approved",
-    "hash": "2d9d6b4bcc9a2401"
-  },
-  "g5-letter-tiles-008": {
-    "status": "approved",
-    "hash": "161b261093e8b338"
-  },
-  "g5-letter-tiles-009": {
-    "status": "approved",
-    "hash": "cddd63ed52f333d7"
-  },
-  "g5-letter-tiles-010": {
-    "status": "approved",
-    "hash": "67987d9d7d9a2b6a"
-  },
-  "g5-letter-tiles-011": {
-    "status": "approved",
-    "hash": "8d7b6981262e81d8"
-  },
-  "g5-letter-tiles-012": {
-    "status": "approved",
-    "hash": "6941eb27c87746b7"
-  },
-  "g5-letter-tiles-013": {
-    "status": "approved",
-    "hash": "fb1debaa6e3986a1"
-  },
-  "g5-letter-tiles-014": {
-    "status": "approved",
-    "hash": "4abe4dca840c4cb1"
-  },
-  "g5-letter-tiles-015": {
-    "status": "approved",
-    "hash": "6b3139d54a0ca698"
-  },
-  "g5-letter-tiles-016": {
-    "status": "approved",
-    "hash": "66f1f7b7c27619a9"
-  },
-  "g5-letter-tiles-017": {
-    "status": "approved",
-    "hash": "94ff0ee0853edea6"
-  },
-  "g5-letter-tiles-018": {
-    "status": "approved",
-    "hash": "5b8f9b3f88b3134d"
-  },
-  "g5-letter-tiles-019": {
-    "status": "approved",
-    "hash": "480aa9e0b89397e9"
-  },
-  "g5-letter-tiles-020": {
-    "status": "approved",
-    "hash": "846b8f5a01513e7b"
-  },
-  "g5-letter-tiles-021": {
-    "status": "approved",
-    "hash": "f4ffbdf899efaab5"
-  },
-  "g5-letter-tiles-022": {
-    "status": "approved",
-    "hash": "31005ae40eb39d31"
-  },
-  "g5-letter-tiles-023": {
-    "status": "approved",
-    "hash": "f354413489556451"
-  },
-  "g5-letter-tiles-024": {
-    "status": "approved",
-    "hash": "7fc5a81de3e9da81"
-  },
-  "g5-letter-tiles-025": {
-    "status": "approved",
-    "hash": "9aa6582ad3fbb027"
-  },
-  "g5-letter-tiles-026": {
-    "status": "approved",
-    "hash": "22a65f784eada4dd"
-  },
-  "g5-letter-tiles-027": {
-    "status": "approved",
-    "hash": "853e4b7a18ec6aeb"
+    "hash": "1c75b40cde7c8044",
+    "by": "ai"
   },
   "g5-pick-word-001": {
     "status": "approved",
@@ -463,36 +1920,89 @@
     "status": "approved",
     "hash": "821696feb6000e86"
   },
-  "g5-dialogue-choice-001": {
+  "g5-pick-word-023": {
     "status": "approved",
-    "hash": "df71aebfd9bf83e6"
+    "hash": "bf40302c3c89bddd",
+    "by": "ai"
   },
-  "g5-dialogue-choice-002": {
+  "g5-pick-word-024": {
     "status": "approved",
-    "hash": "da3cc5e7192034c7"
+    "hash": "64cefe88bc5be8d9",
+    "by": "ai"
   },
-  "g5-dialogue-choice-003": {
+  "g5-pick-word-025": {
     "status": "approved",
-    "hash": "f8045ef7e7c5142f"
+    "hash": "fa1a8a28abe22604",
+    "by": "ai"
   },
-  "g5-dialogue-choice-004": {
+  "g5-pick-word-026": {
     "status": "approved",
-    "hash": "2a34b28ed7a8154b"
+    "hash": "c017163226aabc96",
+    "by": "ai"
   },
-  "g5-dialogue-choice-005": {
+  "g5-pick-word-027": {
     "status": "approved",
-    "hash": "9cc59162fd748df0"
+    "hash": "8bc329e83be15a2b",
+    "by": "ai"
   },
-  "g5-dialogue-choice-006": {
+  "g5-pick-word-028": {
     "status": "approved",
-    "hash": "d7ecc6c44644b58e"
+    "hash": "859f3deb4521725d",
+    "by": "ai"
   },
-  "g5-dialogue-choice-007": {
+  "g5-pick-word-030": {
     "status": "approved",
-    "hash": "1084b89bd3a7ce10"
+    "hash": "7af3e10d032b9c43",
+    "by": "ai"
   },
-  "g5-dialogue-choice-008": {
+  "g5-pick-word-031": {
     "status": "approved",
-    "hash": "9f1bfc04d68d1dfb"
+    "hash": "43b4f8c6ecfd5a07",
+    "by": "ai"
+  },
+  "g5-pick-word-032": {
+    "status": "approved",
+    "hash": "2da868a34ef3a4f1",
+    "by": "ai"
+  },
+  "g5-pick-word-033": {
+    "status": "approved",
+    "hash": "c2646b81973e0f65",
+    "by": "ai"
+  },
+  "g5-pick-word-034": {
+    "status": "approved",
+    "hash": "e4098aa5ff0ac222",
+    "by": "ai"
+  },
+  "g5-pick-word-035": {
+    "status": "approved",
+    "hash": "a072abda7b055442",
+    "by": "ai"
+  },
+  "g5-pick-word-036": {
+    "status": "approved",
+    "hash": "04850904b7cf0828",
+    "by": "ai"
+  },
+  "g5-pick-word-037": {
+    "status": "approved",
+    "hash": "d5704384c1e3daa3",
+    "by": "ai"
+  },
+  "g5-pick-word-038": {
+    "status": "approved",
+    "hash": "c1c78a490df62615",
+    "by": "ai"
+  },
+  "g5-pick-word-039": {
+    "status": "approved",
+    "hash": "18c07da118351dbe",
+    "by": "ai"
+  },
+  "g5-pick-word-040": {
+    "status": "approved",
+    "hash": "5ef7df98033f95b5",
+    "by": "ai"
   }
 }
