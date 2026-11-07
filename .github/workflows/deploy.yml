@@ -41,7 +41,16 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Test
-        run: npm test
+        shell: bash
+        run: |
+          set +e
+          npm test 2>&1 | tee test.log
+          code=${PIPESTATUS[0]}
+          if [ "$code" -ne 0 ]; then
+            # Surface the failing lines as annotations so they are readable without opening the raw log.
+            grep -nE "FAIL|Error|timed out|Unhandled|✗|×" test.log | head -25 | while IFS= read -r line; do echo "::error::${line:0:400}"; done
+          fi
+          exit "$code"
       - name: Build
         run: npm run build
       - name: Setup Pages
